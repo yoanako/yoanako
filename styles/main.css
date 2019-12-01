@@ -86,7 +86,8 @@ header h1 span {
 .sub-menu {
   display: none;
   position: absolute;
-  /*width: 120px;*/
+  width: 320px;
+  margin-left: -20px;
 }
 
 .sub-menu li {
@@ -304,7 +305,7 @@ header h1 span {
 
 /* icons */
 .icons {
-    margin: 50px 0 50px 0;
+    margin: 30px 0 50px 0;
  } 
 
 .icons li {
@@ -319,8 +320,14 @@ header h1 span {
   }
 
 .icons li img {
-  width: 44px;
-  height: 44px;
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+  margin: -5px 0px 0 0px;
+}
+
+.icons li:nth-child(2) {
+  margin: 0 0 0 20px;
 }
 
 /*
