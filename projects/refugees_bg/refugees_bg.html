@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="noindex">
+		<meta name="description" content="Yoana K Portfolio">
+		<meta name="author" content="Yoana Kosturska">
+
+		<title>Refugees in Bulgaria</title>
+		<!-- external -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!-- Styles -->
+		<link rel="stylesheet" type="text/css" href="../../styles/reset.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/main.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/projects.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/colors.css">
+		<link rel="stylesheet" type="text/css" href="css/refugees_bg_vis.css">
+	</head>
+	<body>
+		<header class="fixed">
+			<!-- put a container and give it padding and float left -->
+			<div id="header-wrapper">
+				<h1>
+				<a href="../../index.html">Yoana Kosturska <span>Portfolio</span>
+			</a>
+			</h1>
+			<!-- navigation -->
+			<nav>
+				<ul id="primary-nav">
+					<li id="projects-dropdown"><i class="fa fa-angle-down"></i>
+						<a href="projects.html">Projects</a>
+						<ul class="sub-menu">
+							<li>
+								<a href="../job_automation/job_automation.html">Job Automation</a>
+							</li>
+							<li>
+								<a href="../refugees_bg/refugees_bg.html">Refugees in Bulgaria</a>
+							</li>
+							<li>
+								<a href="../euro_diseases/euro_diseases.html">Diseases in Europe</a>
+							</li>
+							<li>
+								<a href="../life_europe/life_europe.html">Life in Europe</a>
+							</li>
+							<li>
+								<a href="../alzheimer/alzheimer.html">Alzheimer</a>
+							</li>
+							<li>
+								<a href="../refugees_deaths/refugees_deaths.html">Refugees Deaths</a>
+							</li>
+						</ul>
+					</li>
+					<li><a href="../../about.html">About</a></li>
+					<!-- <li><a href="../../contact.html">Contact</a></li> -->
+			</ul>
+		</nav>
+</div>
+</header>
+<!-- Visualization -->
+<article>
+<section id="project-vis">
+	<h2 class="project-name">Refugees in Bulgaria</h2>
+	<ul class="tech">
+		<li>Python</li>
+		<li>Pandas</li>
+		<li>Matplotlib</li>
+		<li>JavaScript</li>
+		<li>D3.js</li>
+		<li>HTML5</li>
+		<li>CSS</li>
+	</ul>
+	<div id="visualization-wrapper">
+		<div id="visualization">
+			<div id="center">
+				<h2>Refugees in Bulgaria</h2>
+			</div>
+		</div>
+		<div id="table"></div>
+	</div>
+	
+	<div class="data-sources">
+		<p><span>Data Source: </span><a href="https://data.world/unhcr/33446f3f-077d-40f0-9a4f-f6b4fd580167" target="_blank">https://data.world/unhcr/33446f3f-077d-40f0-9a4f-f6b4fd580167</a></p>
+	</div>
+	<!-- Specifying some countries names/status -->
+	<p id="special_cases"><span>* China, Macao SAR</span> – officially the Macao Special Administrative Region of the People's Republic of China, is a Special Administrative Region, which maintains separate governing and economic systems from that of mainland China (<a href="https://en.wikipedia.org/wiki/Macau" target="_blank">Wikipedia</a>)<br>
+	<span>* Israel</span> - In May 2000 Israel became a WEOG full member, on a temporary basis (subject to renewal), in WEOG's headquarters in the US, thereby enabling it to put forward candidates for election to various UN General Assembly bodies. In 2004 Israel obtained a permanent renewal to its membership (<a href="https://www.un.org/depts/DGACM/RegionalGroups.shtml" target="_blank">United Nations Regional Groups of Member States</a>)<br>
+	<span>* Turkey</span> - Turkey, participates fully in both WEOG and Asian Group, but for electoral purposes is considered a member of WEOG only (<a href="https://www.un.org/depts/DGACM/RegionalGroups.shtml" target="_blank">United Nations Regional Groups of Member States</a>)<br>
+	<span>* Serbia and Kosovo (S/RES/1244 (1999))</span> – as per United Nations Security Council Resolution 1244, the region Kosovo and Metohija is a province of Serbia (<a href="https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1244" target="_blank">Wikipedia</a>)<br>
+	<span>*  Western Sahara</span> - Western Sahara has been on the United Nations list of Non-Self-Governing Territories since 1963 following the transmission of information on Spanish Sahara by Spain under Article 73 e of the Charter of the United Nations (<a href="https://www.un.org/dppa/decolonization/en/nsgt/western-sahara" target="_blank">United Nations</a>)<br>
+	<span>* State of Palestine</span> – the State of Palestine is a de jure sovereign state in Western Asia claiming the West Bank and Gaza Strip with East Jerusalem as the designated capital, although its administrative center is currently located in Ramallah (<a href="https://en.wikipedia.org/wiki/State_of_Palestine" target="_blank">Wikipedia</a>)</p>
+</section>
+
+<!-- Process -->
+<section class="process">
+	<h3>PROCESS</h3>
+	<h5>The Data</h5>
+	<p class="two-column-text">The European migrant crisis has been a hot topic since its start in 2015, and it has affected the Balkans and the countries surrounding the Mediterranean. For this project I wanted to explore the number of refugees that came to Bulgaria. I found a dataset that shows refugees and asylum seekers from 98 countries who came to Bulgaria between 1992 and 2017. </p>
+</section>
+<section class="process">
+	<h5>Data Analysis</h5>
+	<p class="two-column-text">
+	This is the first time I work with country data and I found it very challenging. I discovered that there are many exceptions in the way countries and territories are classified so I did some research and found the Unites Nations classification:  <a href="https://www.un.org/depts/DGACM/RegionalGroups.shtml" target="_blank">United Nations Regional Groups of Member States</a> that helped me organize the data. 
+	I created 6 different region groups, in which the countries fall according the United Nations Regional Groups of Member States as I immediately knew I would want to show the region of each country the refugees are coming from.</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_bg/ss_region_groups_func.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">After I created the region groups and added them as a column to the dataset, I ran some basic statistical analysis and explored different ways to visualize the data. I first created a bar chart that showed the number of refugees per year in order to analyze the general trend. As expected, the numbers peak at 2015 with the onset of the migrant crisis.
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_bg/ss_bar_value_per_year.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">I then created a stacked and grouped bar charts, showing the 4 types of refugees (Asylum-seekers, Refugees, Returned refugees, and Stateless persons) per year in order to analyze the type of migrants coming to Bulgaria.</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_bg/ss_grouped_value_per_year.png">
+		<img src="../../images/projects/refugees_bg/ss_stacked_value_per_year.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	I then wanted to look at the individual countries of origin and created a line chart. Unfortunately as we know some countries experiencing wars and severe conflict such as Syria, Afghanistan and Iran have seen the number of refugees greatly spike, which is clearly seen in the visualization. Their numbers are so much higher that the reminder of the countries are invisible.
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_bg/ss_ref_line.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	I still thought that the country of origin is very important so I did some research and discovered that I can represent the data in individual graphs. This resulted in the final visualization where I ordered the countries from most to least migrants, color coded them by region, and showed how the numbers changed over time in an individual line graph. Finally, I discovered that there are some countries that have migrants only in a single year and I could not show them on the graphs so I made a table at the bottom. <br><br> This visualization was very difficult to create but I was very happy with the final result and learned a lot from doing it. 
+	</p>
+</section>
+
+<section class="process">
+	<h3>What is next?</h3>
+	<p class="two-column-text">
+	Once I become more confident with programming I would like to add an additional visualization - a map that shows the flow of migrants from the countries of origins to the destinations. I would also like to include many more countries apart from Bulgaria and look at how many refugees each host country has agreed to accept. 
+	</p>
+</section>
+
+<!-- Footer of the project -->
+<div id="project-footer" class="process">
+	<ul class="icons">
+		<li>
+			<a href="#"><img src="../../images/github.png"></a>
+		</li>
+		<li>
+			<a href="#"><img src="../../images/jupyter.png"></a>
+		</li>
+	</ul>
+</div>
+</article>
+<!-- Projects Grid -->
+<nav id="projects">
+<h3>MY PROJECTS</h3>
+<div id="projects-wrapper">
+	
+	<a class="fill-div" href="../../projects/job_automation/job_automation.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_automation.png">
+			<h2 class="project-title">Job Automation</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	
+	<a class="fill-div" href="../../projects/refugees_bg/refugees_bg.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_bg.png">
+			<h2 class="project-title">Refugees in Bulgaria</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/euro_diseases/euro_diseases.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_euro_diseases.png">
+			<h2 class="project-title">Diseases in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/life_europe/life_europe.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_satisfaction.png">
+			<h2 class="project-title">Life in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, jQuery, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/alzheimer/alzheimer.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_alzheimer.png">
+			<h2 class="project-title">Alzheimer</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/refugees_deaths/refugees_deaths.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_deaths.png">
+			<h2 class="project-title">Refugees Deaths</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+</div>
+</nav>
+<!-- Return to Top -->
+<div>
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+</div>
+<!-- Footer -->
+<footer id="primary-footer">
+<span id="footer-left">Contact:
+	<a href = "mailto:yoana.kosturska@gmail.com"> yoana.kosturska@gmail.com</a>
+</span>
+<small id="copyright">&copy; 2019</small>
+</footer>
+<!-- jQuery scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../../js/main.js"></script>
+<!-- d3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.min.js" integrity="sha256-+9Mf3cAVmxxudDsr1XwXUeRZFtvdWVYdq5/vcgiYyNU=" crossorigin="anonymous"></script>
+<script src="js/refugees_bg_vis.js"></script>
+</body>
+</html>

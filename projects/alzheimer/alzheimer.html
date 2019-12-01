@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="noindex">
+		<meta name="description" content="Yoana K Portfolio">
+		<meta name="author" content="Yoana Kosturska">
+
+		<title>Alzheimer</title>
+		<!-- external -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!-- Styles -->
+		<link rel="stylesheet" type="text/css" href="../../styles/reset.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/main.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/projects.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/colors.css">
+		<link rel="stylesheet" type="text/css" href="css/alzheimer_vis.css">
+	</head>
+	<body>
+		<header class="fixed">
+			<!-- put a container and give it padding and float left -->
+			<div id="header-wrapper">
+				<h1>
+				<a href="../../index.html">Yoana Kosturska <span>Portfolio</span>
+			</a>
+			</h1>
+			<!-- navigation -->
+			<nav>
+				<ul id="primary-nav">
+					<li id="projects-dropdown"><i class="fa fa-angle-down"></i>
+						<a href="projects.html">Projects</a>
+						<ul class="sub-menu">
+							<li>
+								<a href="../job_automation/job_automation.html">Job Automation</a>
+							</li>
+							<li>
+								<a href="../refugees_bg/refugees_bg.html">Refugees in Bulgaria</a>
+							</li>
+							<li>
+								<a href="../euro_diseases/euro_diseases.html">Diseases in Europe</a>
+							</li>
+							<li>
+								<a href="../life_europe/life_europe.html">Life in Europe</a>
+							</li>
+							<li>
+								<a href="../alzheimer/alzheimer.html">Alzheimer</a>
+							</li>
+							<li>
+								<a href="../refugees_deaths/refugees_deaths.html">Refugees Deaths</a>
+							</li>
+						</ul>
+					</li>
+					<li><a href="../../about.html">About</a></li>
+					<!-- <li><a href="../../contact.html">Contact</a></li> -->
+			</ul>
+		</nav>
+</div>
+</header>
+<!-- Visualization -->
+<article>
+<section id="project-vis">
+	<h2 class="project-name">Alzheimer Clinical Trials</h2>
+	<ul class="tech">
+		<li>Python</li>
+		<li>Pandas</li>
+		<li>Matplotlib</li>
+		<li>NumPy</li>
+		<li>JavaScript</li>
+		<li>D3.js</li>
+		<li>HTML5</li>
+		<li>CSS</li>
+	</ul>
+	<!-- 	<button>Python</button>
+	<button>D3.js</button>
+	<button>CSS</button>
+	<button>HTML</button>
+	<button>JavaScript</button> -->
+	<div id="visualization-wrapper">
+		<div id="visualization"></div>
+		
+	</div>
+	
+	<div class="data-sources">
+		<p><span>Data Source: </span><a href="https://clinicaltrials.gov/" target="_blank">https://clinicaltrials.gov/</a></p>
+	</div>
+</section>
+<!-- Process -->
+<section class="process">
+	<h3>PROCESS</h3>
+	<h5>The Data</h5>
+	<p class="two-column-text">
+	This is the latest project I started working on as it contained the most complex data and the visualization was rather challenging. One of the things I was hoping to do as I started learning programming is to visualize clinical trials data. Since I worked at IQVIA as an associate site manager, collecting data from patients as well as doctors, nurses, and research directors, it was a very important goal of mine to be able to learn how to analyze and visualize these types of data. 
+
+	The data for the Alzheimer Clinical Trials project contains 2207 Clinical Trials for patients suffering from Alzheimer's Disease. It provides data for the studies unique NCT Number, Title, Status, Study Type, Start and End dates, as well as information about the amount of patients enrolled. 
+
+	I chose the Alzheimer disease because I recently read a book by David Perlmutter, a famous neurologist, called Grain Brain: The Surprising Truth about Wheat, Carbs, and Sugar--Your Brain's Silent Killers, in which he argues gluten sensitivity can be a culprit for the onset of Alzheimer. Interestingly enough I did find in the dataset a clinical trial studying the effects of diet on Alzheimer.
+	</p>
+</section>
+<section class="process">
+	<h5>Data Analysis</h5>
+	<p class="two-column-text">I began the data analysis by cleaning the dataset – removing the data that will not provide much clarity or useful information regarding the Alzheimer's Disease clinical trials.  
+	I then wanted to group the data by the age group of the recruited participants. This involved manipulating the string containing the age description to extract the numerical values.</p>
+	<div class="process-img">
+		<img src="../../images/projects/alzheimer/ss_cleaning_age_string.png">
+		<img src="../../images/projects/alzheimer/ss_cleaning_age_string_cont.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	Finally, I added an additional column to the dataset that contains the cleaned age group for each study. In cases where the trial did not specify a minimum or maximum age recruitment criteria, the trial was added to a special 'age not specified' group. 
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/alzheimer/ss_creating_age_groups.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	I then plotted the age groups against the number of enrolled patients. The x axis presents the age groups, and the y axis – the total enrollment. 
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/alzheimer/ss_enrollment_per_group.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	In addition, I explored the distribution of Interventional vs Observational studies. I have split this in two different pie charts, showing respectively the percentage of all studies and the percentage of all enrolled study subjects. Although more than 80% of the Clinical Trials are Interventional, the enrollment in them is 21%. This is caused by the limitations of Interventional studies, in which the inclusion and exclusion criteria are far more specific than in Observational studies and the recruitment protocol much more complex. Also Interventional Clinical Trials in general are completed in shorter periods of time because they usually involve the testing of a new drug or equipment while Observational studies follow the long term effects of already available interventions or the disease itself.  
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/alzheimer/ss_pie_amount_of_studies.png">
+		<img src="../../images/projects/alzheimer/ss_pie_patients_enrolled.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">I have also explored the possibility to visualize the data as a grouped bar chart, showing the study status on the x axis, the total enrollment on the y axis, and the study type as the grouped bars. This allows to confirm that more patients complete the Interventional studies than the Observational ones, which is often caused by the length of the later ones, and the 'lost-to-follow-up' rate. However, the Observational studies outnumber the Interventional ones in the Recruiting group, due to the longer length of the recruitment stage of the Observational studies.</p>
+	<div class="process-img">
+		<img src="../../images/projects/alzheimer/ss_grouped_bar_study_status.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	Although the above visualizations are informative they fail to show the big picture. After doing some research I decided to use D3's circle packing visualization to show how the studies break down into the different age groups, then into study status, and finally what the individual studies are.
+	</p>
+</section>
+<section class="process">
+	<h5>Data Preparation</h5>
+	<p class="two-column-text">
+	One of the more challenging aspects of working with this dataset was the sheer number of rows and columns. I needed to go through multiple steps in order to clean the language and remove or mutate the columns. In addition this was a prime example of a dataset which Excel falls short with – one could hardly learn much from it without the power of Python and Pandas.
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/alzheimer/ss_clean_df.png">
+	</div>
+</section>
+
+<section class="process">
+	<h3>What More?</h3>
+	<p class="two-column-text">
+		This project was a proof of concept to me as I still have a lot to learn before I can truly visualize such difficult and rich datasets. I can imagine that to make it useful it would have to extend far beyond one visualization but I am hopeful that as I get better with programming and analysis I would be able to make more advanced visualizations and interfaces. 
+	</p>
+</section>
+
+<!-- Footer of the project -->
+<div id="project-footer" class="process">
+	<ul class="icons">
+		<li>
+			<a href="#"><img src="../../images/github.png"></a>
+		</li>
+		<li>
+			<a href="#"><img src="../../images/jupyter.png"></a>
+		</li>
+	</ul>
+</div>
+</article>
+<!-- Projects Grid -->
+<nav id="projects">
+<h3>MY PROJECTS</h3>
+<div id="projects-wrapper">
+	
+	<a class="fill-div" href="../../projects/job_automation/job_automation.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_automation.png">
+			<h2 class="project-title">Job Automation</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	
+	<a class="fill-div" href="../../projects/refugees_bg/refugees_bg.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_bg.png">
+			<h2 class="project-title">Refugees in Bulgaria</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/euro_diseases/euro_diseases.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_euro_diseases.png">
+			<h2 class="project-title">Diseases in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/life_europe/life_europe.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_satisfaction.png">
+			<h2 class="project-title">Life in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, jQuery, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/alzheimer/alzheimer.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_alzheimer.png">
+			<h2 class="project-title">Alzheimer</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/refugees_deaths/refugees_deaths.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_deaths.png">
+			<h2 class="project-title">Refugees Deaths</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+</div>
+</nav>
+<!-- Return to Top -->
+<div>
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+</div>
+<!-- Footer -->
+<footer id="primary-footer">
+<span id="footer-left">Contact:
+	<a href = "mailto:yoana.kosturska@gmail.com"> yoana.kosturska@gmail.com</a>
+</span>
+<small id="copyright">&copy; 2019</small>
+</footer>
+<!-- jQuery scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../../js/main.js"></script>
+<!-- d3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.min.js" integrity="sha256-+9Mf3cAVmxxudDsr1XwXUeRZFtvdWVYdq5/vcgiYyNU=" crossorigin="anonymous"></script>
+<script src="js/alzheimer_vis.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+
+#visualization {
+	background-color: #eef1f3;
+	width: 100%;
+	padding: 25px 0 50px 0;
+}
+
+#visualization svg {
+	display: block;
+	margin: auto;
+	max-width: 72%;
+}
+
+.dot:hover {
+	stroke: #fff;
+	stroke-width: 1.5px;
+}
+
+

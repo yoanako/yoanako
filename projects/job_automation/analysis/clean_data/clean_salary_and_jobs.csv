@@ -1,0 +1,667 @@
+job_soc_code,probability,occupation,annual_mean,sum_people,risk_groups
+11-1011,0.015,Chief Executives,200140,223270,Low Risk
+11-1021,0.16,General and Operations Managers,123880,2188870,Low Risk
+11-2011,0.039,Advertising and Promotions Managers,133090,28080,Low Risk
+11-2021,0.014,Marketing Managers,147240,205900,Low Risk
+11-2022,0.013,Sales Managers,140320,365250,Low Risk
+11-2031,0.015,Public Relations and Fundraising Managers,131570,63950,Low Risk
+11-3011,0.73,Administrative Services Managers,106050,266270,High Risk
+11-3021,0.035,Computer and Information Systems Managers,152860,352540,Low Risk
+11-3031,0.069,Financial Managers,146830,543290,Low Risk
+11-3051,0.03,Industrial Production Managers,113370,168410,Low Risk
+11-3061,0.03,Purchasing Managers,125630,70270,Low Risk
+11-3071,0.59,Transportation; Storage; and Distribution Managers,102850,113260,Medium Risk
+11-3111,0.96,Compensation and Benefits Managers,132860,15100,High Risk
+11-3121,0.006,Human Resources Managers,126700,129820,Low Risk
+11-3131,0.006,Training and Development Managers,121730,32850,Low Risk
+11-9013,0.047,Farmers; Ranchers; and Other Agricultural Managers,79940,4080,Low Risk
+11-9021,0.071,Construction Managers,103110,249690,Low Risk
+11-9031,0.015,Education Administrators; Preschool and Childcare Center/Program,53990,48190,Low Risk
+11-9032,0.005,Education Administrators; Elementary and Secondary School,98750,243000,Low Risk
+11-9033,0.01,Education Administrators; Postsecondary,111210,121460,Low Risk
+11-9041,0.017,Architectural and Engineering Managers,148970,177540,Low Risk
+11-9051,0.083,Food Service Managers,58960,187960,Low Risk
+11-9071,0.091,Gaming Managers,85260,3860,Low Risk
+11-9081,0.004,Lodging Managers,62270,35390,Low Risk
+11-9111,0.007,Medical and Health Services Managers,113730,332140,Low Risk
+11-9121,0.018,Natural Sciences Managers,139680,53500,Low Risk
+11-9131,0.75,Postmasters and Mail Superintendents,77040,14760,High Risk
+11-9141,0.81,Property; Real Estate; and Community Association Managers,71730,180270,High Risk
+11-9151,0.007,Social and Community Service Managers,71670,126230,Low Risk
+11-9161,0.003,Emergency Management Directors,82570,9540,Low Risk
+11-9199,0.25,Managers; All Other,115590,350380,Low Risk
+13-1011,0.24,Agents and Business Managers of Artists; Performers; and Athletes,90930,12930,Low Risk
+13-1031,0.98,Claims Adjusters; Examiners; and Investigators,67540,265010,High Risk
+13-1032,0.98,Insurance Appraisers; Auto Damage,65510,10790,High Risk
+13-1041,0.08,Compliance Officers,72520,266710,Low Risk
+13-1051,0.57,Cost Estimators,69710,214590,Medium Risk
+13-1074,0.97,Farm Labor Contractors,52930,350,High Risk
+13-1081,0.012,Logisticians,78730,144320,Low Risk
+13-1111,0.13,Management Analysts,94390,619430,Low Risk
+13-1121,0.037,Meeting; Convention; and Event Planners,53730,92910,Low Risk
+13-1141,0.47,Compensation; Benefits; and Job Analysis Specialists,67910,79200,Medium Risk
+13-1151,0.014,Training and Development Specialists,65120,268770,Low Risk
+13-1161,0.61,Market Research Analysts and Marketing Specialists,70960,547820,Medium Risk
+13-1199,0.23,Business Operations Specialists; All Other,76960,958660,Low Risk
+13-2011,0.94,Accountants and Auditors,78820,1246530,High Risk
+13-2021,0.9,Appraisers and Assessors of Real Estate,61870,60500,High Risk
+13-2031,0.94,Budget Analysts,79830,52450,High Risk
+13-2041,0.98,Credit Analysts,82300,67750,High Risk
+13-2051,0.23,Financial Analysts,100990,271960,Low Risk
+13-2052,0.58,Personal Financial Advisors,121770,201120,Medium Risk
+13-2053,0.99,Insurance Underwriters,76880,90310,High Risk
+13-2061,0.17,Financial Examiners,90310,47650,Low Risk
+13-2071,0.04,Credit Counselors,49820,27140,Low Risk
+13-2072,0.98,Loan Officers,76270,296800,High Risk
+13-2081,0.93,Tax Examiners and Collectors; and Revenue Agents,60500,57930,High Risk
+13-2082,0.99,Tax Preparers,46860,63600,High Risk
+13-2099,0.33,Financial Specialists; All Other,77580,120170,Medium Risk
+15-1111,0.015,Computer and Information Research Scientists,123850,24750,Low Risk
+15-1121,0.006,Computer Systems Analysts,93610,568930,Low Risk
+15-1131,0.48,Computer Programmers,89580,271230,Medium Risk
+15-1132,0.042,Software Developers; Applications,108080,793960,Low Risk
+15-1133,0.13,Software Developers; Systems Software,114000,408130,Low Risk
+15-1141,0.03,Database Administrators,92030,113730,Low Risk
+15-1142,0.03,Network and Computer Systems Administrators,87070,376820,Low Risk
+15-1150,0.65,Computer Support Specialists,57950,0,Medium Risk
+15-2011,0.21,Actuaries,116250,19550,Low Risk
+15-2021,0.047,Mathematicians,104870,2210,Low Risk
+15-2031,0.035,Operations Research Analysts,88350,108400,Low Risk
+15-2041,0.22,Statisticians,92600,33330,Low Risk
+17-1011,0.018,Architects; Except Landscape and Naval,88860,99870,Low Risk
+17-1012,0.045,Landscape Architects,73160,19050,Low Risk
+17-1021,0.88,Cartographers and Photogrammetrists,68340,11940,High Risk
+17-1022,0.38,Surveyors,66440,43300,Medium Risk
+17-2011,0.017,Aerospace Engineers,117100,58500,Low Risk
+17-2021,0.49,Agricultural Engineers,79090,1410,Medium Risk
+17-2031,0.037,Biomedical Engineers,95090,20360,Low Risk
+17-2041,0.017,Chemical Engineers,114470,31760,Low Risk
+17-2051,0.019,Civil Engineers,93720,287800,Low Risk
+17-2061,0.22,Computer Hardware Engineers,117840,67110,Low Risk
+17-2071,0.1,Electrical Engineers,101600,183780,Low Risk
+17-2072,0.025,Electronics Engineers; Except Computer,107930,129060,Low Risk
+17-2081,0.018,Environmental Engineers,92640,52300,Low Risk
+17-2111,0.028,Health and Safety Engineers; Except Mining Safety Engineers and Inspectors,93630,25390,Low Risk
+17-2112,0.029,Industrial Engineers,91630,256560,Low Risk
+17-2121,0.01,Marine Engineers and Naval Architects,98970,7220,Low Risk
+17-2131,0.021,Materials Engineers,96930,24370,Low Risk
+17-2141,0.011,Mechanical Engineers,92800,285840,Low Risk
+17-2151,0.14,Mining and Geological Engineers; Including Mining Safety Engineers,98420,6450,Low Risk
+17-2161,0.07,Nuclear Engineers,110790,13790,Low Risk
+17-2171,0.16,Petroleum Engineers,156370,31510,Low Risk
+17-2199,0.014,Engineers; All Other,99410,123290,Low Risk
+17-3011,0.52,Architectural and Civil Drafters,56700,96780,Medium Risk
+17-3012,0.81,Electrical and Electronics Drafters,64400,26750,High Risk
+17-3013,0.68,Mechanical Drafters,59010,63620,Medium Risk
+17-3021,0.48,Aerospace Engineering and Operations Technicians,68970,8470,Medium Risk
+17-3022,0.75,Civil Engineering Technicians,54670,72160,High Risk
+17-3023,0.84,Electrical and Electronics Engineering Technicians,65050,130530,High Risk
+17-3024,0.81,Electro-Mechanical Technicians,60240,12730,High Risk
+17-3025,0.25,Environmental Engineering Technicians,54800,16500,Low Risk
+17-3026,0.03,Industrial Engineering Technicians,58860,60810,Low Risk
+17-3027,0.38,Mechanical Engineering Technicians,58240,45360,Medium Risk
+17-3029,0.24,Engineering Technicians; Except Drafters; All Other,65720,73590,Low Risk
+17-3031,0.96,Surveying and Mapping Technicians,47690,50320,High Risk
+19-1011,0.061,Animal Scientists,67690,2090,Low Risk
+19-1012,0.077,Food Scientists and Technologists,72570,12430,Low Risk
+19-1013,0.021,Soil and Plant Scientists,70630,14510,Low Risk
+19-1021,0.027,Biochemists and Biophysicists,105940,22840,Low Risk
+19-1022,0.012,Microbiologists,81150,19620,Low Risk
+19-1023,0.3,Zoologists and Wildlife Biologists,67760,17220,Medium Risk
+19-1029,0.015,Biological Scientists; All Other,83600,34870,Low Risk
+19-1031,0.016,Conservation Scientists,65320,20470,Low Risk
+19-1032,0.008,Foresters,63150,7920,Low Risk
+19-1041,0.2,Epidemiologists,75690,5080,Low Risk
+19-1042,0.004,Medical Scientists; Except Epidemiologists,96420,108710,Low Risk
+19-2011,0.041,Astronomers,111090,770,Low Risk
+19-2012,0.1,Physicists,125280,16350,Low Risk
+19-2021,0.67,Atmospheric and Space Scientists,95580,8960,Medium Risk
+19-2031,0.1,Chemists,83850,84580,Low Risk
+19-2032,0.021,Materials Scientists,102450,6830,Low Risk
+19-2041,0.033,Environmental Scientists and Specialists; Including Health,77580,84220,Low Risk
+19-2042,0.63,Geoscientists; Except Hydrologists and Geographers,107800,30240,Medium Risk
+19-2043,0.014,Hydrologists,82790,5990,Low Risk
+19-2099,0.43,Physical Scientists; All Other,110090,18320,Medium Risk
+19-3011,0.43,Economists,116020,17840,Medium Risk
+19-3022,0.23,Survey Researchers,63240,11330,Low Risk
+19-3031,0.005,Clinical; Counseling; and School Psychologists,85340,108000,Low Risk
+19-3032,0.012,Industrial-Organizational Psychologists,109030,560,Low Risk
+19-3039,0.004,Psychologists; All Other,95610,12800,Low Risk
+19-3041,0.059,Sociologists,90290,2650,Low Risk
+19-3051,0.13,Urban and Regional Planners,76240,34810,Low Risk
+19-3091,0.008,Anthropologists and Archeologists,65310,5860,Low Risk
+19-3092,0.25,Geographers,80530,770,Low Risk
+19-3093,0.44,Historians,66380,2190,Medium Risk
+19-3094,0.039,Political Scientists,115300,5960,Low Risk
+19-3099,0.04,Social Scientists and Related Workers; All Other,85750,35640,Low Risk
+19-4011,0.97,Agricultural and Food Science Technicians,44170,20190,High Risk
+19-4021,0.3,Biological Technicians,48060,74250,Medium Risk
+19-4031,0.57,Chemical Technicians,51670,65500,Medium Risk
+19-4041,0.91,Geological and Petroleum Technicians,62890,14570,High Risk
+19-4051,0.85,Nuclear Technicians,79970,4490,High Risk
+19-4061,0.65,Social Science Research Assistants,50420,29760,Medium Risk
+19-4091,0.77,Environmental Science and Protection Technicians; Including Health,50350,32950,High Risk
+19-4092,0.01,Forensic Science Technicians,62490,14350,Low Risk
+19-4093,0.42,Forest and Conservation Technicians,40110,29300,Medium Risk
+19-4099,0.61,Life; Physical; and Social Science Technicians; All Other,52940,68200,Medium Risk
+21-1012,0.008,Educational; Guidance; School; and Vocational Counselors,60160,260700,Low Risk
+21-1013,0.014,Marriage and Family Therapists,54150,36180,Low Risk
+21-1015,0.009,Rehabilitation Counselors,39930,103030,Low Risk
+21-1021,0.028,Child; Family; and School Social Workers,49760,298840,Low Risk
+21-1022,0.004,Healthcare Social Workers,58470,159340,Low Risk
+21-1023,0.003,Mental Health and Substance Abuse Social Workers,49630,111370,Low Risk
+21-1091,0.045,Health Educators,59660,57550,Low Risk
+21-1092,0.25,Probation Officers and Correctional Treatment Specialists,58790,84580,Low Risk
+21-1093,0.13,Social and Human Service Assistants,35830,360720,Low Risk
+21-2011,0.008,Clergy,53290,49100,Low Risk
+21-2021,0.025,Directors; Religious Activities and Education,46980,20330,Low Risk
+23-1011,0.035,Lawyers,144230,619560,Low Risk
+23-1012,0.41,Judicial Law Clerks,59540,9470,Medium Risk
+23-1021,0.64,Administrative Law Judges; Adjudicators; and Hearing Officers,101210,13950,Medium Risk
+23-1022,0.06,Arbitrators; Mediators; and Conciliators,72760,5380,Low Risk
+23-1023,0.4,Judges; Magistrate Judges; and Magistrates,121130,24720,Medium Risk
+23-2011,0.94,Paralegals and Legal Assistants,54500,266740,High Risk
+23-2091,0.5,Court Reporters,62390,15350,Medium Risk
+23-2093,0.99,Title Examiners; Abstractors; and Searchers,51380,51810,High Risk
+25-1000,0.032,Postsecondary Teachers,85190,0,Low Risk
+25-2011,0.007,Preschool Teachers; Except Special Education,34410,385570,Low Risk
+25-2012,0.15,Kindergarten Teachers; Except Special Education,58370,151280,Low Risk
+25-2021,0.004,Elementary School Teachers; Except Special Education,62200,1392670,Low Risk
+25-2022,0.17,Middle School Teachers; Except Special and Career/Technical Education,62030,626300,Low Risk
+25-2023,0.26,Career/Technical Education Teachers; Middle School,62570,11300,Low Risk
+25-2031,0.008,Secondary School Teachers; Except Special and Career/Technical Education,64340,1003230,Low Risk
+25-2032,0.009,Career/Technical Education Teachers; Secondary School,62810,79670,Low Risk
+25-2053,0.016,Special Education Teachers; Middle School,64390,89870,Low Risk
+25-2054,0.008,Special Education Teachers; Secondary School,65320,132460,Low Risk
+25-3011,0.19,Adult Basic and Secondary Education and Literacy Teachers and Instructors,58110,55900,Low Risk
+25-3021,0.13,Self-Enrichment Education Teachers,44960,224490,Low Risk
+25-4011,0.76,Archivists,56400,5400,High Risk
+25-4012,0.007,Curators,58490,11160,Low Risk
+25-4013,0.59,Museum Technicians and Conservators,46870,10790,Medium Risk
+25-4021,0.65,Librarians,61530,129310,Medium Risk
+25-4031,0.99,Library Technicians,36080,93400,High Risk
+25-9011,0.39,Audio-Visual and Multimedia Collections Specialists,52270,9960,Medium Risk
+25-9021,0.008,Farm and Home Management Advisors,52700,7250,Low Risk
+25-9031,0.004,Instructional Coordinators,67490,147310,Low Risk
+25-9041,0.56,Teacher Assistants,28750,1263800,Medium Risk
+27-1011,0.023,Art Directors,104590,36120,Low Risk
+27-1012,0.035,Craft Artists,40490,3920,Low Risk
+27-1013,0.042,Fine Artists; Including Painters; Sculptors; and Illustrators,58370,11210,Low Risk
+27-1014,0.015,Multimedia Artists and Animators,78230,29690,Low Risk
+27-1021,0.037,Commercial and Industrial Designers,71430,31500,Low Risk
+27-1022,0.021,Fashion Designers,87610,18710,Low Risk
+27-1023,0.047,Floral Designers,28900,44030,Low Risk
+27-1024,0.082,Graphic Designers,54680,210690,Low Risk
+27-1025,0.022,Interior Designers,59120,53140,Low Risk
+27-1026,0.48,Merchandise Displayers and Window Trimmers,31850,112090,Medium Risk
+27-1027,0.006,Set and Exhibit Designers,61020,11610,Low Risk
+27-2012,0.022,Producers and Directors,89840,114530,Low Risk
+27-2021,0.28,Athletes and Sports Competitors,87030,8470,Low Risk
+27-2022,0.013,Coaches and Scouts,43870,229250,Low Risk
+27-2023,0.98,Umpires; Referees; and Other Sports Officials,36440,17120,High Risk
+27-2032,0.004,Choreographers,53560,4110,Low Risk
+27-2041,0.015,Music Directors and Composers,59790,18090,Low Risk
+27-3011,0.1,Radio and Television Announcers,51630,29120,Low Risk
+27-3012,0.72,Public Address System and Other Announcers,39040,7110,High Risk
+27-3021,0.067,Broadcast News Analysts,91990,4460,Low Risk
+27-3022,0.11,Reporters and Correspondents,55530,40080,Low Risk
+27-3031,0.18,Public Relations Specialists,68440,226940,Low Risk
+27-3041,0.055,Editors,69480,97150,Low Risk
+27-3042,0.89,Technical Writers,75500,49760,High Risk
+27-3043,0.038,Writers and Authors,73090,44700,Low Risk
+27-3091,0.38,Interpreters and Translators,55230,49810,Medium Risk
+27-4011,0.55,Audio and Video Equipment Technicians,48940,69640,Medium Risk
+27-4012,0.74,Broadcast Technicians,46770,30310,High Risk
+27-4013,0.98,Radio Operators,44710,310,High Risk
+27-4014,0.13,Sound Engineering Technicians,63500,14030,Low Risk
+27-4021,0.021,Photographers,42770,48660,Low Risk
+27-4031,0.6,Camera Operators; Television; Video; and Motion Picture,61750,21660,Medium Risk
+27-4032,0.31,Film and Video Editors,86830,29570,Medium Risk
+29-1011,0.027,Chiropractors,85870,32950,Low Risk
+29-1021,0.004,Dentists; General,175840,105650,Low Risk
+29-1022,0.004,Oral and Maxillofacial Surgeons,242370,3450,Low Risk
+29-1023,0.023,Orthodontists,225760,3800,Low Risk
+29-1024,0.055,Prosthodontists,191400,0,Low Risk
+29-1031,0.004,Dietitians and Nutritionists,61210,61430,Low Risk
+29-1041,0.14,Optometrists,119980,36420,Low Risk
+29-1051,0.012,Pharmacists,123670,305520,Low Risk
+29-1060,0.004,Physicians and Surgeons,210980,0,Low Risk
+29-1071,0.14,Physician Assistants,108430,104100,Low Risk
+29-1081,0.005,Podiatrists,148220,9320,Low Risk
+29-1122,0.004,Occupational Therapists,85350,118060,Low Risk
+29-1123,0.021,Physical Therapists,88880,216950,Low Risk
+29-1124,0.34,Radiation Therapists,86730,17130,Medium Risk
+29-1125,0.003,Recreational Therapists,50640,18080,Low Risk
+29-1126,0.066,Respiratory Therapists,62500,126820,Low Risk
+29-1127,0.006,Speech-Language Pathologists,80700,136010,Low Risk
+29-1131,0.038,Veterinarians,105240,67650,Low Risk
+29-1181,0.003,Audiologists,82210,11830,Low Risk
+29-1199,0.02,Health Diagnosing and Treating Practitioners; All Other,85600,35980,Low Risk
+29-2021,0.68,Dental Hygienists,75500,204990,Medium Risk
+29-2031,0.23,Cardiovascular Technologists and Technicians,58730,53480,Low Risk
+29-2032,0.35,Diagnostic Medical Sonographers,73860,65790,Medium Risk
+29-2033,0.13,Nuclear Medicine Technologists,78870,19630,Low Risk
+29-2041,0.049,Emergency Medical Technicians and Paramedics,37760,241120,Low Risk
+29-2051,0.13,Dietetic Technicians,30130,32190,Low Risk
+29-2052,0.92,Pharmacy Technicians,34020,398410,High Risk
+29-2053,0.043,Psychiatric Technicians,37760,61140,Low Risk
+29-2054,0.1,Respiratory Therapy Technicians,51380,10150,Low Risk
+29-2055,0.34,Surgical Technologists,49040,105720,Medium Risk
+29-2056,0.029,Veterinary Technologists and Technicians,35560,99400,Low Risk
+29-2061,0.058,Licensed Practical and Licensed Vocational Nurses,47050,702380,Low Risk
+29-2071,0.91,Medical Records and Health Information Technicians,44010,200130,High Risk
+29-2081,0.71,Opticians; Dispensing,39930,75240,High Risk
+29-2091,0.004,Orthotists and Prosthetists,73860,6260,Low Risk
+29-9011,0.17,Occupational Health and Safety Specialists,74940,76640,Low Risk
+29-9012,0.25,Occupational Health and Safety Technicians,55270,16390,Low Risk
+29-9091,0.007,Athletic Trainers,49280,23960,Low Risk
+31-1011,0.39,Home Health Aides,25330,814290,Medium Risk
+31-1013,0.47,Psychiatric Aides,31090,65190,Medium Risk
+31-2011,0.028,Occupational Therapy Assistants,60410,38170,Low Risk
+31-2012,0.27,Occupational Therapy Aides,32580,6830,Low Risk
+31-2021,0.018,Physical Therapist Assistants,57750,85590,Low Risk
+31-2022,0.61,Physical Therapist Aides,28500,50010,Medium Risk
+31-9011,0.54,Massage Therapists,45880,95820,Medium Risk
+31-9091,0.51,Dental Assistants,39770,327270,Medium Risk
+31-9092,0.3,Medical Assistants,34540,623600,Medium Risk
+31-9093,0.78,Medical Equipment Preparers,37990,52520,High Risk
+31-9094,0.89,Medical Transcriptionists,36350,54100,High Risk
+31-9095,0.72,Pharmacy Aides,29190,35840,High Risk
+31-9096,0.86,Veterinary Assistants and Laboratory Animal Caretakers,28690,79790,High Risk
+33-1011,0.025,First-Line Supervisors of Correctional Officers,68350,40530,Low Risk
+33-1012,0.004,First-Line Supervisors of Police and Detectives,93100,95540,Low Risk
+33-1021,0.004,First-Line Supervisors of Fire Fighting and Prevention Workers,80310,56980,Low Risk
+33-2011,0.17,Firefighters,53240,315330,Low Risk
+33-2021,0.48,Fire Inspectors and Investigators,64140,11490,Medium Risk
+33-2022,0.048,Forest Fire Inspectors and Prevention Specialists,49610,1070,Low Risk
+33-3011,0.36,Bailiffs,49870,16510,Medium Risk
+33-3012,0.6,Correctional Officers and Jailers,49300,414520,Medium Risk
+33-3021,0.34,Detectives and Criminal Investigators,85020,105000,Medium Risk
+33-3031,0.08,Fish and Game Wardens,59260,5610,Low Risk
+33-3041,0.84,Parking Enforcement Workers,42200,8140,High Risk
+33-3051,0.098,Police and Sheriffﾒs Patrol Officers,65400,657690,Low Risk
+33-3052,0.57,Transit and Railroad Police,74450,3890,Medium Risk
+33-9011,0.21,Animal Control Workers,38490,12860,Low Risk
+33-9021,0.31,Private Detectives and Investigators,56810,25750,Medium Risk
+33-9031,0.95,Gaming Surveillance Officers and Gaming Investigators,36200,10150,High Risk
+33-9032,0.84,Security Guards,32050,1103150,High Risk
+33-9091,0.49,Crossing Guards,31970,72460,Medium Risk
+33-9092,0.67,Lifeguards; Ski Patrol; and Other Recreational Protective Service Workers,24420,138990,Medium Risk
+35-1011,0.1,Chefs and Head Cooks,52160,134150,Low Risk
+35-1012,0.63,First-Line Supervisors of Food Preparation and Serving Workers,36190,908590,Medium Risk
+35-2011,0.81,Cooks; Fast Food,22650,513200,High Risk
+35-2012,0.83,Cooks; Institution and Cafeteria,28290,409900,High Risk
+35-2013,0.3,Cooks; Private Household,41240,30,Medium Risk
+35-2014,0.96,Cooks; Restaurant,27580,1217360,High Risk
+35-2015,0.94,Cooks; Short Order,25140,183960,High Risk
+35-2021,0.87,Food Preparation Workers,24830,850660,High Risk
+35-3011,0.77,Bartenders,26780,603330,High Risk
+35-3021,0.92,Combined Food Preparation and Serving Workers; Including Fast Food,22140,3426090,High Risk
+35-3022,0.96,Counter Attendants; Cafeteria; Food Concession; and Coffee Shop,23240,499510,High Risk
+35-3031,0.94,Waiters and Waitresses,25830,2564620,High Risk
+35-3041,0.86,Food Servers; Nonrestaurant,24980,261530,High Risk
+35-9011,0.91,Dining Room and Cafeteria Attendants and Bartender Helpers,23950,423070,High Risk
+35-9021,0.77,Dishwashers,23190,506490,High Risk
+35-9031,0.97,Hosts and Hostesses; Restaurant; Lounge; and Coffee Shop,23260,404380,High Risk
+37-1011,0.94,First-Line Supervisors of Housekeeping and Janitorial Workers,43150,161120,High Risk
+37-1012,0.57,First-Line Supervisors of Landscaping; Lawn Service; and Groundskeeping Workers,51280,102940,Medium Risk
+37-2011,0.66,Janitors and Cleaners; Except Maids and Housekeeping Cleaners,28950,2161710,Medium Risk
+37-2012,0.69,Maids and Housekeeping Cleaners,25570,924640,Medium Risk
+37-2021,0.66,Pest Control Workers,37950,72790,Medium Risk
+37-3011,0.95,Landscaping and Groundskeeping Workers,30940,906620,High Risk
+37-3012,0.97,Pesticide Handlers; Sprayers; and Applicators; Vegetation,38210,24310,High Risk
+37-3013,0.77,Tree Trimmers and Pruners,40510,36930,High Risk
+39-1021,0.076,First-Line Supervisors of Personal Service Workers,41710,190450,Low Risk
+39-2011,0.1,Animal Trainers,35260,13240,Low Risk
+39-2021,0.82,Nonfarm Animal Caretakers,25890,186670,High Risk
+39-3011,0.96,Gaming Dealers,23070,83170,High Risk
+39-3012,0.91,Gaming and Sports Book Writers and Runners,27640,9240,High Risk
+39-3021,0.97,Motion Picture Projectionists,25820,4810,High Risk
+39-3031,0.96,Ushers; Lobby Attendants; and Ticket Takers,23610,116850,High Risk
+39-3091,0.72,Amusement and Recreation Attendants,23460,286730,High Risk
+39-3092,0.61,Costume Attendants,46010,5520,Medium Risk
+39-3093,0.43,Locker Room; Coatroom; and Dressing Room Attendants,26720,17870,Medium Risk
+39-4011,0.54,Embalmers,46640,3070,Medium Risk
+39-4021,0.37,Funeral Attendants,28480,35560,Medium Risk
+39-5011,0.8,Barbers,33220,10050,High Risk
+39-5012,0.11,Hairdressers; Hairstylists; and Cosmetologists,30190,352360,Low Risk
+39-5091,0.01,Makeup Artists; Theatrical and Performance,72030,3180,Low Risk
+39-5092,0.95,Manicurists and Pedicurists,25860,88360,High Risk
+39-5093,0.79,Shampooers,22160,14390,High Risk
+39-5094,0.29,Skincare Specialists,36350,43510,Low Risk
+39-6011,0.83,Baggage Porters and Bellhops,26990,44410,High Risk
+39-6012,0.21,Concierges,33550,31650,Low Risk
+39-9011,0.084,Childcare Workers,24610,569380,Low Risk
+39-9021,0.74,Personal Care Aides,25090,1492220,High Risk
+39-9031,0.085,Fitness Trainers and Aerobics Instructors,44580,257370,Low Risk
+39-9032,0.006,Recreation Workers,28310,336910,Low Risk
+39-9041,0.064,Residential Advisors,29970,110330,Low Risk
+41-1011,0.28,First-Line Supervisors of Retail Sales Workers,45080,1194270,Low Risk
+41-1012,0.075,First-Line Supervisors of Non-Retail Sales Workers,84600,252640,Low Risk
+41-2011,0.97,Cashiers,23240,3540980,High Risk
+41-2012,0.83,Gaming Change Persons and Booth Cashiers,27220,19940,High Risk
+41-2021,0.97,Counter and Rental Clerks,31200,450320,High Risk
+41-2022,0.98,Parts Salespersons,34080,248730,High Risk
+41-2031,0.92,Retail Salespersons,28310,4528570,High Risk
+41-3011,0.54,Advertising Sales Agents,63360,141120,Medium Risk
+41-3021,0.92,Insurance Sales Agents,67890,385720,High Risk
+41-3031,0.016,Securities; Commodities; and Financial Services Sales Agents,98770,353770,Low Risk
+41-3041,0.099,Travel Agents,42720,68690,Low Risk
+41-4011,0.25,Sales Representatives; Wholesale and Manufacturing; Technical and Scientific Products,91830,328410,Low Risk
+41-4012,0.85,Sales Representatives; Wholesale and Manufacturing; Except Technical and Scientific Products,69480,1404070,High Risk
+41-9011,0.51,Demonstrators and Product Promoters,33260,85020,Medium Risk
+41-9012,0.98,Models,31570,2810,High Risk
+41-9021,0.97,Real Estate Brokers,78940,40630,High Risk
+41-9022,0.86,Real Estate Sales Agents,61720,151710,High Risk
+41-9031,0.004,Sales Engineers,108610,73930,Low Risk
+41-9041,0.99,Telemarketers,28550,214570,High Risk
+41-9091,0.94,Door-to-Door Sales Workers; News and Street Vendors; and Related Workers,34120,5340,High Risk
+43-1011,0.014,First-Line Supervisors of Office and Administrative Support Workers,59340,1443130,Low Risk
+43-2011,0.96,Switchboard Operators; Including Answering Service,31290,90880,High Risk
+43-2021,0.97,Telephone Operators,39360,5710,High Risk
+43-3011,0.95,Bill and Account Collectors,38220,298960,High Risk
+43-3021,0.96,Billing and Posting Clerks,39520,485200,High Risk
+43-3031,0.98,Bookkeeping; Accounting; and Auditing Clerks,42110,1566970,High Risk
+43-3041,0.39,Gaming Cage Workers,28980,17430,Medium Risk
+43-3051,0.97,Payroll and Timekeeping Clerks,46110,159640,High Risk
+43-3061,0.98,Procurement Clerks,43180,72100,High Risk
+43-3071,0.98,Tellers,30140,496710,High Risk
+43-4011,0.98,Brokerage Clerks,53940,59540,High Risk
+43-4021,0.86,Correspondence Clerks,38990,6530,High Risk
+43-4031,0.46,Court; Municipal; and License Clerks,41100,128310,Medium Risk
+43-4041,0.97,Credit Authorizers; Checkers; and Clerks,40670,34390,High Risk
+43-4051,0.55,Customer Service Representatives,36470,2707030,Medium Risk
+43-4061,0.7,Eligibility Interviewers; Government Programs,46480,135960,High Risk
+43-4071,0.97,File Clerks,33810,130710,High Risk
+43-4081,0.94,Hotel; Motel; and Resort Desk Clerks,25130,248450,High Risk
+43-4111,0.94,Interviewers; Except Eligibility and Loan,35520,186060,High Risk
+43-4121,0.95,Library Assistants; Clerical,28960,98540,High Risk
+43-4131,0.92,Loan Interviewers and Clerks,41310,224360,High Risk
+43-4141,0.99,New Accounts Clerks,37000,41430,High Risk
+43-4151,0.98,Order Clerks,35790,176860,High Risk
+43-4161,0.9,Human Resources Assistants; Except Payroll and Timekeeping,41620,137120,High Risk
+43-4171,0.96,Receptionists and Information Clerks,30350,997760,High Risk
+43-4181,0.61,Reservation and Transportation Ticket Agents and Travel Clerks,41730,135780,Medium Risk
+43-5011,0.99,Cargo and Freight Agents,46070,88910,High Risk
+43-5021,0.94,Couriers and Messengers,30620,73810,High Risk
+43-5031,0.49,Police; Fire; and Ambulance Dispatchers,43290,95160,Medium Risk
+43-5032,0.96,Dispatchers; Except Police; Fire; and Ambulance,42940,197890,High Risk
+43-5041,0.85,Meter Readers; Utilities,44640,31720,High Risk
+43-5051,0.95,Postal Service Clerks,50860,82010,High Risk
+43-5052,0.68,Postal Service Mail Carriers,51780,329030,Medium Risk
+43-5053,0.79,Postal Service Mail Sorters; Processors; and Processing Machine Operators,51250,110820,High Risk
+43-5061,0.88,Production; Planning; and Expediting Clerks,50020,321810,High Risk
+43-5071,0.98,Shipping; Receiving; and Traffic Clerks,34980,677020,High Risk
+43-5081,0.64,Stock Clerks and Order Fillers,28520,2016320,Medium Risk
+43-5111,0.95,Weighers; Measurers; Checkers; and Samplers; Recordkeeping,34100,74490,High Risk
+43-6011,0.86,Executive Secretaries and Executive Administrative Assistants,61550,631580,High Risk
+43-6012,0.98,Legal Secretaries,50040,191200,High Risk
+43-6013,0.81,Medical Secretaries,37090,556800,High Risk
+43-6014,0.96,Secretaries and Administrative Assistants; Except Legal; Medical; and Executive,38030,2295480,High Risk
+43-9011,0.78,Computer Operators,46750,46600,High Risk
+43-9021,0.99,Data Entry Keyers,33740,193890,High Risk
+43-9022,0.81,Word Processors and Typists,41160,66320,High Risk
+43-9031,0.16,Desktop Publishers,46750,12820,Low Risk
+43-9041,0.98,Insurance Claims and Policy Processing Clerks,42150,274350,High Risk
+43-9051,0.94,Mail Clerks and Mail Machine Operators; Except Postal Service,32040,91550,High Risk
+43-9061,0.96,Office Clerks; General,35200,2955560,High Risk
+43-9071,0.92,Office Machine Operators; Except Computer,34530,57640,High Risk
+43-9081,0.84,Proofreaders and Copy Markers,41950,9480,High Risk
+43-9111,0.66,Statistical Assistants,50110,10090,Medium Risk
+45-1011,0.57,First-Line Supervisors of Farming; Fishing; and Forestry Workers,50790,19410,Medium Risk
+45-2011,0.94,Agricultural Inspectors,45970,13710,High Risk
+45-2021,0.95,Animal Breeders,43080,530,High Risk
+45-2041,0.41,Graders and Sorters; Agricultural Products,26510,36950,Medium Risk
+45-2090,0.87,Miscellaneous Agricultural Workers,27290,0,High Risk
+45-4011,0.87,Forest and Conservation Workers,31320,5870,High Risk
+45-4021,0.76,Fallers,48520,3810,High Risk
+45-4022,0.79,Logging Equipment Operators,41840,26720,High Risk
+45-4023,0.97,Log Graders and Scalers,39060,2670,High Risk
+47-1011,0.17,First-Line Supervisors of Construction Trades and Extraction Workers,70540,538220,Low Risk
+47-2011,0.68,Boilermakers,63240,15100,Medium Risk
+47-2021,0.82,Brickmasons and Blockmasons,54430,64170,High Risk
+47-2022,0.89,Stonemasons,44370,11190,High Risk
+47-2031,0.72,Carpenters,51120,676950,High Risk
+47-2041,0.87,Carpet Installers,44550,24540,High Risk
+47-2042,0.79,Floor Layers; Except Carpet; Wood; and Hard Tiles,46760,9110,High Risk
+47-2043,0.87,Floor Sanders and Finishers,39890,3490,High Risk
+47-2044,0.75,Tile and Marble Setters,45950,36690,High Risk
+47-2051,0.94,Cement Masons and Concrete Finishers,47350,173910,High Risk
+47-2053,0.88,Terrazzo Workers and Finishers,47230,1750,High Risk
+47-2061,0.88,Construction Laborers,40350,912090,High Risk
+47-2071,0.83,Paving; Surfacing; and Tamping Equipment Operators,44360,51600,High Risk
+47-2072,0.82,Pile-Driver Operators,64360,2970,High Risk
+47-2073,0.95,Operating Engineers and Other Construction Equipment Operators,53030,356750,High Risk
+47-2081,0.79,Drywall and Ceiling Tile Installers,49170,91890,High Risk
+47-2082,0.62,Tapers,57340,17960,Medium Risk
+47-2111,0.15,Electricians,59190,607110,Low Risk
+47-2121,0.73,Glaziers,48620,46790,High Risk
+47-2131,0.83,Insulation Workers; Floor; Ceiling; and Wall,42070,28880,High Risk
+47-2132,0.64,Insulation Workers; Mechanical,53180,25610,Medium Risk
+47-2141,0.75,Painters; Construction and Maintenance,43050,217290,High Risk
+47-2142,0.87,Paperhangers,40840,1810,High Risk
+47-2151,0.62,Pipelayers,43500,39320,Medium Risk
+47-2152,0.35,Plumbers; Pipefitters; and Steamfitters,58150,411860,Medium Risk
+47-2161,0.84,Plasterers and Stucco Masons,47610,21100,High Risk
+47-2171,0.9,Reinforcing Iron and Rebar Workers,54670,19570,High Risk
+47-2181,0.9,Roofers,43870,116160,High Risk
+47-2211,0.82,Sheet Metal Workers,52710,134440,High Risk
+47-2221,0.83,Structural Iron and Steel Workers,58170,69300,High Risk
+47-3011,0.83,HelpersﾖBrickmasons; Blockmasons; Stonemasons; and Tile and Marble Setters,36390,23720,High Risk
+47-3012,0.92,HelpersﾖCarpenters,31850,35890,High Risk
+47-3013,0.74,HelpersﾖElectricians,32960,71830,High Risk
+47-3014,0.94,HelpersﾖPainters; Paperhangers; Plasterers; and Stucco Masons,31720,9160,High Risk
+47-3015,0.57,HelpersﾖPipelayers; Plumbers; Pipefitters; and Steamfitters,32570,53800,Medium Risk
+47-3016,0.72,HelpersﾖRoofers,31740,9300,High Risk
+47-4011,0.63,Construction and Building Inspectors,63150,94980,Medium Risk
+47-4021,0.39,Elevator Installers and Repairers,79370,21020,Medium Risk
+47-4031,0.92,Fence Erectors,37650,20030,High Risk
+47-4041,0.53,Hazardous Materials Removal Workers,47050,44100,Medium Risk
+47-4051,0.87,Highway Maintenance Workers,41440,143240,High Risk
+47-4061,0.89,Rail-Track Laying and Maintenance Equipment Operators,57120,12920,High Risk
+47-4071,0.83,Septic Tank Servicers and Sewer Pipe Cleaners,41530,25430,High Risk
+47-5011,0.8,Derrick Operators; Oil and Gas,47630,10790,High Risk
+47-5012,0.53,Rotary Drill Operators; Oil and Gas,56740,17100,Medium Risk
+47-5013,0.93,Service Unit Operators; Oil; Gas; and Mining,52780,42630,High Risk
+47-5021,0.85,Earth Drillers; Except Oil and Gas,47570,18240,High Risk
+47-5031,0.48,Explosives Workers; Ordnance Handling Experts; and Blasters,52780,4410,Medium Risk
+47-5041,0.54,Continuous Mining Machine Operators,54470,9870,Medium Risk
+47-5042,0.59,Mine Cutting and Channeling Machine Operators,49080,4110,Medium Risk
+47-5051,0.96,Rock Splitters; Quarry,35760,3210,High Risk
+47-5061,0.49,Roof Bolters; Mining,59090,3460,Medium Risk
+47-5071,0.68,Roustabouts; Oil and Gas,40220,50810,Medium Risk
+47-5081,0.37,HelpersﾖExtraction Workers,37660,16970,Medium Risk
+49-1011,0.003,First-Line Supervisors of Mechanics; Installers; and Repairers,69320,453360,Low Risk
+49-2011,0.74,Computer; Automated Teller; and Office Machine Repairers,40880,102050,High Risk
+49-2021,0.93,Radio; Cellular; and Tower Equipment Installers and Repairs,56340,13970,High Risk
+49-2022,0.36,Telecommunications Equipment Installers and Repairers; Except Line Installers,57080,228450,Medium Risk
+49-2091,0.7,Avionics Technicians,65330,16140,High Risk
+49-2092,0.76,Electric Motor; Power Tool; and Related Repairers,45770,16810,High Risk
+49-2093,0.91,Electrical and Electronics Installers and Repairers; Transportation Equipment,61460,12520,High Risk
+49-2094,0.41,Electrical and Electronics Repairers; Commercial and Industrial Equipment,59210,67130,Medium Risk
+49-2095,0.38,Electrical and Electronics Repairers; Powerhouse; Substation; and Relay,80040,22580,Medium Risk
+49-2096,0.61,Electronic Equipment Installers and Repairers; Motor Vehicles,36750,10350,Medium Risk
+49-2097,0.65,Electronic Home Entertainment Equipment Installers and Repairers,39800,25010,Medium Risk
+49-2098,0.82,Security and Fire Alarm Systems Installers,48540,67620,High Risk
+49-3011,0.71,Aircraft Mechanics and Service Technicians,65230,128550,High Risk
+49-3021,0.91,Automotive Body and Related Repairers,46460,143860,High Risk
+49-3022,0.55,Automotive Glass Installers and Repairers,36370,15160,Medium Risk
+49-3023,0.59,Automotive Service Technicians and Mechanics,43730,647350,Medium Risk
+49-3031,0.73,Bus and Truck Mechanics and Diesel Engine Specialists,49150,254270,High Risk
+49-3041,0.75,Farm Equipment Mechanics and Service Technicians,42190,34980,High Risk
+49-3042,0.4,Mobile Heavy Equipment Mechanics; Except Engines,53370,123570,Medium Risk
+49-3043,0.88,Rail Car Repairers,56020,19390,High Risk
+49-3051,0.66,Motorboat Mechanics and Service Technicians,42330,20120,Medium Risk
+49-3052,0.79,Motorcycle Mechanics,39260,15850,High Risk
+49-3053,0.93,Outdoor Power Equipment and Other Small Engine Mechanics,36940,32990,High Risk
+49-3091,0.94,Bicycle Repairers,30290,10370,High Risk
+49-3092,0.59,Recreational Vehicle Service Technicians,40090,13410,Medium Risk
+49-3093,0.7,Tire Repairers and Changers,29530,108730,High Risk
+49-9011,0.91,Mechanical Door Repairers,43350,17680,High Risk
+49-9012,0.63,Control and Valve Installers and Repairers; Except Mechanical Door,57890,45730,Medium Risk
+49-9021,0.65,Heating; Air Conditioning; and Refrigeration Mechanics and Installers,50160,294720,Medium Risk
+49-9031,0.72,Home Appliance Repairers,41020,32330,High Risk
+49-9041,0.67,Industrial Machinery Mechanics,54000,334480,Medium Risk
+49-9043,0.86,Maintenance Workers; Machinery,48720,89570,High Risk
+49-9044,0.59,Millwrights,56250,38900,Medium Risk
+49-9045,0.82,Refractory Materials Repairers; Except Brickmasons,52510,1050,High Risk
+49-9051,0.097,Electrical Power-Line Installers and Repairers,70240,116910,Low Risk
+49-9052,0.49,Telecommunications Line Installers and Repairers,59000,95230,Medium Risk
+49-9061,0.97,Camera and Photographic Equipment Repairers,42540,2120,High Risk
+49-9062,0.27,Medical Equipment Repairers,52710,42200,Low Risk
+49-9063,0.91,Musical Instrument Repairers and Tuners,39110,6600,High Risk
+49-9064,0.99,Watch Repairers,44830,1090,High Risk
+49-9071,0.64,Maintenance and Repair Workers; General,41020,1332480,Medium Risk
+49-9091,0.94,Coin; Vending; and Amusement Machine Servicers and Repairers,36390,32890,High Risk
+49-9092,0.18,Commercial Divers,59470,2540,Low Risk
+49-9093,0.96,Fabric Menders; Except Garment,33550,310,High Risk
+49-9094,0.77,Locksmiths and Safe Repairers,43740,18430,High Risk
+49-9095,0.18,Manufactured Building and Mobile Home Installers,32910,1870,Low Risk
+49-9096,0.89,Riggers,51330,20500,High Risk
+49-9097,0.9,Signal and Track Switch Repairers,67800,5910,High Risk
+49-9098,0.79,HelpersﾖInstallation; Maintenance; and Repair Workers,31390,118730,High Risk
+51-1011,0.016,First-Line Supervisors of Production and Operating Workers,64340,610500,Low Risk
+51-2011,0.79,Aircraft Structure; Surfaces; Rigging; and Systems Assemblers,55530,17690,High Risk
+51-2021,0.73,Coil Winders; Tapers; and Finishers,36610,13520,High Risk
+51-2031,0.82,Engine and Other Machine Assemblers,45330,32460,High Risk
+51-2041,0.41,Structural Metal Fabricators and Fitters,41640,76340,Medium Risk
+51-2091,0.93,Fiberglass Laminators and Fabricators,36170,18310,High Risk
+51-2093,0.98,Timing Device Assemblers and Adjusters,37460,130,High Risk
+51-3011,0.89,Bakers,28660,180450,High Risk
+51-3021,0.93,Butchers and Meat Cutters,33210,133930,High Risk
+51-3022,0.94,Meat; Poultry; and Fish Cutters and Trimmers,27790,146600,High Risk
+51-3023,0.6,Slaughterers and Meat Packers,28450,67150,Medium Risk
+51-3091,0.91,Food and Tobacco Roasting; Baking; and Drying Machine Operators and Tenders,32730,18140,High Risk
+51-3092,0.7,Food Batchmakers,32090,147490,High Risk
+51-3093,0.61,Food Cooking Machine Operators and Tenders,31690,31930,Medium Risk
+51-4011,0.86,Computer-Controlled Machine Tool Operators; Metal and Plastic,41960,145270,High Risk
+51-4012,0.36,Computer Numerically Controlled Machine Tool Programmers; Metal and Plastic,56300,24870,Medium Risk
+51-4021,0.91,Extruding and Drawing Machine Setters; Operators; and Tenders; Metal and Plastic,36620,71190,High Risk
+51-4022,0.93,Forging Machine Setters; Operators; and Tenders; Metal and Plastic,40770,18290,High Risk
+51-4023,0.83,Rolling Machine Setters; Operators; and Tenders; Metal and Plastic,40790,28630,High Risk
+51-4031,0.78,Cutting; Punching; and Press Machine Setters; Operators; and Tenders; Metal and Plastic,36180,192210,High Risk
+51-4032,0.94,Drilling and Boring Machine Tool Setters; Operators; and Tenders; Metal and Plastic,41490,11440,High Risk
+51-4033,0.95,Grinding; Lapping; Polishing; and Buffing Machine Tool Setters; Operators; and Tenders; Metal and Plastic,36690,74520,High Risk
+51-4034,0.84,Lathe and Turning Machine Tool Setters; Operators; and Tenders; Metal and Plastic,41090,33550,High Risk
+51-4035,0.98,Milling and Planing Machine Setters; Operators; and Tenders; Metal and Plastic,44490,17010,High Risk
+51-4041,0.65,Machinists,45250,391110,Medium Risk
+51-4051,0.88,Metal-Refining Furnace Operators and Tenders,41810,16300,High Risk
+51-4052,0.87,Pourers and Casters; Metal,39670,8060,High Risk
+51-4061,0.93,Model Makers; Metal and Plastic,56920,5830,High Risk
+51-4062,0.9,Patternmakers; Metal and Plastic,47130,3170,High Risk
+51-4071,0.67,Foundry Mold and Coremakers,36820,12070,Medium Risk
+51-4072,0.95,Molding; Coremaking; and Casting Machine Setters; Operators; and Tenders; Metal and Plastic,33950,145420,High Risk
+51-4081,0.91,Multiple Machine Tool Setters; Operators; and Tenders; Metal and Plastic,37510,111950,High Risk
+51-4111,0.84,Tool and Die Makers,53650,72180,High Risk
+51-4121,0.94,Welders; Cutters; Solderers; and Brazers,44360,382720,High Risk
+51-4122,0.61,Welding; Soldering; and Brazing Machine Setters; Operators; and Tenders,39160,45700,Medium Risk
+51-4191,0.91,Heat Treating Equipment Setters; Operators; and Tenders; Metal and Plastic,39050,19320,High Risk
+51-4192,0.84,Layout Workers; Metal and Plastic,47380,6970,High Risk
+51-4193,0.92,Plating and Coating Machine Setters; Operators; and Tenders; Metal and Plastic,34830,34730,High Risk
+51-4194,0.88,Tool Grinders; Filers; and Sharpeners,40890,9080,High Risk
+51-5111,0.97,Prepress Technicians and Workers,42240,32800,High Risk
+51-5112,0.83,Printing Press Operators,38470,169930,High Risk
+51-5113,0.95,Print Binding and Finishing Workers,34850,52590,High Risk
+51-6011,0.71,Laundry and Dry-Cleaning Workers,24480,207730,High Risk
+51-6021,0.81,Pressers; Textile; Garment; and Related Materials,24060,44940,High Risk
+51-6031,0.89,Sewing Machine Operators,26990,139510,High Risk
+51-6041,0.52,Shoe and Leather Workers and Repairers,29800,6930,Medium Risk
+51-6042,0.97,Shoe Machine Operators and Tenders,30110,430,High Risk
+51-6051,0.99,Sewers; Hand,29510,5170,High Risk
+51-6052,0.84,Tailors; Dressmakers; and Custom Sewers,34330,19680,High Risk
+51-6061,0.97,Textile Bleaching and Dyeing Machine Operators and Tenders,29930,9950,High Risk
+51-6062,0.95,Textile Cutting Machine Setters; Operators; and Tenders,29440,14320,High Risk
+51-6063,0.73,Textile Knitting and Weaving Machine Setters; Operators; and Tenders,30470,20520,High Risk
+51-6064,0.96,Textile Winding; Twisting; and Drawing Out Machine Setters; Operators; and Tenders,29660,28990,High Risk
+51-6091,0.88,Extruding and Forming Machine Setters; Operators; and Tenders; Synthetic and Glass Fibers,35500,17480,High Risk
+51-6092,0.005,Fabric and Apparel Patternmakers,49180,4030,Low Risk
+51-6093,0.39,Upholsterers,35920,31740,Medium Risk
+51-7011,0.92,Cabinetmakers and Bench Carpenters,36580,97980,High Risk
+51-7021,0.87,Furniture Finishers,33850,17190,High Risk
+51-7031,0.96,Model Makers; Wood,52590,280,High Risk
+51-7032,0.91,Patternmakers; Wood,59650,370,High Risk
+51-7041,0.86,Sawing Machine Setters; Operators; and Tenders; Wood,31200,50530,High Risk
+51-7042,0.97,Woodworking Machine Setters; Operators; and Tenders; Except Sawing,31110,76090,High Risk
+51-8011,0.95,Nuclear Power Reactor Operators,95310,3100,High Risk
+51-8012,0.64,Power Distributors and Dispatchers,85340,11080,Medium Risk
+51-8013,0.85,Power Plant Operators,78030,34520,High Risk
+51-8021,0.89,Stationary Engineers and Boiler Operators,63690,33710,High Risk
+51-8031,0.61,Water and Wastewater Treatment Plant and System Operators,49490,115630,Medium Risk
+51-8091,0.85,Chemical Plant and System Operators,61570,30760,High Risk
+51-8092,0.78,Gas Plant Operators,71470,15900,High Risk
+51-8093,0.71,Petroleum Pump System Operators; Refinery Operators; and Gaugers,70630,38850,High Risk
+51-8099,0.86,Plant and System Operators; All Other,58300,10750,High Risk
+51-9011,0.76,Chemical Equipment Operators and Tenders,51070,73840,High Risk
+51-9012,0.88,Separating; Filtering; Clarifying; Precipitating; and Still Machine Setters; Operators; and Tenders,44140,45190,High Risk
+51-9021,0.97,Crushing; Grinding; and Polishing Machine Setters; Operators; and Tenders,38060,28850,High Risk
+51-9022,0.97,Grinding and Polishing Workers; Hand,31900,25470,High Risk
+51-9023,0.83,Mixing and Blending Machine Setters; Operators; and Tenders,39360,130180,High Risk
+51-9031,0.64,Cutters and Trimmers; Hand,31600,12720,Medium Risk
+51-9032,0.86,Cutting and Slicing Machine Setters; Operators; and Tenders,35700,59850,High Risk
+51-9041,0.93,Extruding; Forming; Pressing; and Compacting Machine Setters; Operators; and Tenders,36800,69120,High Risk
+51-9051,0.37,Furnace; Kiln; Oven; Drier; and Kettle Operators and Tenders,40610,19450,Medium Risk
+51-9061,0.98,Inspectors; Testers; Sorters; Samplers; and Weighers,42010,518950,High Risk
+51-9071,0.95,Jewelers and Precious Stone and Metal Workers,43570,25820,High Risk
+51-9081,0.97,Dental Laboratory Technicians,43180,36860,High Risk
+51-9082,0.45,Medical Appliance Technicians,42180,14240,Medium Risk
+51-9083,0.97,Ophthalmic Laboratory Technicians,34490,27860,High Risk
+51-9111,0.98,Packaging and Filling Machine Operators and Tenders,32740,386510,High Risk
+51-9121,0.91,Coating; Painting; and Spraying Machine Setters; Operators; and Tenders,36510,85700,High Risk
+51-9122,0.69,Painters; Transportation Equipment,46460,54860,Medium Risk
+51-9123,0.92,Painting; Coating; and Decorating Workers,33960,14450,High Risk
+51-9141,0.88,Semiconductor Processors,39810,14990,High Risk
+51-9151,0.99,Photographic Process Workers and Processing Machine Operators,34910,26200,High Risk
+51-9191,0.95,Adhesive Bonding Machine Operators and Tenders,35850,16190,High Risk
+51-9192,0.81,Cleaning; Washing; and Metal Pickling Equipment Operators and Tenders,33090,16330,High Risk
+51-9193,0.93,Cooling and Freezing Equipment Operators and Tenders,34520,7610,High Risk
+51-9194,0.98,Etchers and Engravers,34550,9060,High Risk
+51-9195,0.9,Molders; Shapers; and Casters; Except Metal and Plastic,35190,39310,High Risk
+51-9196,0.67,Paper Goods Machine Setters; Operators; and Tenders,40320,92620,Medium Risk
+51-9197,0.94,Tire Builders,45530,14700,High Risk
+51-9198,0.66,HelpersﾖProduction Workers,29380,429890,Medium Risk
+53-1011,0.066,Aircraft Cargo Handling Supervisors,55110,6710,Low Risk
+53-2011,0.18,Airline Pilots; Copilots; and Flight Engineers,169560,66850,Low Risk
+53-2012,0.55,Commercial Pilots,96530,38100,Medium Risk
+53-2021,0.11,Air Traffic Controllers,120830,20330,Low Risk
+53-2022,0.71,Airfield Operations Specialists,56760,7160,High Risk
+53-2031,0.35,Flight Attendants,56630,82330,Medium Risk
+53-3011,0.25,Ambulance Drivers and Attendants; Except Emergency Medical Technicians,29010,17030,Low Risk
+53-3021,0.67,Bus Drivers; Transit and Intercity,44650,169690,Medium Risk
+53-3022,0.89,Bus Drivers; School or Special Client,33390,497570,High Risk
+53-3031,0.98,Driver/Sales Workers,29610,426300,High Risk
+53-3032,0.79,Heavy and Tractor-Trailer Truck Drivers,45570,1704540,High Risk
+53-3033,0.69,Light Truck or Delivery Services Drivers,36920,858730,Medium Risk
+53-3041,0.89,Taxi Drivers and Chauffeurs,28450,188870,High Risk
+53-4011,0.96,Locomotive Engineers,66920,28240,High Risk
+53-4012,0.93,Locomotive Firers,69030,490,High Risk
+53-4013,0.91,Rail Yard Engineers; Dinkey Operators; and Hostlers,54640,2540,High Risk
+53-4021,0.83,Railroad Brake; Signal; and Switch Operators,58890,13180,High Risk
+53-4031,0.83,Railroad Conductors and Yardmasters,66080,32150,High Risk
+53-4041,0.86,Subway and Streetcar Operators,62970,9400,High Risk
+53-5011,0.83,Sailors and Marine Oilers,46180,28420,High Risk
+53-5021,0.27,Captains; Mates; and Pilots of Water Vessels,82380,32260,Low Risk
+53-5022,0.62,Motorboat Operators,50350,2170,Medium Risk
+53-5031,0.041,Ship Engineers,75710,5990,Low Risk
+53-6011,0.97,Bridge and Lock Tenders,47660,2930,High Risk
+53-6021,0.87,Parking Lot Attendants,25130,145820,High Risk
+53-6031,0.83,Automotive and Watercraft Service Attendants,25940,109310,High Risk
+53-6041,0.9,Traffic Technicians,50700,6050,High Risk
+53-6051,0.9,Transportation Inspectors,75330,27220,High Risk
+53-6061,0.75,Transportation Attendants; Except Flight Attendants,30640,16930,High Risk
+53-7011,0.93,Conveyor Operators and Tenders,35110,27590,High Risk
+53-7021,0.9,Crane and Tower Operators,58160,44920,High Risk
+53-7031,0.92,Dredge Operators,47500,1050,High Risk
+53-7032,0.94,Excavating and Loading Machine and Dragline Operators,48680,48320,High Risk
+53-7033,0.5,Loading Machine Operators; Underground Mining,51450,1580,Medium Risk
+53-7041,0.65,Hoist and Winch Operators,56390,1910,Medium Risk
+53-7051,0.93,Industrial Truck and Tractor Operators,36480,542770,High Risk
+53-7061,0.37,Cleaners of Vehicles and Equipment,26900,348790,Medium Risk
+53-7062,0.85,Laborers and Freight; Stock; and Material Movers; Hand,30890,2587940,High Risk
+53-7063,0.93,Machine Feeders and Offbearers,31710,80050,High Risk
+53-7064,0.38,Packers and Packagers; Hand,26490,698620,Medium Risk
+53-7071,0.91,Gas Compressor and Gas Pumping Station Operators,62900,2710,High Risk
+53-7072,0.9,Pump Operators; Except Wellhead Pumpers,47510,10920,High Risk
+53-7073,0.84,Wellhead Pumpers,53870,11470,High Risk
+53-7081,0.93,Refuse and Recyclable Material Collectors,40560,114650,High Risk
+53-7111,0.37,Mine Shuttle Car Operators,56150,1370,Medium Risk
+53-7121,0.72,Tank Car; Truck; and Ship Loaders,42330,10480,High Risk

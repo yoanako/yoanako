@@ -1,0 +1,1396 @@
+,sex,hlth_pb,geo,value,disease_short
+0,Total,Arthrosis,European Union - 28 countries,14.1,Arthrosis
+1,Total,Arthrosis,Belgium,16.7,Arthrosis
+2,Total,Arthrosis,Bulgaria,7.5,Arthrosis
+3,Total,Arthrosis,Czech Republic,12.3,Arthrosis
+4,Total,Arthrosis,Denmark,17.3,Arthrosis
+5,Total,Arthrosis,Germany,17.0,Arthrosis
+6,Total,Arthrosis,Estonia,3.6,Arthrosis
+7,Total,Arthrosis,Ireland,3.3,Arthrosis
+8,Total,Arthrosis,Greece,6.6,Arthrosis
+9,Total,Arthrosis,Spain,17.3,Arthrosis
+10,Total,Arthrosis,France,20.0,Arthrosis
+11,Total,Arthrosis,Croatia,6.0,Arthrosis
+12,Total,Arthrosis,Italy,17.8,Arthrosis
+13,Total,Arthrosis,Cyprus,4.1,Arthrosis
+14,Total,Arthrosis,Latvia,11.9,Arthrosis
+15,Total,Arthrosis,Lithuania,8.1,Arthrosis
+16,Total,Arthrosis,Luxembourg,17.4,Arthrosis
+17,Total,Arthrosis,Hungary,20.0,Arthrosis
+18,Total,Arthrosis,Malta,12.5,Arthrosis
+19,Total,Arthrosis,Netherlands,15.2,Arthrosis
+20,Total,Arthrosis,Austria,12.0,Arthrosis
+21,Total,Arthrosis,Poland,15.2,Arthrosis
+22,Total,Arthrosis,Portugal,24.1,Arthrosis
+23,Total,Arthrosis,Romania,4.6,Arthrosis
+24,Total,Arthrosis,Slovenia,4.5,Arthrosis
+25,Total,Arthrosis,Slovakia,11.8,Arthrosis
+26,Total,Arthrosis,Finland,21.4,Arthrosis
+27,Total,Arthrosis,Sweden,12.5,Arthrosis
+28,Total,Arthrosis,United Kingdom,2.2,Arthrosis
+29,Total,Arthrosis,Iceland,14.6,Arthrosis
+30,Total,Arthrosis,Norway,10.1,Arthrosis
+32,Total,Low back disorder or other chronic back defect,European Union - 28 countries,23.2,Low back disorder
+33,Total,Low back disorder or other chronic back defect,Belgium,20.8,Low back disorder
+34,Total,Low back disorder or other chronic back defect,Bulgaria,10.1,Low back disorder
+35,Total,Low back disorder or other chronic back defect,Czech Republic,18.3,Low back disorder
+36,Total,Low back disorder or other chronic back defect,Denmark,13.4,Low back disorder
+37,Total,Low back disorder or other chronic back defect,Germany,38.2,Low back disorder
+38,Total,Low back disorder or other chronic back defect,Estonia,24.1,Low back disorder
+39,Total,Low back disorder or other chronic back defect,Ireland,17.8,Low back disorder
+40,Total,Low back disorder or other chronic back defect,Greece,17.9,Low back disorder
+41,Total,Low back disorder or other chronic back defect,Spain,19.2,Low back disorder
+42,Total,Low back disorder or other chronic back defect,France,29.6,Low back disorder
+43,Total,Low back disorder or other chronic back defect,Croatia,29.0,Low back disorder
+44,Total,Low back disorder or other chronic back defect,Italy,18.8,Low back disorder
+45,Total,Low back disorder or other chronic back defect,Cyprus,13.0,Low back disorder
+46,Total,Low back disorder or other chronic back defect,Latvia,36.1,Low back disorder
+47,Total,Low back disorder or other chronic back defect,Lithuania,25.1,Low back disorder
+48,Total,Low back disorder or other chronic back defect,Luxembourg,29.8,Low back disorder
+49,Total,Low back disorder or other chronic back defect,Hungary,30.4,Low back disorder
+50,Total,Low back disorder or other chronic back defect,Malta,13.3,Low back disorder
+51,Total,Low back disorder or other chronic back defect,Netherlands,10.8,Low back disorder
+52,Total,Low back disorder or other chronic back defect,Austria,24.4,Low back disorder
+53,Total,Low back disorder or other chronic back defect,Poland,25.0,Low back disorder
+54,Total,Low back disorder or other chronic back defect,Portugal,33.0,Low back disorder
+55,Total,Low back disorder or other chronic back defect,Romania,11.0,Low back disorder
+56,Total,Low back disorder or other chronic back defect,Slovenia,38.3,Low back disorder
+57,Total,Low back disorder or other chronic back defect,Slovakia,16.6,Low back disorder
+58,Total,Low back disorder or other chronic back defect,Finland,33.6,Low back disorder
+59,Total,Low back disorder or other chronic back defect,Sweden,14.8,Low back disorder
+60,Total,Low back disorder or other chronic back defect,United Kingdom,13.0,Low back disorder
+61,Total,Low back disorder or other chronic back defect,Iceland,25.4,Low back disorder
+62,Total,Low back disorder or other chronic back defect,Norway,14.6,Low back disorder
+64,Total,Neck disorder or other chronic neck defect,European Union - 28 countries,16.9,Neck disorder
+65,Total,Neck disorder or other chronic neck defect,Belgium,11.8,Neck disorder
+66,Total,Neck disorder or other chronic neck defect,Bulgaria,5.3,Neck disorder
+67,Total,Neck disorder or other chronic neck defect,Czech Republic,10.5,Neck disorder
+68,Total,Neck disorder or other chronic neck defect,Denmark,7.3,Neck disorder
+69,Total,Neck disorder or other chronic neck defect,Germany,33.2,Neck disorder
+70,Total,Neck disorder or other chronic neck defect,Estonia,9.5,Neck disorder
+71,Total,Neck disorder or other chronic neck defect,Ireland,8.1,Neck disorder
+72,Total,Neck disorder or other chronic neck defect,Greece,10.3,Neck disorder
+73,Total,Neck disorder or other chronic neck defect,Spain,16.5,Neck disorder
+74,Total,Neck disorder or other chronic neck defect,France,15.8,Neck disorder
+75,Total,Neck disorder or other chronic neck defect,Croatia,22.7,Neck disorder
+76,Total,Neck disorder or other chronic neck defect,Italy,17.3,Neck disorder
+77,Total,Neck disorder or other chronic neck defect,Cyprus,7.4,Neck disorder
+78,Total,Neck disorder or other chronic neck defect,Latvia,23.2,Neck disorder
+79,Total,Neck disorder or other chronic neck defect,Lithuania,10.3,Neck disorder
+80,Total,Neck disorder or other chronic neck defect,Luxembourg,15.3,Neck disorder
+81,Total,Neck disorder or other chronic neck defect,Hungary,14.3,Neck disorder
+82,Total,Neck disorder or other chronic neck defect,Malta,6.3,Neck disorder
+83,Total,Neck disorder or other chronic neck defect,Netherlands,10.7,Neck disorder
+84,Total,Neck disorder or other chronic neck defect,Austria,18.5,Neck disorder
+85,Total,Neck disorder or other chronic neck defect,Poland,17.2,Neck disorder
+86,Total,Neck disorder or other chronic neck defect,Portugal,24.1,Neck disorder
+87,Total,Neck disorder or other chronic neck defect,Romania,6.2,Neck disorder
+88,Total,Neck disorder or other chronic neck defect,Slovenia,23.1,Neck disorder
+89,Total,Neck disorder or other chronic neck defect,Slovakia,13.1,Neck disorder
+90,Total,Neck disorder or other chronic neck defect,Finland,34.2,Neck disorder
+91,Total,Neck disorder or other chronic neck defect,Sweden,15.1,Neck disorder
+92,Total,Neck disorder or other chronic neck defect,United Kingdom,5.8,Neck disorder
+93,Total,Neck disorder or other chronic neck defect,Iceland,15.1,Neck disorder
+94,Total,Neck disorder or other chronic neck defect,Norway,9.7,Neck disorder
+96,Total,Asthma,European Union - 28 countries,5.9,Asthma
+97,Total,Asthma,Belgium,4.3,Asthma
+98,Total,Asthma,Bulgaria,2.7,Asthma
+99,Total,Asthma,Czech Republic,4.5,Asthma
+100,Total,Asthma,Denmark,6.5,Asthma
+101,Total,Asthma,Germany,6.1,Asthma
+102,Total,Asthma,Estonia,3.1,Asthma
+103,Total,Asthma,Ireland,9.0,Asthma
+104,Total,Asthma,Greece,4.4,Asthma
+105,Total,Asthma,Spain,4.5,Asthma
+106,Total,Asthma,France,8.8,Asthma
+107,Total,Asthma,Croatia,3.0,Asthma
+108,Total,Asthma,Italy,4.8,Asthma
+109,Total,Asthma,Cyprus,4.3,Asthma
+110,Total,Asthma,Latvia,3.5,Asthma
+111,Total,Asthma,Lithuania,2.7,Asthma
+112,Total,Asthma,Luxembourg,6.8,Asthma
+113,Total,Asthma,Hungary,4.9,Asthma
+114,Total,Asthma,Malta,5.8,Asthma
+115,Total,Asthma,Netherlands,5.5,Asthma
+116,Total,Asthma,Austria,4.4,Asthma
+117,Total,Asthma,Poland,4.1,Asthma
+118,Total,Asthma,Portugal,5.0,Asthma
+119,Total,Asthma,Romania,2.0,Asthma
+120,Total,Asthma,Slovenia,5.0,Asthma
+121,Total,Asthma,Slovakia,3.9,Asthma
+122,Total,Asthma,Finland,9.2,Asthma
+123,Total,Asthma,Sweden,7.6,Asthma
+124,Total,Asthma,United Kingdom,9.4,Asthma
+125,Total,Asthma,Iceland,8.9,Asthma
+126,Total,Asthma,Norway,6.7,Asthma
+128,Total,Chronic lower respiratory diseases (excluding asthma),European Union - 28 countries,4.1,Respiratory diseases
+129,Total,Chronic lower respiratory diseases (excluding asthma),Belgium,4.0,Respiratory diseases
+130,Total,Chronic lower respiratory diseases (excluding asthma),Bulgaria,4.6,Respiratory diseases
+131,Total,Chronic lower respiratory diseases (excluding asthma),Czech Republic,2.1,Respiratory diseases
+132,Total,Chronic lower respiratory diseases (excluding asthma),Denmark,3.4,Respiratory diseases
+133,Total,Chronic lower respiratory diseases (excluding asthma),Germany,5.3,Respiratory diseases
+134,Total,Chronic lower respiratory diseases (excluding asthma),Estonia,2.2,Respiratory diseases
+135,Total,Chronic lower respiratory diseases (excluding asthma),Ireland,2.9,Respiratory diseases
+136,Total,Chronic lower respiratory diseases (excluding asthma),Greece,3.2,Respiratory diseases
+137,Total,Chronic lower respiratory diseases (excluding asthma),Spain,3.3,Respiratory diseases
+138,Total,Chronic lower respiratory diseases (excluding asthma),France,5.6,Respiratory diseases
+139,Total,Chronic lower respiratory diseases (excluding asthma),Croatia,4.2,Respiratory diseases
+140,Total,Chronic lower respiratory diseases (excluding asthma),Italy,5.1,Respiratory diseases
+141,Total,Chronic lower respiratory diseases (excluding asthma),Cyprus,2.1,Respiratory diseases
+142,Total,Chronic lower respiratory diseases (excluding asthma),Latvia,4.0,Respiratory diseases
+143,Total,Chronic lower respiratory diseases (excluding asthma),Lithuania,6.1,Respiratory diseases
+144,Total,Chronic lower respiratory diseases (excluding asthma),Luxembourg,5.5,Respiratory diseases
+145,Total,Chronic lower respiratory diseases (excluding asthma),Hungary,4.1,Respiratory diseases
+146,Total,Chronic lower respiratory diseases (excluding asthma),Malta,1.1,Respiratory diseases
+147,Total,Chronic lower respiratory diseases (excluding asthma),Netherlands,5.5,Respiratory diseases
+148,Total,Chronic lower respiratory diseases (excluding asthma),Austria,4.2,Respiratory diseases
+149,Total,Chronic lower respiratory diseases (excluding asthma),Poland,3.1,Respiratory diseases
+150,Total,Chronic lower respiratory diseases (excluding asthma),Portugal,5.8,Respiratory diseases
+151,Total,Chronic lower respiratory diseases (excluding asthma),Romania,2.0,Respiratory diseases
+152,Total,Chronic lower respiratory diseases (excluding asthma),Slovenia,4.1,Respiratory diseases
+153,Total,Chronic lower respiratory diseases (excluding asthma),Slovakia,2.7,Respiratory diseases
+154,Total,Chronic lower respiratory diseases (excluding asthma),Finland,3.0,Respiratory diseases
+155,Total,Chronic lower respiratory diseases (excluding asthma),Sweden,1.5,Respiratory diseases
+156,Total,Chronic lower respiratory diseases (excluding asthma),United Kingdom,2.6,Respiratory diseases
+157,Total,Chronic lower respiratory diseases (excluding asthma),Iceland,3.9,Respiratory diseases
+158,Total,Chronic lower respiratory diseases (excluding asthma),Norway,2.6,Respiratory diseases
+160,Total,Heart attack or chronic consequences of heart attack,European Union - 28 countries,1.6,Heart attack
+161,Total,Heart attack or chronic consequences of heart attack,Belgium,1.0,Heart attack
+162,Total,Heart attack or chronic consequences of heart attack,Bulgaria,2.2,Heart attack
+163,Total,Heart attack or chronic consequences of heart attack,Czech Republic,1.6,Heart attack
+164,Total,Heart attack or chronic consequences of heart attack,Denmark,0.9,Heart attack
+165,Total,Heart attack or chronic consequences of heart attack,Germany,1.6,Heart attack
+166,Total,Heart attack or chronic consequences of heart attack,Estonia,1.4,Heart attack
+167,Total,Heart attack or chronic consequences of heart attack,Ireland,1.3,Heart attack
+168,Total,Heart attack or chronic consequences of heart attack,Greece,2.1,Heart attack
+169,Total,Heart attack or chronic consequences of heart attack,Spain,0.7,Heart attack
+170,Total,Heart attack or chronic consequences of heart attack,France,1.1,Heart attack
+171,Total,Heart attack or chronic consequences of heart attack,Croatia,2.1,Heart attack
+172,Total,Heart attack or chronic consequences of heart attack,Italy,2.0,Heart attack
+173,Total,Heart attack or chronic consequences of heart attack,Cyprus,2.4,Heart attack
+174,Total,Heart attack or chronic consequences of heart attack,Latvia,1.1,Heart attack
+175,Total,Heart attack or chronic consequences of heart attack,Lithuania,2.2,Heart attack
+176,Total,Heart attack or chronic consequences of heart attack,Luxembourg,1.0,Heart attack
+177,Total,Heart attack or chronic consequences of heart attack,Hungary,2.4,Heart attack
+178,Total,Heart attack or chronic consequences of heart attack,Malta,1.2,Heart attack
+179,Total,Heart attack or chronic consequences of heart attack,Netherlands,0.4,Heart attack
+180,Total,Heart attack or chronic consequences of heart attack,Austria,1.0,Heart attack
+181,Total,Heart attack or chronic consequences of heart attack,Poland,3.1,Heart attack
+182,Total,Heart attack or chronic consequences of heart attack,Portugal,1.7,Heart attack
+183,Total,Heart attack or chronic consequences of heart attack,Romania,1.2,Heart attack
+184,Total,Heart attack or chronic consequences of heart attack,Slovenia,1.3,Heart attack
+185,Total,Heart attack or chronic consequences of heart attack,Slovakia,2.5,Heart attack
+186,Total,Heart attack or chronic consequences of heart attack,Finland,1.7,Heart attack
+187,Total,Heart attack or chronic consequences of heart attack,Sweden,1.2,Heart attack
+188,Total,Heart attack or chronic consequences of heart attack,United Kingdom,1.4,Heart attack
+189,Total,Heart attack or chronic consequences of heart attack,Iceland,2.2,Heart attack
+190,Total,Heart attack or chronic consequences of heart attack,Norway,1.5,Heart attack
+192,Total,Coronary heart disease or angina pectoris,European Union - 28 countries,3.4,Coronary heart disease
+193,Total,Coronary heart disease or angina pectoris,Belgium,1.5,Coronary heart disease
+194,Total,Coronary heart disease or angina pectoris,Bulgaria,9.1,Coronary heart disease
+195,Total,Coronary heart disease or angina pectoris,Czech Republic,4.3,Coronary heart disease
+196,Total,Coronary heart disease or angina pectoris,Denmark,1.9,Coronary heart disease
+197,Total,Coronary heart disease or angina pectoris,Germany,3.9,Coronary heart disease
+198,Total,Coronary heart disease or angina pectoris,Estonia,5.6,Coronary heart disease
+199,Total,Coronary heart disease or angina pectoris,Ireland,2.8,Coronary heart disease
+200,Total,Coronary heart disease or angina pectoris,Greece,3.4,Coronary heart disease
+201,Total,Coronary heart disease or angina pectoris,Spain,0.8,Coronary heart disease
+202,Total,Coronary heart disease or angina pectoris,France,2.0,Coronary heart disease
+203,Total,Coronary heart disease or angina pectoris,Croatia,5.1,Coronary heart disease
+204,Total,Coronary heart disease or angina pectoris,Italy,2.5,Coronary heart disease
+205,Total,Coronary heart disease or angina pectoris,Cyprus,1.6,Coronary heart disease
+206,Total,Coronary heart disease or angina pectoris,Latvia,6.6,Coronary heart disease
+207,Total,Coronary heart disease or angina pectoris,Lithuania,7.5,Coronary heart disease
+208,Total,Coronary heart disease or angina pectoris,Luxembourg,2.5,Coronary heart disease
+209,Total,Coronary heart disease or angina pectoris,Hungary,4.9,Coronary heart disease
+210,Total,Coronary heart disease or angina pectoris,Malta,2.6,Coronary heart disease
+211,Total,Coronary heart disease or angina pectoris,Netherlands,1.9,Coronary heart disease
+212,Total,Coronary heart disease or angina pectoris,Austria,2.2,Coronary heart disease
+213,Total,Coronary heart disease or angina pectoris,Poland,9.0,Coronary heart disease
+214,Total,Coronary heart disease or angina pectoris,Portugal,4.3,Coronary heart disease
+215,Total,Coronary heart disease or angina pectoris,Romania,3.4,Coronary heart disease
+216,Total,Coronary heart disease or angina pectoris,Slovenia,3.2,Coronary heart disease
+217,Total,Coronary heart disease or angina pectoris,Slovakia,6.0,Coronary heart disease
+218,Total,Coronary heart disease or angina pectoris,Finland,5.0,Coronary heart disease
+219,Total,Coronary heart disease or angina pectoris,Sweden,1.5,Coronary heart disease
+220,Total,Coronary heart disease or angina pectoris,United Kingdom,3.0,Coronary heart disease
+221,Total,Coronary heart disease or angina pectoris,Iceland,3.5,Coronary heart disease
+222,Total,Coronary heart disease or angina pectoris,Norway,1.7,Coronary heart disease
+224,Total,High blood pressure,European Union - 28 countries,21.0,High blood pressure
+225,Total,High blood pressure,Belgium,16.5,High blood pressure
+226,Total,High blood pressure,Bulgaria,29.6,High blood pressure
+227,Total,High blood pressure,Czech Republic,23.7,High blood pressure
+228,Total,High blood pressure,Denmark,17.7,High blood pressure
+229,Total,High blood pressure,Germany,28.5,High blood pressure
+230,Total,High blood pressure,Estonia,22.9,High blood pressure
+231,Total,High blood pressure,Ireland,15.5,High blood pressure
+232,Total,High blood pressure,Greece,20.9,High blood pressure
+233,Total,High blood pressure,Spain,18.7,High blood pressure
+234,Total,High blood pressure,France,14.4,High blood pressure
+235,Total,High blood pressure,Croatia,24.6,High blood pressure
+236,Total,High blood pressure,Italy,20.6,High blood pressure
+237,Total,High blood pressure,Cyprus,17.3,High blood pressure
+238,Total,High blood pressure,Latvia,29.4,High blood pressure
+239,Total,High blood pressure,Lithuania,28.1,High blood pressure
+240,Total,High blood pressure,Luxembourg,16.5,High blood pressure
+241,Total,High blood pressure,Hungary,31.9,High blood pressure
+242,Total,High blood pressure,Malta,21.4,High blood pressure
+243,Total,High blood pressure,Netherlands,16.8,High blood pressure
+244,Total,High blood pressure,Austria,21.1,High blood pressure
+245,Total,High blood pressure,Poland,23.1,High blood pressure
+246,Total,High blood pressure,Portugal,25.3,High blood pressure
+247,Total,High blood pressure,Romania,17.1,High blood pressure
+248,Total,High blood pressure,Slovenia,24.8,High blood pressure
+249,Total,High blood pressure,Slovakia,25.8,High blood pressure
+250,Total,High blood pressure,Finland,24.9,High blood pressure
+251,Total,High blood pressure,Sweden,16.2,High blood pressure
+252,Total,High blood pressure,United Kingdom,16.4,High blood pressure
+253,Total,High blood pressure,Iceland,19.4,High blood pressure
+254,Total,High blood pressure,Norway,12.7,High blood pressure
+256,Total,Stroke or chronic consequences of stroke,European Union - 28 countries,1.3,Stroke
+257,Total,Stroke or chronic consequences of stroke,Belgium,1.0,Stroke
+258,Total,Stroke or chronic consequences of stroke,Bulgaria,2.7,Stroke
+259,Total,Stroke or chronic consequences of stroke,Czech Republic,1.3,Stroke
+260,Total,Stroke or chronic consequences of stroke,Denmark,1.1,Stroke
+261,Total,Stroke or chronic consequences of stroke,Germany,1.5,Stroke
+262,Total,Stroke or chronic consequences of stroke,Estonia,1.0,Stroke
+263,Total,Stroke or chronic consequences of stroke,Ireland,0.7,Stroke
+264,Total,Stroke or chronic consequences of stroke,Greece,2.1,Stroke
+265,Total,Stroke or chronic consequences of stroke,Spain,0.8,Stroke
+266,Total,Stroke or chronic consequences of stroke,France,1.0,Stroke
+267,Total,Stroke or chronic consequences of stroke,Croatia,2.4,Stroke
+268,Total,Stroke or chronic consequences of stroke,Italy,1.4,Stroke
+269,Total,Stroke or chronic consequences of stroke,Cyprus,1.3,Stroke
+270,Total,Stroke or chronic consequences of stroke,Latvia,1.2,Stroke
+271,Total,Stroke or chronic consequences of stroke,Lithuania,2.6,Stroke
+272,Total,Stroke or chronic consequences of stroke,Luxembourg,1.2,Stroke
+273,Total,Stroke or chronic consequences of stroke,Hungary,2.4,Stroke
+274,Total,Stroke or chronic consequences of stroke,Malta,0.4,Stroke
+275,Total,Stroke or chronic consequences of stroke,Netherlands,0.3,Stroke
+276,Total,Stroke or chronic consequences of stroke,Austria,0.8,Stroke
+277,Total,Stroke or chronic consequences of stroke,Poland,2.0,Stroke
+278,Total,Stroke or chronic consequences of stroke,Portugal,1.9,Stroke
+279,Total,Stroke or chronic consequences of stroke,Romania,1.3,Stroke
+280,Total,Stroke or chronic consequences of stroke,Slovenia,1.5,Stroke
+281,Total,Stroke or chronic consequences of stroke,Slovakia,1.9,Stroke
+282,Total,Stroke or chronic consequences of stroke,Finland,1.5,Stroke
+283,Total,Stroke or chronic consequences of stroke,Sweden,1.2,Stroke
+284,Total,Stroke or chronic consequences of stroke,United Kingdom,1.1,Stroke
+285,Total,Stroke or chronic consequences of stroke,Iceland,1.3,Stroke
+286,Total,Stroke or chronic consequences of stroke,Norway,1.3,Stroke
+288,Total,Cirrhosis of the liver,European Union - 28 countries,0.4,Cirrhosis of the liver
+289,Total,Cirrhosis of the liver,Belgium,0.6,Cirrhosis of the liver
+290,Total,Cirrhosis of the liver,Bulgaria,0.3,Cirrhosis of the liver
+291,Total,Cirrhosis of the liver,Czech Republic,0.2,Cirrhosis of the liver
+292,Total,Cirrhosis of the liver,Denmark,0.3,Cirrhosis of the liver
+293,Total,Cirrhosis of the liver,Germany,0.3,Cirrhosis of the liver
+294,Total,Cirrhosis of the liver,Estonia,0.3,Cirrhosis of the liver
+295,Total,Cirrhosis of the liver,Ireland,0.3,Cirrhosis of the liver
+296,Total,Cirrhosis of the liver,Greece,0.2,Cirrhosis of the liver
+297,Total,Cirrhosis of the liver,Spain,0.7,Cirrhosis of the liver
+298,Total,Cirrhosis of the liver,France,0.1,Cirrhosis of the liver
+299,Total,Cirrhosis of the liver,Croatia,0.6,Cirrhosis of the liver
+300,Total,Cirrhosis of the liver,Italy,0.3,Cirrhosis of the liver
+301,Total,Cirrhosis of the liver,Cyprus,0.3,Cirrhosis of the liver
+302,Total,Cirrhosis of the liver,Latvia,0.7,Cirrhosis of the liver
+303,Total,Cirrhosis of the liver,Lithuania,0.5,Cirrhosis of the liver
+304,Total,Cirrhosis of the liver,Luxembourg,0.3,Cirrhosis of the liver
+305,Total,Cirrhosis of the liver,Hungary,0.5,Cirrhosis of the liver
+306,Total,Cirrhosis of the liver,Malta,0.4,Cirrhosis of the liver
+307,Total,Cirrhosis of the liver,Netherlands,0.3,Cirrhosis of the liver
+308,Total,Cirrhosis of the liver,Austria,0.2,Cirrhosis of the liver
+309,Total,Cirrhosis of the liver,Poland,0.6,Cirrhosis of the liver
+310,Total,Cirrhosis of the liver,Portugal,0.6,Cirrhosis of the liver
+311,Total,Cirrhosis of the liver,Romania,0.5,Cirrhosis of the liver
+312,Total,Cirrhosis of the liver,Slovenia,0.5,Cirrhosis of the liver
+313,Total,Cirrhosis of the liver,Slovakia,0.6,Cirrhosis of the liver
+314,Total,Cirrhosis of the liver,Finland,0.3,Cirrhosis of the liver
+315,Total,Cirrhosis of the liver,Sweden,0.2,Cirrhosis of the liver
+316,Total,Cirrhosis of the liver,United Kingdom,0.3,Cirrhosis of the liver
+317,Total,Cirrhosis of the liver,Iceland,0.0,Cirrhosis of the liver
+318,Total,Cirrhosis of the liver,Norway,0.2,Cirrhosis of the liver
+320,Total,"Urinary incontinence, problems in controlling the bladder",European Union - 28 countries,5.1,Urinary
+321,Total,"Urinary incontinence, problems in controlling the bladder",Belgium,4.2,Urinary
+322,Total,"Urinary incontinence, problems in controlling the bladder",Bulgaria,2.8,Urinary
+323,Total,"Urinary incontinence, problems in controlling the bladder",Czech Republic,4.9,Urinary
+324,Total,"Urinary incontinence, problems in controlling the bladder",Denmark,6.7,Urinary
+325,Total,"Urinary incontinence, problems in controlling the bladder",Germany,8.1,Urinary
+326,Total,"Urinary incontinence, problems in controlling the bladder",Estonia,2.5,Urinary
+327,Total,"Urinary incontinence, problems in controlling the bladder",Ireland,7.0,Urinary
+328,Total,"Urinary incontinence, problems in controlling the bladder",Greece,3.2,Urinary
+329,Total,"Urinary incontinence, problems in controlling the bladder",Spain,4.1,Urinary
+330,Total,"Urinary incontinence, problems in controlling the bladder",France,5.4,Urinary
+331,Total,"Urinary incontinence, problems in controlling the bladder",Croatia,6.5,Urinary
+332,Total,"Urinary incontinence, problems in controlling the bladder",Italy,4.6,Urinary
+333,Total,"Urinary incontinence, problems in controlling the bladder",Cyprus,1.5,Urinary
+334,Total,"Urinary incontinence, problems in controlling the bladder",Latvia,9.4,Urinary
+335,Total,"Urinary incontinence, problems in controlling the bladder",Lithuania,5.6,Urinary
+336,Total,"Urinary incontinence, problems in controlling the bladder",Luxembourg,5.7,Urinary
+337,Total,"Urinary incontinence, problems in controlling the bladder",Hungary,5.2,Urinary
+338,Total,"Urinary incontinence, problems in controlling the bladder",Malta,2.7,Urinary
+339,Total,"Urinary incontinence, problems in controlling the bladder",Netherlands,6.6,Urinary
+340,Total,"Urinary incontinence, problems in controlling the bladder",Austria,3.6,Urinary
+341,Total,"Urinary incontinence, problems in controlling the bladder",Poland,4.2,Urinary
+342,Total,"Urinary incontinence, problems in controlling the bladder",Portugal,7.3,Urinary
+343,Total,"Urinary incontinence, problems in controlling the bladder",Romania,1.5,Urinary
+344,Total,"Urinary incontinence, problems in controlling the bladder",Slovenia,8.2,Urinary
+345,Total,"Urinary incontinence, problems in controlling the bladder",Slovakia,4.2,Urinary
+346,Total,"Urinary incontinence, problems in controlling the bladder",Finland,9.1,Urinary
+347,Total,"Urinary incontinence, problems in controlling the bladder",Sweden,6.8,Urinary
+348,Total,"Urinary incontinence, problems in controlling the bladder",United Kingdom,2.8,Urinary
+349,Total,"Urinary incontinence, problems in controlling the bladder",Iceland,7.4,Urinary
+350,Total,"Urinary incontinence, problems in controlling the bladder",Norway,2.2,Urinary
+352,Total,Kidney problems,European Union - 28 countries,2.6,Kidney problems
+353,Total,Kidney problems,Belgium,1.0,Kidney problems
+354,Total,Kidney problems,Bulgaria,5.8,Kidney problems
+355,Total,Kidney problems,Czech Republic,2.3,Kidney problems
+356,Total,Kidney problems,Denmark,1.6,Kidney problems
+357,Total,Kidney problems,Germany,2.0,Kidney problems
+358,Total,Kidney problems,Estonia,2.2,Kidney problems
+359,Total,Kidney problems,Ireland,3.6,Kidney problems
+360,Total,Kidney problems,Greece,2.7,Kidney problems
+361,Total,Kidney problems,Spain,2.8,Kidney problems
+362,Total,Kidney problems,France,2.0,Kidney problems
+363,Total,Kidney problems,Croatia,4.4,Kidney problems
+364,Total,Kidney problems,Italy,3.7,Kidney problems
+365,Total,Kidney problems,Cyprus,1.6,Kidney problems
+366,Total,Kidney problems,Latvia,6.2,Kidney problems
+367,Total,Kidney problems,Lithuania,5.1,Kidney problems
+368,Total,Kidney problems,Luxembourg,3.0,Kidney problems
+369,Total,Kidney problems,Hungary,2.3,Kidney problems
+370,Total,Kidney problems,Malta,0.8,Kidney problems
+371,Total,Kidney problems,Netherlands,2.0,Kidney problems
+372,Total,Kidney problems,Austria,1.5,Kidney problems
+373,Total,Kidney problems,Poland,4.1,Kidney problems
+374,Total,Kidney problems,Portugal,4.6,Kidney problems
+375,Total,Kidney problems,Romania,1.9,Kidney problems
+376,Total,Kidney problems,Slovenia,5.0,Kidney problems
+377,Total,Kidney problems,Slovakia,3.5,Kidney problems
+378,Total,Kidney problems,Finland,1.4,Kidney problems
+379,Total,Kidney problems,Sweden,1.6,Kidney problems
+380,Total,Kidney problems,United Kingdom,1.8,Kidney problems
+381,Total,Kidney problems,Iceland,2.8,Kidney problems
+382,Total,Kidney problems,Norway,0.6,Kidney problems
+384,Total,Diabetes,European Union - 28 countries,6.9,Diabetes
+385,Total,Diabetes,Belgium,5.3,Diabetes
+386,Total,Diabetes,Bulgaria,6.4,Diabetes
+387,Total,Diabetes,Czech Republic,7.7,Diabetes
+388,Total,Diabetes,Denmark,4.6,Diabetes
+389,Total,Diabetes,Germany,7.2,Diabetes
+390,Total,Diabetes,Estonia,5.5,Diabetes
+391,Total,Diabetes,Ireland,4.6,Diabetes
+392,Total,Diabetes,Greece,9.2,Diabetes
+393,Total,Diabetes,Spain,6.8,Diabetes
+394,Total,Diabetes,France,10.0,Diabetes
+395,Total,Diabetes,Croatia,7.1,Diabetes
+396,Total,Diabetes,Italy,6.7,Diabetes
+397,Total,Diabetes,Cyprus,6.1,Diabetes
+398,Total,Diabetes,Latvia,4.7,Diabetes
+399,Total,Diabetes,Lithuania,4.4,Diabetes
+400,Total,Diabetes,Luxembourg,5.6,Diabetes
+401,Total,Diabetes,Hungary,8.1,Diabetes
+402,Total,Diabetes,Malta,8.3,Diabetes
+403,Total,Diabetes,Netherlands,5.4,Diabetes
+404,Total,Diabetes,Austria,4.9,Diabetes
+405,Total,Diabetes,Poland,6.6,Diabetes
+406,Total,Diabetes,Portugal,9.3,Diabetes
+407,Total,Diabetes,Romania,4.8,Diabetes
+408,Total,Diabetes,Slovenia,6.9,Diabetes
+409,Total,Diabetes,Slovakia,6.9,Diabetes
+410,Total,Diabetes,Finland,7.7,Diabetes
+411,Total,Diabetes,Sweden,4.8,Diabetes
+412,Total,Diabetes,United Kingdom,5.8,Diabetes
+413,Total,Diabetes,Iceland,4.3,Diabetes
+414,Total,Diabetes,Norway,4.2,Diabetes
+416,Total,Allergy,European Union - 28 countries,16.9,Allergy
+417,Total,Allergy,Belgium,14.2,Allergy
+418,Total,Allergy,Bulgaria,4.4,Allergy
+419,Total,Allergy,Czech Republic,11.7,Allergy
+420,Total,Allergy,Denmark,16.3,Allergy
+421,Total,Allergy,Germany,29.0,Allergy
+422,Total,Allergy,Estonia,8.7,Allergy
+423,Total,Allergy,Ireland,13.2,Allergy
+424,Total,Allergy,Greece,9.5,Allergy
+425,Total,Allergy,Spain,14.1,Allergy
+426,Total,Allergy,France,14.1,Allergy
+427,Total,Allergy,Croatia,13.4,Allergy
+428,Total,Allergy,Italy,14.9,Allergy
+429,Total,Allergy,Cyprus,6.2,Allergy
+430,Total,Allergy,Latvia,11.5,Allergy
+431,Total,Allergy,Lithuania,7.6,Allergy
+432,Total,Allergy,Luxembourg,25.0,Allergy
+433,Total,Allergy,Hungary,14.8,Allergy
+434,Total,Allergy,Malta,15.5,Allergy
+435,Total,Allergy,Netherlands,19.0,Allergy
+436,Total,Allergy,Austria,24.2,Allergy
+437,Total,Allergy,Poland,8.7,Allergy
+438,Total,Allergy,Portugal,19.4,Allergy
+439,Total,Allergy,Romania,1.4,Allergy
+440,Total,Allergy,Slovenia,16.6,Allergy
+441,Total,Allergy,Slovakia,13.3,Allergy
+442,Total,Allergy,Finland,31.6,Allergy
+443,Total,Allergy,Sweden,22.1,Allergy
+444,Total,Allergy,United Kingdom,20.3,Allergy
+445,Total,Allergy,Iceland,23.3,Allergy
+446,Total,Allergy,Norway,18.9,Allergy
+448,Total,Chronic depression,European Union - 28 countries,7.1,Chronic depression
+449,Total,Chronic depression,Belgium,6.7,Chronic depression
+450,Total,Chronic depression,Bulgaria,3.2,Chronic depression
+451,Total,Chronic depression,Czech Republic,3.9,Chronic depression
+452,Total,Chronic depression,Denmark,8.0,Chronic depression
+453,Total,Chronic depression,Germany,10.6,Chronic depression
+454,Total,Chronic depression,Estonia,4.8,Chronic depression
+455,Total,Chronic depression,Ireland,12.1,Chronic depression
+456,Total,Chronic depression,Greece,4.7,Chronic depression
+457,Total,Chronic depression,Spain,7.8,Chronic depression
+458,Total,Chronic depression,France,5.9,Chronic depression
+459,Total,Chronic depression,Croatia,5.7,Chronic depression
+460,Total,Chronic depression,Italy,5.5,Chronic depression
+461,Total,Chronic depression,Cyprus,3.6,Chronic depression
+462,Total,Chronic depression,Latvia,9.1,Chronic depression
+463,Total,Chronic depression,Lithuania,4.7,Chronic depression
+464,Total,Chronic depression,Luxembourg,9.5,Chronic depression
+465,Total,Chronic depression,Hungary,4.9,Chronic depression
+466,Total,Chronic depression,Malta,5.4,Chronic depression
+467,Total,Chronic depression,Netherlands,7.9,Chronic depression
+468,Total,Chronic depression,Austria,7.7,Chronic depression
+469,Total,Chronic depression,Poland,4.2,Chronic depression
+470,Total,Chronic depression,Portugal,11.9,Chronic depression
+471,Total,Chronic depression,Romania,1.5,Chronic depression
+472,Total,Chronic depression,Slovenia,8.8,Chronic depression
+473,Total,Chronic depression,Slovakia,4.2,Chronic depression
+474,Total,Chronic depression,Finland,10.5,Chronic depression
+475,Total,Chronic depression,Sweden,9.6,Chronic depression
+476,Total,Chronic depression,United Kingdom,8.9,Chronic depression
+477,Total,Chronic depression,Iceland,14.8,Chronic depression
+478,Total,Chronic depression,Norway,6.9,Chronic depression
+480,Males,Arthrosis,European Union - 28 countries,10.0,Arthrosis
+481,Males,Arthrosis,Belgium,11.8,Arthrosis
+482,Males,Arthrosis,Bulgaria,4.5,Arthrosis
+483,Males,Arthrosis,Czech Republic,9.9,Arthrosis
+484,Males,Arthrosis,Denmark,14.0,Arthrosis
+485,Males,Arthrosis,Germany,12.8,Arthrosis
+486,Males,Arthrosis,Estonia,2.0,Arthrosis
+487,Males,Arthrosis,Ireland,3.5,Arthrosis
+488,Males,Arthrosis,Greece,3.5,Arthrosis
+489,Males,Arthrosis,Spain,11.1,Arthrosis
+490,Males,Arthrosis,France,14.9,Arthrosis
+491,Males,Arthrosis,Croatia,3.7,Arthrosis
+492,Males,Arthrosis,Italy,12.0,Arthrosis
+493,Males,Arthrosis,Cyprus,2.8,Arthrosis
+494,Males,Arthrosis,Latvia,6.6,Arthrosis
+495,Males,Arthrosis,Lithuania,4.0,Arthrosis
+496,Males,Arthrosis,Luxembourg,12.6,Arthrosis
+497,Males,Arthrosis,Hungary,17.1,Arthrosis
+498,Males,Arthrosis,Malta,9.1,Arthrosis
+499,Males,Arthrosis,Netherlands,11.7,Arthrosis
+500,Males,Arthrosis,Austria,8.3,Arthrosis
+501,Males,Arthrosis,Poland,10.3,Arthrosis
+502,Males,Arthrosis,Portugal,15.4,Arthrosis
+503,Males,Arthrosis,Romania,3.0,Arthrosis
+504,Males,Arthrosis,Slovenia,2.6,Arthrosis
+505,Males,Arthrosis,Slovakia,8.1,Arthrosis
+506,Males,Arthrosis,Finland,16.8,Arthrosis
+507,Males,Arthrosis,Sweden,8.5,Arthrosis
+508,Males,Arthrosis,United Kingdom,1.8,Arthrosis
+509,Males,Arthrosis,Iceland,10.0,Arthrosis
+510,Males,Arthrosis,Norway,7.1,Arthrosis
+512,Males,Low back disorder or other chronic back defect,European Union - 28 countries,20.6,Low back disorder
+513,Males,Low back disorder or other chronic back defect,Belgium,18.7,Low back disorder
+514,Males,Low back disorder or other chronic back defect,Bulgaria,7.9,Low back disorder
+515,Males,Low back disorder or other chronic back defect,Czech Republic,17.0,Low back disorder
+516,Males,Low back disorder or other chronic back defect,Denmark,12.2,Low back disorder
+517,Males,Low back disorder or other chronic back defect,Germany,35.1,Low back disorder
+518,Males,Low back disorder or other chronic back defect,Estonia,22.6,Low back disorder
+519,Males,Low back disorder or other chronic back defect,Ireland,16.9,Low back disorder
+520,Males,Low back disorder or other chronic back defect,Greece,14.1,Low back disorder
+521,Males,Low back disorder or other chronic back defect,Spain,15.5,Low back disorder
+522,Males,Low back disorder or other chronic back defect,France,27.6,Low back disorder
+523,Males,Low back disorder or other chronic back defect,Croatia,25.1,Low back disorder
+524,Males,Low back disorder or other chronic back defect,Italy,16.2,Low back disorder
+525,Males,Low back disorder or other chronic back defect,Cyprus,10.9,Low back disorder
+526,Males,Low back disorder or other chronic back defect,Latvia,31.2,Low back disorder
+527,Males,Low back disorder or other chronic back defect,Lithuania,22.5,Low back disorder
+528,Males,Low back disorder or other chronic back defect,Luxembourg,28.2,Low back disorder
+529,Males,Low back disorder or other chronic back defect,Hungary,28.8,Low back disorder
+530,Males,Low back disorder or other chronic back defect,Malta,11.3,Low back disorder
+531,Males,Low back disorder or other chronic back defect,Netherlands,9.4,Low back disorder
+532,Males,Low back disorder or other chronic back defect,Austria,22.9,Low back disorder
+533,Males,Low back disorder or other chronic back defect,Poland,21.2,Low back disorder
+534,Males,Low back disorder or other chronic back defect,Portugal,25.3,Low back disorder
+535,Males,Low back disorder or other chronic back defect,Romania,9.3,Low back disorder
+536,Males,Low back disorder or other chronic back defect,Slovenia,35.4,Low back disorder
+537,Males,Low back disorder or other chronic back defect,Slovakia,13.2,Low back disorder
+538,Males,Low back disorder or other chronic back defect,Finland,32.1,Low back disorder
+539,Males,Low back disorder or other chronic back defect,Sweden,12.7,Low back disorder
+540,Males,Low back disorder or other chronic back defect,United Kingdom,11.6,Low back disorder
+541,Males,Low back disorder or other chronic back defect,Iceland,21.8,Low back disorder
+542,Males,Low back disorder or other chronic back defect,Norway,14.1,Low back disorder
+544,Males,Neck disorder or other chronic neck defect,European Union - 28 countries,12.6,Neck disorder
+545,Males,Neck disorder or other chronic neck defect,Belgium,9.1,Neck disorder
+546,Males,Neck disorder or other chronic neck defect,Bulgaria,3.5,Neck disorder
+547,Males,Neck disorder or other chronic neck defect,Czech Republic,6.9,Neck disorder
+548,Males,Neck disorder or other chronic neck defect,Denmark,5.6,Neck disorder
+549,Males,Neck disorder or other chronic neck defect,Germany,25.9,Neck disorder
+550,Males,Neck disorder or other chronic neck defect,Estonia,6.2,Neck disorder
+551,Males,Neck disorder or other chronic neck defect,Ireland,7.1,Neck disorder
+552,Males,Neck disorder or other chronic neck defect,Greece,6.2,Neck disorder
+553,Males,Neck disorder or other chronic neck defect,Spain,10.7,Neck disorder
+554,Males,Neck disorder or other chronic neck defect,France,11.4,Neck disorder
+555,Males,Neck disorder or other chronic neck defect,Croatia,17.8,Neck disorder
+556,Males,Neck disorder or other chronic neck defect,Italy,12.6,Neck disorder
+557,Males,Neck disorder or other chronic neck defect,Cyprus,4.6,Neck disorder
+558,Males,Neck disorder or other chronic neck defect,Latvia,15.3,Neck disorder
+559,Males,Neck disorder or other chronic neck defect,Lithuania,6.2,Neck disorder
+560,Males,Neck disorder or other chronic neck defect,Luxembourg,12.1,Neck disorder
+561,Males,Neck disorder or other chronic neck defect,Hungary,11.0,Neck disorder
+562,Males,Neck disorder or other chronic neck defect,Malta,4.4,Neck disorder
+563,Males,Neck disorder or other chronic neck defect,Netherlands,8.3,Neck disorder
+564,Males,Neck disorder or other chronic neck defect,Austria,14.1,Neck disorder
+565,Males,Neck disorder or other chronic neck defect,Poland,13.0,Neck disorder
+566,Males,Neck disorder or other chronic neck defect,Portugal,15.5,Neck disorder
+567,Males,Neck disorder or other chronic neck defect,Romania,4.0,Neck disorder
+568,Males,Neck disorder or other chronic neck defect,Slovenia,18.3,Neck disorder
+569,Males,Neck disorder or other chronic neck defect,Slovakia,8.4,Neck disorder
+570,Males,Neck disorder or other chronic neck defect,Finland,26.4,Neck disorder
+571,Males,Neck disorder or other chronic neck defect,Sweden,12.5,Neck disorder
+572,Males,Neck disorder or other chronic neck defect,United Kingdom,4.9,Neck disorder
+573,Males,Neck disorder or other chronic neck defect,Iceland,10.3,Neck disorder
+574,Males,Neck disorder or other chronic neck defect,Norway,7.4,Neck disorder
+576,Males,Asthma,European Union - 28 countries,5.2,Asthma
+577,Males,Asthma,Belgium,4.4,Asthma
+578,Males,Asthma,Bulgaria,2.1,Asthma
+579,Males,Asthma,Czech Republic,3.6,Asthma
+580,Males,Asthma,Denmark,6.5,Asthma
+581,Males,Asthma,Germany,5.3,Asthma
+582,Males,Asthma,Estonia,2.7,Asthma
+583,Males,Asthma,Ireland,8.1,Asthma
+584,Males,Asthma,Greece,3.6,Asthma
+585,Males,Asthma,Spain,4.0,Asthma
+586,Males,Asthma,France,8.0,Asthma
+587,Males,Asthma,Croatia,2.9,Asthma
+588,Males,Asthma,Italy,4.7,Asthma
+589,Males,Asthma,Cyprus,3.9,Asthma
+590,Males,Asthma,Latvia,2.5,Asthma
+591,Males,Asthma,Lithuania,2.2,Asthma
+592,Males,Asthma,Luxembourg,6.3,Asthma
+593,Males,Asthma,Hungary,4.1,Asthma
+594,Males,Asthma,Malta,4.7,Asthma
+595,Males,Asthma,Netherlands,4.5,Asthma
+596,Males,Asthma,Austria,4.0,Asthma
+597,Males,Asthma,Poland,3.5,Asthma
+598,Males,Asthma,Portugal,4.1,Asthma
+599,Males,Asthma,Romania,1.8,Asthma
+600,Males,Asthma,Slovenia,4.6,Asthma
+601,Males,Asthma,Slovakia,2.8,Asthma
+602,Males,Asthma,Finland,7.2,Asthma
+603,Males,Asthma,Sweden,6.1,Asthma
+604,Males,Asthma,United Kingdom,8.0,Asthma
+605,Males,Asthma,Iceland,6.9,Asthma
+606,Males,Asthma,Norway,5.3,Asthma
+608,Males,Chronic lower respiratory diseases (excluding asthma),European Union - 28 countries,3.9,Respiratory diseases
+609,Males,Chronic lower respiratory diseases (excluding asthma),Belgium,3.5,Respiratory diseases
+610,Males,Chronic lower respiratory diseases (excluding asthma),Bulgaria,4.1,Respiratory diseases
+611,Males,Chronic lower respiratory diseases (excluding asthma),Czech Republic,2.3,Respiratory diseases
+612,Males,Chronic lower respiratory diseases (excluding asthma),Denmark,3.8,Respiratory diseases
+613,Males,Chronic lower respiratory diseases (excluding asthma),Germany,5.2,Respiratory diseases
+614,Males,Chronic lower respiratory diseases (excluding asthma),Estonia,1.9,Respiratory diseases
+615,Males,Chronic lower respiratory diseases (excluding asthma),Ireland,3.0,Respiratory diseases
+616,Males,Chronic lower respiratory diseases (excluding asthma),Greece,3.7,Respiratory diseases
+617,Males,Chronic lower respiratory diseases (excluding asthma),Spain,3.6,Respiratory diseases
+618,Males,Chronic lower respiratory diseases (excluding asthma),France,4.9,Respiratory diseases
+619,Males,Chronic lower respiratory diseases (excluding asthma),Croatia,4.3,Respiratory diseases
+620,Males,Chronic lower respiratory diseases (excluding asthma),Italy,4.9,Respiratory diseases
+621,Males,Chronic lower respiratory diseases (excluding asthma),Cyprus,1.7,Respiratory diseases
+622,Males,Chronic lower respiratory diseases (excluding asthma),Latvia,2.8,Respiratory diseases
+623,Males,Chronic lower respiratory diseases (excluding asthma),Lithuania,4.6,Respiratory diseases
+624,Males,Chronic lower respiratory diseases (excluding asthma),Luxembourg,5.7,Respiratory diseases
+625,Males,Chronic lower respiratory diseases (excluding asthma),Hungary,3.1,Respiratory diseases
+626,Males,Chronic lower respiratory diseases (excluding asthma),Malta,0.8,Respiratory diseases
+627,Males,Chronic lower respiratory diseases (excluding asthma),Netherlands,4.8,Respiratory diseases
+628,Males,Chronic lower respiratory diseases (excluding asthma),Austria,4.0,Respiratory diseases
+629,Males,Chronic lower respiratory diseases (excluding asthma),Poland,2.8,Respiratory diseases
+630,Males,Chronic lower respiratory diseases (excluding asthma),Portugal,4.7,Respiratory diseases
+631,Males,Chronic lower respiratory diseases (excluding asthma),Romania,2.3,Respiratory diseases
+632,Males,Chronic lower respiratory diseases (excluding asthma),Slovenia,4.0,Respiratory diseases
+633,Males,Chronic lower respiratory diseases (excluding asthma),Slovakia,2.4,Respiratory diseases
+634,Males,Chronic lower respiratory diseases (excluding asthma),Finland,3.2,Respiratory diseases
+635,Males,Chronic lower respiratory diseases (excluding asthma),Sweden,1.3,Respiratory diseases
+636,Males,Chronic lower respiratory diseases (excluding asthma),United Kingdom,2.8,Respiratory diseases
+637,Males,Chronic lower respiratory diseases (excluding asthma),Iceland,3.4,Respiratory diseases
+638,Males,Chronic lower respiratory diseases (excluding asthma),Norway,2.8,Respiratory diseases
+640,Males,Heart attack or chronic consequences of heart attack,European Union - 28 countries,2.1,Heart attack
+641,Males,Heart attack or chronic consequences of heart attack,Belgium,1.3,Heart attack
+642,Males,Heart attack or chronic consequences of heart attack,Bulgaria,2.7,Heart attack
+643,Males,Heart attack or chronic consequences of heart attack,Czech Republic,2.1,Heart attack
+644,Males,Heart attack or chronic consequences of heart attack,Denmark,1.3,Heart attack
+645,Males,Heart attack or chronic consequences of heart attack,Germany,2.4,Heart attack
+646,Males,Heart attack or chronic consequences of heart attack,Estonia,1.5,Heart attack
+647,Males,Heart attack or chronic consequences of heart attack,Ireland,1.9,Heart attack
+648,Males,Heart attack or chronic consequences of heart attack,Greece,3.1,Heart attack
+649,Males,Heart attack or chronic consequences of heart attack,Spain,0.9,Heart attack
+650,Males,Heart attack or chronic consequences of heart attack,France,1.4,Heart attack
+651,Males,Heart attack or chronic consequences of heart attack,Croatia,2.5,Heart attack
+652,Males,Heart attack or chronic consequences of heart attack,Italy,2.8,Heart attack
+653,Males,Heart attack or chronic consequences of heart attack,Cyprus,3.2,Heart attack
+654,Males,Heart attack or chronic consequences of heart attack,Latvia,1.0,Heart attack
+655,Males,Heart attack or chronic consequences of heart attack,Lithuania,2.7,Heart attack
+656,Males,Heart attack or chronic consequences of heart attack,Luxembourg,1.6,Heart attack
+657,Males,Heart attack or chronic consequences of heart attack,Hungary,2.6,Heart attack
+658,Males,Heart attack or chronic consequences of heart attack,Malta,1.7,Heart attack
+659,Males,Heart attack or chronic consequences of heart attack,Netherlands,0.4,Heart attack
+660,Males,Heart attack or chronic consequences of heart attack,Austria,1.4,Heart attack
+661,Males,Heart attack or chronic consequences of heart attack,Poland,4.0,Heart attack
+662,Males,Heart attack or chronic consequences of heart attack,Portugal,1.9,Heart attack
+663,Males,Heart attack or chronic consequences of heart attack,Romania,1.3,Heart attack
+664,Males,Heart attack or chronic consequences of heart attack,Slovenia,1.6,Heart attack
+665,Males,Heart attack or chronic consequences of heart attack,Slovakia,2.8,Heart attack
+666,Males,Heart attack or chronic consequences of heart attack,Finland,2.3,Heart attack
+667,Males,Heart attack or chronic consequences of heart attack,Sweden,1.7,Heart attack
+668,Males,Heart attack or chronic consequences of heart attack,United Kingdom,2.0,Heart attack
+669,Males,Heart attack or chronic consequences of heart attack,Iceland,3.2,Heart attack
+670,Males,Heart attack or chronic consequences of heart attack,Norway,2.0,Heart attack
+672,Males,Coronary heart disease or angina pectoris,European Union - 28 countries,3.6,Coronary heart disease
+673,Males,Coronary heart disease or angina pectoris,Belgium,1.7,Coronary heart disease
+674,Males,Coronary heart disease or angina pectoris,Bulgaria,7.9,Coronary heart disease
+675,Males,Coronary heart disease or angina pectoris,Czech Republic,4.5,Coronary heart disease
+676,Males,Coronary heart disease or angina pectoris,Denmark,2.1,Coronary heart disease
+677,Males,Coronary heart disease or angina pectoris,Germany,4.7,Coronary heart disease
+678,Males,Coronary heart disease or angina pectoris,Estonia,4.2,Coronary heart disease
+679,Males,Coronary heart disease or angina pectoris,Ireland,3.3,Coronary heart disease
+680,Males,Coronary heart disease or angina pectoris,Greece,3.9,Coronary heart disease
+681,Males,Coronary heart disease or angina pectoris,Spain,0.9,Coronary heart disease
+682,Males,Coronary heart disease or angina pectoris,France,2.7,Coronary heart disease
+683,Males,Coronary heart disease or angina pectoris,Croatia,4.6,Coronary heart disease
+684,Males,Coronary heart disease or angina pectoris,Italy,2.7,Coronary heart disease
+685,Males,Coronary heart disease or angina pectoris,Cyprus,2.4,Coronary heart disease
+686,Males,Coronary heart disease or angina pectoris,Latvia,4.9,Coronary heart disease
+687,Males,Coronary heart disease or angina pectoris,Lithuania,6.0,Coronary heart disease
+688,Males,Coronary heart disease or angina pectoris,Luxembourg,2.7,Coronary heart disease
+689,Males,Coronary heart disease or angina pectoris,Hungary,4.6,Coronary heart disease
+690,Males,Coronary heart disease or angina pectoris,Malta,2.6,Coronary heart disease
+691,Males,Coronary heart disease or angina pectoris,Netherlands,2.2,Coronary heart disease
+692,Males,Coronary heart disease or angina pectoris,Austria,2.1,Coronary heart disease
+693,Males,Coronary heart disease or angina pectoris,Poland,8.0,Coronary heart disease
+694,Males,Coronary heart disease or angina pectoris,Portugal,3.1,Coronary heart disease
+695,Males,Coronary heart disease or angina pectoris,Romania,2.7,Coronary heart disease
+696,Males,Coronary heart disease or angina pectoris,Slovenia,3.1,Coronary heart disease
+697,Males,Coronary heart disease or angina pectoris,Slovakia,5.4,Coronary heart disease
+698,Males,Coronary heart disease or angina pectoris,Finland,5.3,Coronary heart disease
+699,Males,Coronary heart disease or angina pectoris,Sweden,1.5,Coronary heart disease
+700,Males,Coronary heart disease or angina pectoris,United Kingdom,3.6,Coronary heart disease
+701,Males,Coronary heart disease or angina pectoris,Iceland,4.1,Coronary heart disease
+702,Males,Coronary heart disease or angina pectoris,Norway,1.5,Coronary heart disease
+704,Males,High blood pressure,European Union - 28 countries,20.2,High blood pressure
+705,Males,High blood pressure,Belgium,15.6,High blood pressure
+706,Males,High blood pressure,Bulgaria,26.0,High blood pressure
+707,Males,High blood pressure,Czech Republic,23.5,High blood pressure
+708,Males,High blood pressure,Denmark,17.9,High blood pressure
+709,Males,High blood pressure,Germany,29.2,High blood pressure
+710,Males,High blood pressure,Estonia,19.8,High blood pressure
+711,Males,High blood pressure,Ireland,15.6,High blood pressure
+712,Males,High blood pressure,Greece,19.1,High blood pressure
+713,Males,High blood pressure,Spain,18.3,High blood pressure
+714,Males,High blood pressure,France,13.9,High blood pressure
+715,Males,High blood pressure,Croatia,22.3,High blood pressure
+716,Males,High blood pressure,Italy,19.8,High blood pressure
+717,Males,High blood pressure,Cyprus,17.8,High blood pressure
+718,Males,High blood pressure,Latvia,22.8,High blood pressure
+719,Males,High blood pressure,Lithuania,21.9,High blood pressure
+720,Males,High blood pressure,Luxembourg,17.8,High blood pressure
+721,Males,High blood pressure,Hungary,29.4,High blood pressure
+722,Males,High blood pressure,Malta,21.2,High blood pressure
+723,Males,High blood pressure,Netherlands,16.0,High blood pressure
+724,Males,High blood pressure,Austria,20.5,High blood pressure
+725,Males,High blood pressure,Poland,20.7,High blood pressure
+726,Males,High blood pressure,Portugal,21.6,High blood pressure
+727,Males,High blood pressure,Romania,12.9,High blood pressure
+728,Males,High blood pressure,Slovenia,24.5,High blood pressure
+729,Males,High blood pressure,Slovakia,22.5,High blood pressure
+730,Males,High blood pressure,Finland,26.0,High blood pressure
+731,Males,High blood pressure,Sweden,15.1,High blood pressure
+732,Males,High blood pressure,United Kingdom,16.8,High blood pressure
+733,Males,High blood pressure,Iceland,18.5,High blood pressure
+734,Males,High blood pressure,Norway,12.8,High blood pressure
+736,Males,Stroke or chronic consequences of stroke,European Union - 28 countries,1.4,Stroke
+737,Males,Stroke or chronic consequences of stroke,Belgium,1.1,Stroke
+738,Males,Stroke or chronic consequences of stroke,Bulgaria,2.8,Stroke
+739,Males,Stroke or chronic consequences of stroke,Czech Republic,1.3,Stroke
+740,Males,Stroke or chronic consequences of stroke,Denmark,1.3,Stroke
+741,Males,Stroke or chronic consequences of stroke,Germany,1.4,Stroke
+742,Males,Stroke or chronic consequences of stroke,Estonia,1.2,Stroke
+743,Males,Stroke or chronic consequences of stroke,Ireland,0.9,Stroke
+744,Males,Stroke or chronic consequences of stroke,Greece,2.0,Stroke
+745,Males,Stroke or chronic consequences of stroke,Spain,1.0,Stroke
+746,Males,Stroke or chronic consequences of stroke,France,1.0,Stroke
+747,Males,Stroke or chronic consequences of stroke,Croatia,2.2,Stroke
+748,Males,Stroke or chronic consequences of stroke,Italy,1.4,Stroke
+749,Males,Stroke or chronic consequences of stroke,Cyprus,1.4,Stroke
+750,Males,Stroke or chronic consequences of stroke,Latvia,1.1,Stroke
+751,Males,Stroke or chronic consequences of stroke,Lithuania,2.5,Stroke
+752,Males,Stroke or chronic consequences of stroke,Luxembourg,1.5,Stroke
+753,Males,Stroke or chronic consequences of stroke,Hungary,2.7,Stroke
+754,Males,Stroke or chronic consequences of stroke,Malta,0.4,Stroke
+755,Males,Stroke or chronic consequences of stroke,Netherlands,0.3,Stroke
+756,Males,Stroke or chronic consequences of stroke,Austria,0.8,Stroke
+757,Males,Stroke or chronic consequences of stroke,Poland,2.2,Stroke
+758,Males,Stroke or chronic consequences of stroke,Portugal,1.9,Stroke
+759,Males,Stroke or chronic consequences of stroke,Romania,1.2,Stroke
+760,Males,Stroke or chronic consequences of stroke,Slovenia,1.9,Stroke
+761,Males,Stroke or chronic consequences of stroke,Slovakia,2.0,Stroke
+762,Males,Stroke or chronic consequences of stroke,Finland,2.1,Stroke
+763,Males,Stroke or chronic consequences of stroke,Sweden,1.1,Stroke
+764,Males,Stroke or chronic consequences of stroke,United Kingdom,1.2,Stroke
+765,Males,Stroke or chronic consequences of stroke,Iceland,1.6,Stroke
+766,Males,Stroke or chronic consequences of stroke,Norway,1.2,Stroke
+768,Males,Cirrhosis of the liver,European Union - 28 countries,0.4,Cirrhosis of the liver
+769,Males,Cirrhosis of the liver,Belgium,0.7,Cirrhosis of the liver
+770,Males,Cirrhosis of the liver,Bulgaria,0.4,Cirrhosis of the liver
+771,Males,Cirrhosis of the liver,Czech Republic,0.3,Cirrhosis of the liver
+772,Males,Cirrhosis of the liver,Denmark,0.2,Cirrhosis of the liver
+773,Males,Cirrhosis of the liver,Germany,0.3,Cirrhosis of the liver
+774,Males,Cirrhosis of the liver,Estonia,0.3,Cirrhosis of the liver
+775,Males,Cirrhosis of the liver,Ireland,0.5,Cirrhosis of the liver
+776,Males,Cirrhosis of the liver,Greece,0.2,Cirrhosis of the liver
+777,Males,Cirrhosis of the liver,Spain,0.8,Cirrhosis of the liver
+778,Males,Cirrhosis of the liver,France,0.1,Cirrhosis of the liver
+779,Males,Cirrhosis of the liver,Croatia,0.8,Cirrhosis of the liver
+780,Males,Cirrhosis of the liver,Italy,0.4,Cirrhosis of the liver
+781,Males,Cirrhosis of the liver,Cyprus,0.5,Cirrhosis of the liver
+782,Males,Cirrhosis of the liver,Latvia,0.7,Cirrhosis of the liver
+783,Males,Cirrhosis of the liver,Lithuania,0.6,Cirrhosis of the liver
+784,Males,Cirrhosis of the liver,Luxembourg,0.3,Cirrhosis of the liver
+785,Males,Cirrhosis of the liver,Hungary,0.6,Cirrhosis of the liver
+786,Males,Cirrhosis of the liver,Malta,0.4,Cirrhosis of the liver
+787,Males,Cirrhosis of the liver,Netherlands,0.2,Cirrhosis of the liver
+788,Males,Cirrhosis of the liver,Austria,0.2,Cirrhosis of the liver
+789,Males,Cirrhosis of the liver,Poland,0.7,Cirrhosis of the liver
+790,Males,Cirrhosis of the liver,Portugal,0.8,Cirrhosis of the liver
+791,Males,Cirrhosis of the liver,Romania,0.6,Cirrhosis of the liver
+792,Males,Cirrhosis of the liver,Slovenia,0.9,Cirrhosis of the liver
+793,Males,Cirrhosis of the liver,Slovakia,0.6,Cirrhosis of the liver
+794,Males,Cirrhosis of the liver,Finland,0.3,Cirrhosis of the liver
+795,Males,Cirrhosis of the liver,Sweden,0.3,Cirrhosis of the liver
+796,Males,Cirrhosis of the liver,United Kingdom,0.3,Cirrhosis of the liver
+797,Males,Cirrhosis of the liver,Iceland,0.1,Cirrhosis of the liver
+798,Males,Cirrhosis of the liver,Norway,0.3,Cirrhosis of the liver
+800,Males,"Urinary incontinence, problems in controlling the bladder",European Union - 28 countries,3.6,Urinary
+801,Males,"Urinary incontinence, problems in controlling the bladder",Belgium,2.9,Urinary
+802,Males,"Urinary incontinence, problems in controlling the bladder",Bulgaria,3.1,Urinary
+803,Males,"Urinary incontinence, problems in controlling the bladder",Czech Republic,3.8,Urinary
+804,Males,"Urinary incontinence, problems in controlling the bladder",Denmark,6.0,Urinary
+805,Males,"Urinary incontinence, problems in controlling the bladder",Germany,5.7,Urinary
+806,Males,"Urinary incontinence, problems in controlling the bladder",Estonia,1.0,Urinary
+807,Males,"Urinary incontinence, problems in controlling the bladder",Ireland,4.9,Urinary
+808,Males,"Urinary incontinence, problems in controlling the bladder",Greece,2.3,Urinary
+809,Males,"Urinary incontinence, problems in controlling the bladder",Spain,3.1,Urinary
+810,Males,"Urinary incontinence, problems in controlling the bladder",France,3.5,Urinary
+811,Males,"Urinary incontinence, problems in controlling the bladder",Croatia,5.7,Urinary
+812,Males,"Urinary incontinence, problems in controlling the bladder",Italy,3.9,Urinary
+813,Males,"Urinary incontinence, problems in controlling the bladder",Cyprus,1.0,Urinary
+814,Males,"Urinary incontinence, problems in controlling the bladder",Latvia,5.3,Urinary
+815,Males,"Urinary incontinence, problems in controlling the bladder",Lithuania,3.7,Urinary
+816,Males,"Urinary incontinence, problems in controlling the bladder",Luxembourg,4.3,Urinary
+817,Males,"Urinary incontinence, problems in controlling the bladder",Hungary,3.8,Urinary
+818,Males,"Urinary incontinence, problems in controlling the bladder",Malta,1.5,Urinary
+819,Males,"Urinary incontinence, problems in controlling the bladder",Netherlands,2.7,Urinary
+820,Males,"Urinary incontinence, problems in controlling the bladder",Austria,2.0,Urinary
+821,Males,"Urinary incontinence, problems in controlling the bladder",Poland,2.1,Urinary
+822,Males,"Urinary incontinence, problems in controlling the bladder",Portugal,4.8,Urinary
+823,Males,"Urinary incontinence, problems in controlling the bladder",Romania,1.6,Urinary
+824,Males,"Urinary incontinence, problems in controlling the bladder",Slovenia,5.8,Urinary
+825,Males,"Urinary incontinence, problems in controlling the bladder",Slovakia,3.1,Urinary
+826,Males,"Urinary incontinence, problems in controlling the bladder",Finland,4.4,Urinary
+827,Males,"Urinary incontinence, problems in controlling the bladder",Sweden,4.1,Urinary
+828,Males,"Urinary incontinence, problems in controlling the bladder",United Kingdom,2.3,Urinary
+829,Males,"Urinary incontinence, problems in controlling the bladder",Iceland,5.5,Urinary
+830,Males,"Urinary incontinence, problems in controlling the bladder",Norway,1.2,Urinary
+832,Males,Kidney problems,European Union - 28 countries,2.4,Kidney problems
+833,Males,Kidney problems,Belgium,1.0,Kidney problems
+834,Males,Kidney problems,Bulgaria,4.9,Kidney problems
+835,Males,Kidney problems,Czech Republic,2.1,Kidney problems
+836,Males,Kidney problems,Denmark,1.8,Kidney problems
+837,Males,Kidney problems,Germany,1.9,Kidney problems
+838,Males,Kidney problems,Estonia,1.3,Kidney problems
+839,Males,Kidney problems,Ireland,3.0,Kidney problems
+840,Males,Kidney problems,Greece,2.3,Kidney problems
+841,Males,Kidney problems,Spain,2.5,Kidney problems
+842,Males,Kidney problems,France,2.0,Kidney problems
+843,Males,Kidney problems,Croatia,3.2,Kidney problems
+844,Males,Kidney problems,Italy,3.6,Kidney problems
+845,Males,Kidney problems,Cyprus,2.0,Kidney problems
+846,Males,Kidney problems,Latvia,3.4,Kidney problems
+847,Males,Kidney problems,Lithuania,3.8,Kidney problems
+848,Males,Kidney problems,Luxembourg,2.7,Kidney problems
+849,Males,Kidney problems,Hungary,2.4,Kidney problems
+850,Males,Kidney problems,Malta,1.0,Kidney problems
+851,Males,Kidney problems,Netherlands,1.8,Kidney problems
+852,Males,Kidney problems,Austria,1.1,Kidney problems
+853,Males,Kidney problems,Poland,3.3,Kidney problems
+854,Males,Kidney problems,Portugal,3.6,Kidney problems
+855,Males,Kidney problems,Romania,1.4,Kidney problems
+856,Males,Kidney problems,Slovenia,3.8,Kidney problems
+857,Males,Kidney problems,Slovakia,3.1,Kidney problems
+858,Males,Kidney problems,Finland,1.5,Kidney problems
+859,Males,Kidney problems,Sweden,2.0,Kidney problems
+860,Males,Kidney problems,United Kingdom,1.9,Kidney problems
+861,Males,Kidney problems,Iceland,2.4,Kidney problems
+862,Males,Kidney problems,Norway,0.6,Kidney problems
+864,Males,Diabetes,European Union - 28 countries,7.1,Diabetes
+865,Males,Diabetes,Belgium,5.4,Diabetes
+866,Males,Diabetes,Bulgaria,5.4,Diabetes
+867,Males,Diabetes,Czech Republic,7.3,Diabetes
+868,Males,Diabetes,Denmark,5.3,Diabetes
+869,Males,Diabetes,Germany,8.0,Diabetes
+870,Males,Diabetes,Estonia,4.7,Diabetes
+871,Males,Diabetes,Ireland,5.6,Diabetes
+872,Males,Diabetes,Greece,8.8,Diabetes
+873,Males,Diabetes,Spain,7.3,Diabetes
+874,Males,Diabetes,France,9.5,Diabetes
+875,Males,Diabetes,Croatia,7.1,Diabetes
+876,Males,Diabetes,Italy,6.8,Diabetes
+877,Males,Diabetes,Cyprus,6.9,Diabetes
+878,Males,Diabetes,Latvia,3.3,Diabetes
+879,Males,Diabetes,Lithuania,3.2,Diabetes
+880,Males,Diabetes,Luxembourg,6.9,Diabetes
+881,Males,Diabetes,Hungary,8.0,Diabetes
+882,Males,Diabetes,Malta,8.9,Diabetes
+883,Males,Diabetes,Netherlands,5.9,Diabetes
+884,Males,Diabetes,Austria,5.4,Diabetes
+885,Males,Diabetes,Poland,6.4,Diabetes
+886,Males,Diabetes,Portugal,9.4,Diabetes
+887,Males,Diabetes,Romania,3.8,Diabetes
+888,Males,Diabetes,Slovenia,7.4,Diabetes
+889,Males,Diabetes,Slovakia,6.4,Diabetes
+890,Males,Diabetes,Finland,9.2,Diabetes
+891,Males,Diabetes,Sweden,5.3,Diabetes
+892,Males,Diabetes,United Kingdom,6.6,Diabetes
+893,Males,Diabetes,Iceland,4.8,Diabetes
+894,Males,Diabetes,Norway,4.4,Diabetes
+896,Males,Allergy,European Union - 28 countries,14.6,Allergy
+897,Males,Allergy,Belgium,12.7,Allergy
+898,Males,Allergy,Bulgaria,2.9,Allergy
+899,Males,Allergy,Czech Republic,9.2,Allergy
+900,Males,Allergy,Denmark,14.6,Allergy
+901,Males,Allergy,Germany,25.6,Allergy
+902,Males,Allergy,Estonia,6.1,Allergy
+903,Males,Allergy,Ireland,10.2,Allergy
+904,Males,Allergy,Greece,7.2,Allergy
+905,Males,Allergy,Spain,12.0,Allergy
+906,Males,Allergy,France,11.5,Allergy
+907,Males,Allergy,Croatia,11.0,Allergy
+908,Males,Allergy,Italy,13.7,Allergy
+909,Males,Allergy,Cyprus,4.9,Allergy
+910,Males,Allergy,Latvia,7.7,Allergy
+911,Males,Allergy,Lithuania,4.7,Allergy
+912,Males,Allergy,Luxembourg,22.4,Allergy
+913,Males,Allergy,Hungary,13.6,Allergy
+914,Males,Allergy,Malta,13.7,Allergy
+915,Males,Allergy,Netherlands,16.5,Allergy
+916,Males,Allergy,Austria,21.8,Allergy
+917,Males,Allergy,Poland,6.7,Allergy
+918,Males,Allergy,Portugal,15.3,Allergy
+919,Males,Allergy,Romania,0.9,Allergy
+920,Males,Allergy,Slovenia,13.3,Allergy
+921,Males,Allergy,Slovakia,10.8,Allergy
+922,Males,Allergy,Finland,26.3,Allergy
+923,Males,Allergy,Sweden,19.7,Allergy
+924,Males,Allergy,United Kingdom,17.9,Allergy
+925,Males,Allergy,Iceland,21.4,Allergy
+926,Males,Allergy,Norway,16.8,Allergy
+928,Males,Chronic depression,European Union - 28 countries,5.3,Chronic depression
+929,Males,Chronic depression,Belgium,4.9,Chronic depression
+930,Males,Chronic depression,Bulgaria,2.1,Chronic depression
+931,Males,Chronic depression,Czech Republic,3.1,Chronic depression
+932,Males,Chronic depression,Denmark,6.6,Chronic depression
+933,Males,Chronic depression,Germany,9.0,Chronic depression
+934,Males,Chronic depression,Estonia,4.0,Chronic depression
+935,Males,Chronic depression,Ireland,10.8,Chronic depression
+936,Males,Chronic depression,Greece,3.2,Chronic depression
+937,Males,Chronic depression,Spain,4.8,Chronic depression
+938,Males,Chronic depression,France,3.9,Chronic depression
+939,Males,Chronic depression,Croatia,5.1,Chronic depression
+940,Males,Chronic depression,Italy,3.8,Chronic depression
+941,Males,Chronic depression,Cyprus,2.5,Chronic depression
+942,Males,Chronic depression,Latvia,6.0,Chronic depression
+943,Males,Chronic depression,Lithuania,2.9,Chronic depression
+944,Males,Chronic depression,Luxembourg,8.2,Chronic depression
+945,Males,Chronic depression,Hungary,3.1,Chronic depression
+946,Males,Chronic depression,Malta,4.2,Chronic depression
+947,Males,Chronic depression,Netherlands,6.6,Chronic depression
+948,Males,Chronic depression,Austria,5.7,Chronic depression
+949,Males,Chronic depression,Poland,2.7,Chronic depression
+950,Males,Chronic depression,Portugal,5.9,Chronic depression
+951,Males,Chronic depression,Romania,1.0,Chronic depression
+952,Males,Chronic depression,Slovenia,6.9,Chronic depression
+953,Males,Chronic depression,Slovakia,3.0,Chronic depression
+954,Males,Chronic depression,Finland,9.0,Chronic depression
+955,Males,Chronic depression,Sweden,7.1,Chronic depression
+956,Males,Chronic depression,United Kingdom,7.3,Chronic depression
+957,Males,Chronic depression,Iceland,12.3,Chronic depression
+958,Males,Chronic depression,Norway,4.9,Chronic depression
+960,Females,Arthrosis,European Union - 28 countries,17.9,Arthrosis
+961,Females,Arthrosis,Belgium,21.2,Arthrosis
+962,Females,Arthrosis,Bulgaria,10.2,Arthrosis
+963,Females,Arthrosis,Czech Republic,14.6,Arthrosis
+964,Females,Arthrosis,Denmark,20.5,Arthrosis
+965,Females,Arthrosis,Germany,20.9,Arthrosis
+966,Females,Arthrosis,Estonia,4.9,Arthrosis
+967,Females,Arthrosis,Ireland,3.2,Arthrosis
+968,Females,Arthrosis,Greece,9.4,Arthrosis
+969,Females,Arthrosis,Spain,23.1,Arthrosis
+970,Females,Arthrosis,France,24.6,Arthrosis
+971,Females,Arthrosis,Croatia,8.2,Arthrosis
+972,Females,Arthrosis,Italy,23.2,Arthrosis
+973,Females,Arthrosis,Cyprus,5.4,Arthrosis
+974,Females,Arthrosis,Latvia,16.2,Arthrosis
+975,Females,Arthrosis,Lithuania,11.5,Arthrosis
+976,Females,Arthrosis,Luxembourg,22.1,Arthrosis
+977,Females,Arthrosis,Hungary,22.6,Arthrosis
+978,Females,Arthrosis,Malta,15.9,Arthrosis
+979,Females,Arthrosis,Netherlands,18.5,Arthrosis
+980,Females,Arthrosis,Austria,15.4,Arthrosis
+981,Females,Arthrosis,Poland,19.6,Arthrosis
+982,Females,Arthrosis,Portugal,31.8,Arthrosis
+983,Females,Arthrosis,Romania,6.2,Arthrosis
+984,Females,Arthrosis,Slovenia,6.2,Arthrosis
+985,Females,Arthrosis,Slovakia,15.3,Arthrosis
+986,Females,Arthrosis,Finland,25.6,Arthrosis
+987,Females,Arthrosis,Sweden,16.5,Arthrosis
+988,Females,Arthrosis,United Kingdom,2.7,Arthrosis
+989,Females,Arthrosis,Iceland,19.1,Arthrosis
+990,Females,Arthrosis,Norway,13.2,Arthrosis
+992,Females,Low back disorder or other chronic back defect,European Union - 28 countries,25.6,Low back disorder
+993,Females,Low back disorder or other chronic back defect,Belgium,22.7,Low back disorder
+994,Females,Low back disorder or other chronic back defect,Bulgaria,12.1,Low back disorder
+995,Females,Low back disorder or other chronic back defect,Czech Republic,19.4,Low back disorder
+996,Females,Low back disorder or other chronic back defect,Denmark,14.5,Low back disorder
+997,Females,Low back disorder or other chronic back defect,Germany,41.2,Low back disorder
+998,Females,Low back disorder or other chronic back defect,Estonia,25.3,Low back disorder
+999,Females,Low back disorder or other chronic back defect,Ireland,18.7,Low back disorder
+1000,Females,Low back disorder or other chronic back defect,Greece,21.4,Low back disorder
+1001,Females,Low back disorder or other chronic back defect,Spain,22.7,Low back disorder
+1002,Females,Low back disorder or other chronic back defect,France,31.3,Low back disorder
+1003,Females,Low back disorder or other chronic back defect,Croatia,32.5,Low back disorder
+1004,Females,Low back disorder or other chronic back defect,Italy,21.2,Low back disorder
+1005,Females,Low back disorder or other chronic back defect,Cyprus,14.9,Low back disorder
+1006,Females,Low back disorder or other chronic back defect,Latvia,40.0,Low back disorder
+1007,Females,Low back disorder or other chronic back defect,Lithuania,27.3,Low back disorder
+1008,Females,Low back disorder or other chronic back defect,Luxembourg,31.3,Low back disorder
+1009,Females,Low back disorder or other chronic back defect,Hungary,31.7,Low back disorder
+1010,Females,Low back disorder or other chronic back defect,Malta,15.3,Low back disorder
+1011,Females,Low back disorder or other chronic back defect,Netherlands,12.2,Low back disorder
+1012,Females,Low back disorder or other chronic back defect,Austria,25.8,Low back disorder
+1013,Females,Low back disorder or other chronic back defect,Poland,28.4,Low back disorder
+1014,Females,Low back disorder or other chronic back defect,Portugal,39.7,Low back disorder
+1015,Females,Low back disorder or other chronic back defect,Romania,12.6,Low back disorder
+1016,Females,Low back disorder or other chronic back defect,Slovenia,41.0,Low back disorder
+1017,Females,Low back disorder or other chronic back defect,Slovakia,19.7,Low back disorder
+1018,Females,Low back disorder or other chronic back defect,Finland,35.0,Low back disorder
+1019,Females,Low back disorder or other chronic back defect,Sweden,16.8,Low back disorder
+1020,Females,Low back disorder or other chronic back defect,United Kingdom,14.3,Low back disorder
+1021,Females,Low back disorder or other chronic back defect,Iceland,29.1,Low back disorder
+1022,Females,Low back disorder or other chronic back defect,Norway,15.1,Low back disorder
+1024,Females,Neck disorder or other chronic neck defect,European Union - 28 countries,21.0,Neck disorder
+1025,Females,Neck disorder or other chronic neck defect,Belgium,14.3,Neck disorder
+1026,Females,Neck disorder or other chronic neck defect,Bulgaria,6.9,Neck disorder
+1027,Females,Neck disorder or other chronic neck defect,Czech Republic,14.0,Neck disorder
+1028,Females,Neck disorder or other chronic neck defect,Denmark,9.1,Neck disorder
+1029,Females,Neck disorder or other chronic neck defect,Germany,40.3,Neck disorder
+1030,Females,Neck disorder or other chronic neck defect,Estonia,12.3,Neck disorder
+1031,Females,Neck disorder or other chronic neck defect,Ireland,8.9,Neck disorder
+1032,Females,Neck disorder or other chronic neck defect,Greece,14.0,Neck disorder
+1033,Females,Neck disorder or other chronic neck defect,Spain,22.0,Neck disorder
+1034,Females,Neck disorder or other chronic neck defect,France,19.8,Neck disorder
+1035,Females,Neck disorder or other chronic neck defect,Croatia,27.3,Neck disorder
+1036,Females,Neck disorder or other chronic neck defect,Italy,21.6,Neck disorder
+1037,Females,Neck disorder or other chronic neck defect,Cyprus,10.0,Neck disorder
+1038,Females,Neck disorder or other chronic neck defect,Latvia,29.6,Neck disorder
+1039,Females,Neck disorder or other chronic neck defect,Lithuania,13.6,Neck disorder
+1040,Females,Neck disorder or other chronic neck defect,Luxembourg,18.5,Neck disorder
+1041,Females,Neck disorder or other chronic neck defect,Hungary,17.2,Neck disorder
+1042,Females,Neck disorder or other chronic neck defect,Malta,8.2,Neck disorder
+1043,Females,Neck disorder or other chronic neck defect,Netherlands,13.1,Neck disorder
+1044,Females,Neck disorder or other chronic neck defect,Austria,22.7,Neck disorder
+1045,Females,Neck disorder or other chronic neck defect,Poland,21.0,Neck disorder
+1046,Females,Neck disorder or other chronic neck defect,Portugal,31.6,Neck disorder
+1047,Females,Neck disorder or other chronic neck defect,Romania,8.3,Neck disorder
+1048,Females,Neck disorder or other chronic neck defect,Slovenia,27.8,Neck disorder
+1049,Females,Neck disorder or other chronic neck defect,Slovakia,17.5,Neck disorder
+1050,Females,Neck disorder or other chronic neck defect,Finland,41.4,Neck disorder
+1051,Females,Neck disorder or other chronic neck defect,Sweden,17.6,Neck disorder
+1052,Females,Neck disorder or other chronic neck defect,United Kingdom,6.6,Neck disorder
+1053,Females,Neck disorder or other chronic neck defect,Iceland,19.9,Neck disorder
+1054,Females,Neck disorder or other chronic neck defect,Norway,12.1,Neck disorder
+1056,Females,Asthma,European Union - 28 countries,6.6,Asthma
+1057,Females,Asthma,Belgium,4.2,Asthma
+1058,Females,Asthma,Bulgaria,3.3,Asthma
+1059,Females,Asthma,Czech Republic,5.5,Asthma
+1060,Females,Asthma,Denmark,6.5,Asthma
+1061,Females,Asthma,Germany,6.9,Asthma
+1062,Females,Asthma,Estonia,3.4,Asthma
+1063,Females,Asthma,Ireland,9.9,Asthma
+1064,Females,Asthma,Greece,5.2,Asthma
+1065,Females,Asthma,Spain,4.9,Asthma
+1066,Females,Asthma,France,9.5,Asthma
+1067,Females,Asthma,Croatia,3.2,Asthma
+1068,Females,Asthma,Italy,4.9,Asthma
+1069,Females,Asthma,Cyprus,4.7,Asthma
+1070,Females,Asthma,Latvia,4.3,Asthma
+1071,Females,Asthma,Lithuania,3.1,Asthma
+1072,Females,Asthma,Luxembourg,7.3,Asthma
+1073,Females,Asthma,Hungary,5.6,Asthma
+1074,Females,Asthma,Malta,6.7,Asthma
+1075,Females,Asthma,Netherlands,6.5,Asthma
+1076,Females,Asthma,Austria,4.7,Asthma
+1077,Females,Asthma,Poland,4.6,Asthma
+1078,Females,Asthma,Portugal,5.9,Asthma
+1079,Females,Asthma,Romania,2.1,Asthma
+1080,Females,Asthma,Slovenia,5.4,Asthma
+1081,Females,Asthma,Slovakia,4.9,Asthma
+1082,Females,Asthma,Finland,11.0,Asthma
+1083,Females,Asthma,Sweden,9.1,Asthma
+1084,Females,Asthma,United Kingdom,10.7,Asthma
+1085,Females,Asthma,Iceland,10.8,Asthma
+1086,Females,Asthma,Norway,8.1,Asthma
+1088,Females,Chronic lower respiratory diseases (excluding asthma),European Union - 28 countries,4.3,Respiratory diseases
+1089,Females,Chronic lower respiratory diseases (excluding asthma),Belgium,4.4,Respiratory diseases
+1090,Females,Chronic lower respiratory diseases (excluding asthma),Bulgaria,5.1,Respiratory diseases
+1091,Females,Chronic lower respiratory diseases (excluding asthma),Czech Republic,2.0,Respiratory diseases
+1092,Females,Chronic lower respiratory diseases (excluding asthma),Denmark,3.0,Respiratory diseases
+1093,Females,Chronic lower respiratory diseases (excluding asthma),Germany,5.3,Respiratory diseases
+1094,Females,Chronic lower respiratory diseases (excluding asthma),Estonia,2.5,Respiratory diseases
+1095,Females,Chronic lower respiratory diseases (excluding asthma),Ireland,2.8,Respiratory diseases
+1096,Females,Chronic lower respiratory diseases (excluding asthma),Greece,2.9,Respiratory diseases
+1097,Females,Chronic lower respiratory diseases (excluding asthma),Spain,3.1,Respiratory diseases
+1098,Females,Chronic lower respiratory diseases (excluding asthma),France,6.2,Respiratory diseases
+1099,Females,Chronic lower respiratory diseases (excluding asthma),Croatia,4.2,Respiratory diseases
+1100,Females,Chronic lower respiratory diseases (excluding asthma),Italy,5.2,Respiratory diseases
+1101,Females,Chronic lower respiratory diseases (excluding asthma),Cyprus,2.4,Respiratory diseases
+1102,Females,Chronic lower respiratory diseases (excluding asthma),Latvia,5.0,Respiratory diseases
+1103,Females,Chronic lower respiratory diseases (excluding asthma),Lithuania,7.3,Respiratory diseases
+1104,Females,Chronic lower respiratory diseases (excluding asthma),Luxembourg,5.4,Respiratory diseases
+1105,Females,Chronic lower respiratory diseases (excluding asthma),Hungary,5.1,Respiratory diseases
+1106,Females,Chronic lower respiratory diseases (excluding asthma),Malta,1.5,Respiratory diseases
+1107,Females,Chronic lower respiratory diseases (excluding asthma),Netherlands,6.1,Respiratory diseases
+1108,Females,Chronic lower respiratory diseases (excluding asthma),Austria,4.4,Respiratory diseases
+1109,Females,Chronic lower respiratory diseases (excluding asthma),Poland,3.5,Respiratory diseases
+1110,Females,Chronic lower respiratory diseases (excluding asthma),Portugal,6.7,Respiratory diseases
+1111,Females,Chronic lower respiratory diseases (excluding asthma),Romania,1.7,Respiratory diseases
+1112,Females,Chronic lower respiratory diseases (excluding asthma),Slovenia,4.3,Respiratory diseases
+1113,Females,Chronic lower respiratory diseases (excluding asthma),Slovakia,3.1,Respiratory diseases
+1114,Females,Chronic lower respiratory diseases (excluding asthma),Finland,2.8,Respiratory diseases
+1115,Females,Chronic lower respiratory diseases (excluding asthma),Sweden,1.7,Respiratory diseases
+1116,Females,Chronic lower respiratory diseases (excluding asthma),United Kingdom,2.4,Respiratory diseases
+1117,Females,Chronic lower respiratory diseases (excluding asthma),Iceland,4.5,Respiratory diseases
+1118,Females,Chronic lower respiratory diseases (excluding asthma),Norway,2.5,Respiratory diseases
+1120,Females,Heart attack or chronic consequences of heart attack,European Union - 28 countries,1.1,Heart attack
+1121,Females,Heart attack or chronic consequences of heart attack,Belgium,0.8,Heart attack
+1122,Females,Heart attack or chronic consequences of heart attack,Bulgaria,1.7,Heart attack
+1123,Females,Heart attack or chronic consequences of heart attack,Czech Republic,1.2,Heart attack
+1124,Females,Heart attack or chronic consequences of heart attack,Denmark,0.6,Heart attack
+1125,Females,Heart attack or chronic consequences of heart attack,Germany,0.9,Heart attack
+1126,Females,Heart attack or chronic consequences of heart attack,Estonia,1.3,Heart attack
+1127,Females,Heart attack or chronic consequences of heart attack,Ireland,0.7,Heart attack
+1128,Females,Heart attack or chronic consequences of heart attack,Greece,1.2,Heart attack
+1129,Females,Heart attack or chronic consequences of heart attack,Spain,0.5,Heart attack
+1130,Females,Heart attack or chronic consequences of heart attack,France,0.8,Heart attack
+1131,Females,Heart attack or chronic consequences of heart attack,Croatia,1.7,Heart attack
+1132,Females,Heart attack or chronic consequences of heart attack,Italy,1.3,Heart attack
+1133,Females,Heart attack or chronic consequences of heart attack,Cyprus,1.7,Heart attack
+1134,Females,Heart attack or chronic consequences of heart attack,Latvia,1.3,Heart attack
+1135,Females,Heart attack or chronic consequences of heart attack,Lithuania,1.8,Heart attack
+1136,Females,Heart attack or chronic consequences of heart attack,Luxembourg,0.4,Heart attack
+1137,Females,Heart attack or chronic consequences of heart attack,Hungary,2.1,Heart attack
+1138,Females,Heart attack or chronic consequences of heart attack,Malta,0.7,Heart attack
+1139,Females,Heart attack or chronic consequences of heart attack,Netherlands,0.4,Heart attack
+1140,Females,Heart attack or chronic consequences of heart attack,Austria,0.6,Heart attack
+1141,Females,Heart attack or chronic consequences of heart attack,Poland,2.4,Heart attack
+1142,Females,Heart attack or chronic consequences of heart attack,Portugal,1.6,Heart attack
+1143,Females,Heart attack or chronic consequences of heart attack,Romania,1.1,Heart attack
+1144,Females,Heart attack or chronic consequences of heart attack,Slovenia,1.1,Heart attack
+1145,Females,Heart attack or chronic consequences of heart attack,Slovakia,2.1,Heart attack
+1146,Females,Heart attack or chronic consequences of heart attack,Finland,1.1,Heart attack
+1147,Females,Heart attack or chronic consequences of heart attack,Sweden,0.6,Heart attack
+1148,Females,Heart attack or chronic consequences of heart attack,United Kingdom,0.9,Heart attack
+1149,Females,Heart attack or chronic consequences of heart attack,Iceland,1.2,Heart attack
+1150,Females,Heart attack or chronic consequences of heart attack,Norway,1.0,Heart attack
+1152,Females,Coronary heart disease or angina pectoris,European Union - 28 countries,3.3,Coronary heart disease
+1153,Females,Coronary heart disease or angina pectoris,Belgium,1.2,Coronary heart disease
+1154,Females,Coronary heart disease or angina pectoris,Bulgaria,10.2,Coronary heart disease
+1155,Females,Coronary heart disease or angina pectoris,Czech Republic,4.2,Coronary heart disease
+1156,Females,Coronary heart disease or angina pectoris,Denmark,1.7,Coronary heart disease
+1157,Females,Coronary heart disease or angina pectoris,Germany,3.1,Coronary heart disease
+1158,Females,Coronary heart disease or angina pectoris,Estonia,6.8,Coronary heart disease
+1159,Females,Coronary heart disease or angina pectoris,Ireland,2.2,Coronary heart disease
+1160,Females,Coronary heart disease or angina pectoris,Greece,2.9,Coronary heart disease
+1161,Females,Coronary heart disease or angina pectoris,Spain,0.8,Coronary heart disease
+1162,Females,Coronary heart disease or angina pectoris,France,1.3,Coronary heart disease
+1163,Females,Coronary heart disease or angina pectoris,Croatia,5.6,Coronary heart disease
+1164,Females,Coronary heart disease or angina pectoris,Italy,2.4,Coronary heart disease
+1165,Females,Coronary heart disease or angina pectoris,Cyprus,0.9,Coronary heart disease
+1166,Females,Coronary heart disease or angina pectoris,Latvia,7.9,Coronary heart disease
+1167,Females,Coronary heart disease or angina pectoris,Lithuania,8.7,Coronary heart disease
+1168,Females,Coronary heart disease or angina pectoris,Luxembourg,2.3,Coronary heart disease
+1169,Females,Coronary heart disease or angina pectoris,Hungary,5.2,Coronary heart disease
+1170,Females,Coronary heart disease or angina pectoris,Malta,2.5,Coronary heart disease
+1171,Females,Coronary heart disease or angina pectoris,Netherlands,1.7,Coronary heart disease
+1172,Females,Coronary heart disease or angina pectoris,Austria,2.2,Coronary heart disease
+1173,Females,Coronary heart disease or angina pectoris,Poland,9.9,Coronary heart disease
+1174,Females,Coronary heart disease or angina pectoris,Portugal,5.3,Coronary heart disease
+1175,Females,Coronary heart disease or angina pectoris,Romania,4.1,Coronary heart disease
+1176,Females,Coronary heart disease or angina pectoris,Slovenia,3.4,Coronary heart disease
+1177,Females,Coronary heart disease or angina pectoris,Slovakia,6.6,Coronary heart disease
+1178,Females,Coronary heart disease or angina pectoris,Finland,4.7,Coronary heart disease
+1179,Females,Coronary heart disease or angina pectoris,Sweden,1.5,Coronary heart disease
+1180,Females,Coronary heart disease or angina pectoris,United Kingdom,2.5,Coronary heart disease
+1181,Females,Coronary heart disease or angina pectoris,Iceland,2.9,Coronary heart disease
+1182,Females,Coronary heart disease or angina pectoris,Norway,1.8,Coronary heart disease
+1184,Females,High blood pressure,European Union - 28 countries,21.7,High blood pressure
+1185,Females,High blood pressure,Belgium,17.3,High blood pressure
+1186,Females,High blood pressure,Bulgaria,33.0,High blood pressure
+1187,Females,High blood pressure,Czech Republic,23.9,High blood pressure
+1188,Females,High blood pressure,Denmark,17.5,High blood pressure
+1189,Females,High blood pressure,Germany,27.8,High blood pressure
+1190,Females,High blood pressure,Estonia,25.6,High blood pressure
+1191,Females,High blood pressure,Ireland,15.3,High blood pressure
+1192,Females,High blood pressure,Greece,22.5,High blood pressure
+1193,Females,High blood pressure,Spain,19.1,High blood pressure
+1194,Females,High blood pressure,France,14.9,High blood pressure
+1195,Females,High blood pressure,Croatia,26.7,High blood pressure
+1196,Females,High blood pressure,Italy,21.4,High blood pressure
+1197,Females,High blood pressure,Cyprus,16.9,High blood pressure
+1198,Females,High blood pressure,Latvia,34.8,High blood pressure
+1199,Females,High blood pressure,Lithuania,33.2,High blood pressure
+1200,Females,High blood pressure,Luxembourg,15.2,High blood pressure
+1201,Females,High blood pressure,Hungary,34.2,High blood pressure
+1202,Females,High blood pressure,Malta,21.6,High blood pressure
+1203,Females,High blood pressure,Netherlands,17.6,High blood pressure
+1204,Females,High blood pressure,Austria,21.7,High blood pressure
+1205,Females,High blood pressure,Poland,25.2,High blood pressure
+1206,Females,High blood pressure,Portugal,28.6,High blood pressure
+1207,Females,High blood pressure,Romania,21.1,High blood pressure
+1208,Females,High blood pressure,Slovenia,25.0,High blood pressure
+1209,Females,High blood pressure,Slovakia,29.0,High blood pressure
+1210,Females,High blood pressure,Finland,23.9,High blood pressure
+1211,Females,High blood pressure,Sweden,17.3,High blood pressure
+1212,Females,High blood pressure,United Kingdom,15.9,High blood pressure
+1213,Females,High blood pressure,Iceland,20.3,High blood pressure
+1214,Females,High blood pressure,Norway,12.5,High blood pressure
+1216,Females,Stroke or chronic consequences of stroke,European Union - 28 countries,1.3,Stroke
+1217,Females,Stroke or chronic consequences of stroke,Belgium,0.9,Stroke
+1218,Females,Stroke or chronic consequences of stroke,Bulgaria,2.6,Stroke
+1219,Females,Stroke or chronic consequences of stroke,Czech Republic,1.4,Stroke
+1220,Females,Stroke or chronic consequences of stroke,Denmark,1.0,Stroke
+1221,Females,Stroke or chronic consequences of stroke,Germany,1.5,Stroke
+1222,Females,Stroke or chronic consequences of stroke,Estonia,0.8,Stroke
+1223,Females,Stroke or chronic consequences of stroke,Ireland,0.6,Stroke
+1224,Females,Stroke or chronic consequences of stroke,Greece,2.1,Stroke
+1225,Females,Stroke or chronic consequences of stroke,Spain,0.7,Stroke
+1226,Females,Stroke or chronic consequences of stroke,France,1.1,Stroke
+1227,Females,Stroke or chronic consequences of stroke,Croatia,2.6,Stroke
+1228,Females,Stroke or chronic consequences of stroke,Italy,1.4,Stroke
+1229,Females,Stroke or chronic consequences of stroke,Cyprus,1.2,Stroke
+1230,Females,Stroke or chronic consequences of stroke,Latvia,1.2,Stroke
+1231,Females,Stroke or chronic consequences of stroke,Lithuania,2.7,Stroke
+1232,Females,Stroke or chronic consequences of stroke,Luxembourg,0.8,Stroke
+1233,Females,Stroke or chronic consequences of stroke,Hungary,2.1,Stroke
+1234,Females,Stroke or chronic consequences of stroke,Malta,0.4,Stroke
+1235,Females,Stroke or chronic consequences of stroke,Netherlands,0.4,Stroke
+1236,Females,Stroke or chronic consequences of stroke,Austria,0.8,Stroke
+1237,Females,Stroke or chronic consequences of stroke,Poland,1.9,Stroke
+1238,Females,Stroke or chronic consequences of stroke,Portugal,1.9,Stroke
+1239,Females,Stroke or chronic consequences of stroke,Romania,1.4,Stroke
+1240,Females,Stroke or chronic consequences of stroke,Slovenia,1.1,Stroke
+1241,Females,Stroke or chronic consequences of stroke,Slovakia,1.8,Stroke
+1242,Females,Stroke or chronic consequences of stroke,Finland,1.0,Stroke
+1243,Females,Stroke or chronic consequences of stroke,Sweden,1.2,Stroke
+1244,Females,Stroke or chronic consequences of stroke,United Kingdom,1.0,Stroke
+1245,Females,Stroke or chronic consequences of stroke,Iceland,1.0,Stroke
+1246,Females,Stroke or chronic consequences of stroke,Norway,1.3,Stroke
+1248,Females,Cirrhosis of the liver,European Union - 28 countries,0.3,Cirrhosis of the liver
+1249,Females,Cirrhosis of the liver,Belgium,0.6,Cirrhosis of the liver
+1250,Females,Cirrhosis of the liver,Bulgaria,0.3,Cirrhosis of the liver
+1251,Females,Cirrhosis of the liver,Czech Republic,0.2,Cirrhosis of the liver
+1252,Females,Cirrhosis of the liver,Denmark,0.3,Cirrhosis of the liver
+1253,Females,Cirrhosis of the liver,Germany,0.2,Cirrhosis of the liver
+1254,Females,Cirrhosis of the liver,Estonia,0.3,Cirrhosis of the liver
+1255,Females,Cirrhosis of the liver,Ireland,0.2,Cirrhosis of the liver
+1256,Females,Cirrhosis of the liver,Greece,0.3,Cirrhosis of the liver
+1257,Females,Cirrhosis of the liver,Spain,0.7,Cirrhosis of the liver
+1258,Females,Cirrhosis of the liver,France,0.1,Cirrhosis of the liver
+1259,Females,Cirrhosis of the liver,Croatia,0.4,Cirrhosis of the liver
+1260,Females,Cirrhosis of the liver,Italy,0.3,Cirrhosis of the liver
+1261,Females,Cirrhosis of the liver,Cyprus,0.1,Cirrhosis of the liver
+1262,Females,Cirrhosis of the liver,Latvia,0.6,Cirrhosis of the liver
+1263,Females,Cirrhosis of the liver,Lithuania,0.4,Cirrhosis of the liver
+1264,Females,Cirrhosis of the liver,Luxembourg,0.3,Cirrhosis of the liver
+1265,Females,Cirrhosis of the liver,Hungary,0.4,Cirrhosis of the liver
+1266,Females,Cirrhosis of the liver,Malta,0.4,Cirrhosis of the liver
+1267,Females,Cirrhosis of the liver,Netherlands,0.3,Cirrhosis of the liver
+1268,Females,Cirrhosis of the liver,Austria,0.2,Cirrhosis of the liver
+1269,Females,Cirrhosis of the liver,Poland,0.5,Cirrhosis of the liver
+1270,Females,Cirrhosis of the liver,Portugal,0.5,Cirrhosis of the liver
+1271,Females,Cirrhosis of the liver,Romania,0.4,Cirrhosis of the liver
+1272,Females,Cirrhosis of the liver,Slovenia,0.2,Cirrhosis of the liver
+1273,Females,Cirrhosis of the liver,Slovakia,0.6,Cirrhosis of the liver
+1274,Females,Cirrhosis of the liver,Finland,0.2,Cirrhosis of the liver
+1275,Females,Cirrhosis of the liver,Sweden,0.1,Cirrhosis of the liver
+1276,Females,Cirrhosis of the liver,United Kingdom,0.2,Cirrhosis of the liver
+1277,Females,Cirrhosis of the liver,Iceland,0.0,Cirrhosis of the liver
+1278,Females,Cirrhosis of the liver,Norway,0.2,Cirrhosis of the liver
+1280,Females,"Urinary incontinence, problems in controlling the bladder",European Union - 28 countries,6.5,Urinary
+1281,Females,"Urinary incontinence, problems in controlling the bladder",Belgium,5.4,Urinary
+1282,Females,"Urinary incontinence, problems in controlling the bladder",Bulgaria,2.6,Urinary
+1283,Females,"Urinary incontinence, problems in controlling the bladder",Czech Republic,5.9,Urinary
+1284,Females,"Urinary incontinence, problems in controlling the bladder",Denmark,7.4,Urinary
+1285,Females,"Urinary incontinence, problems in controlling the bladder",Germany,10.3,Urinary
+1286,Females,"Urinary incontinence, problems in controlling the bladder",Estonia,3.8,Urinary
+1287,Females,"Urinary incontinence, problems in controlling the bladder",Ireland,9.0,Urinary
+1288,Females,"Urinary incontinence, problems in controlling the bladder",Greece,4.0,Urinary
+1289,Females,"Urinary incontinence, problems in controlling the bladder",Spain,5.1,Urinary
+1290,Females,"Urinary incontinence, problems in controlling the bladder",France,7.2,Urinary
+1291,Females,"Urinary incontinence, problems in controlling the bladder",Croatia,7.2,Urinary
+1292,Females,"Urinary incontinence, problems in controlling the bladder",Italy,5.3,Urinary
+1293,Females,"Urinary incontinence, problems in controlling the bladder",Cyprus,1.9,Urinary
+1294,Females,"Urinary incontinence, problems in controlling the bladder",Latvia,12.7,Urinary
+1295,Females,"Urinary incontinence, problems in controlling the bladder",Lithuania,7.1,Urinary
+1296,Females,"Urinary incontinence, problems in controlling the bladder",Luxembourg,7.1,Urinary
+1297,Females,"Urinary incontinence, problems in controlling the bladder",Hungary,6.5,Urinary
+1298,Females,"Urinary incontinence, problems in controlling the bladder",Malta,3.8,Urinary
+1299,Females,"Urinary incontinence, problems in controlling the bladder",Netherlands,10.3,Urinary
+1300,Females,"Urinary incontinence, problems in controlling the bladder",Austria,5.2,Urinary
+1301,Females,"Urinary incontinence, problems in controlling the bladder",Poland,6.1,Urinary
+1302,Females,"Urinary incontinence, problems in controlling the bladder",Portugal,9.6,Urinary
+1303,Females,"Urinary incontinence, problems in controlling the bladder",Romania,1.3,Urinary
+1304,Females,"Urinary incontinence, problems in controlling the bladder",Slovenia,10.6,Urinary
+1305,Females,"Urinary incontinence, problems in controlling the bladder",Slovakia,5.1,Urinary
+1306,Females,"Urinary incontinence, problems in controlling the bladder",Finland,13.4,Urinary
+1307,Females,"Urinary incontinence, problems in controlling the bladder",Sweden,9.4,Urinary
+1308,Females,"Urinary incontinence, problems in controlling the bladder",United Kingdom,3.4,Urinary
+1309,Females,"Urinary incontinence, problems in controlling the bladder",Iceland,9.3,Urinary
+1310,Females,"Urinary incontinence, problems in controlling the bladder",Norway,3.1,Urinary
+1312,Females,Kidney problems,European Union - 28 countries,2.8,Kidney problems
+1313,Females,Kidney problems,Belgium,0.9,Kidney problems
+1314,Females,Kidney problems,Bulgaria,6.7,Kidney problems
+1315,Females,Kidney problems,Czech Republic,2.5,Kidney problems
+1316,Females,Kidney problems,Denmark,1.4,Kidney problems
+1317,Females,Kidney problems,Germany,2.1,Kidney problems
+1318,Females,Kidney problems,Estonia,3.0,Kidney problems
+1319,Females,Kidney problems,Ireland,4.2,Kidney problems
+1320,Females,Kidney problems,Greece,3.1,Kidney problems
+1321,Females,Kidney problems,Spain,3.0,Kidney problems
+1322,Females,Kidney problems,France,2.0,Kidney problems
+1323,Females,Kidney problems,Croatia,5.5,Kidney problems
+1324,Females,Kidney problems,Italy,3.7,Kidney problems
+1325,Females,Kidney problems,Cyprus,1.2,Kidney problems
+1326,Females,Kidney problems,Latvia,8.5,Kidney problems
+1327,Females,Kidney problems,Lithuania,6.2,Kidney problems
+1328,Females,Kidney problems,Luxembourg,3.2,Kidney problems
+1329,Females,Kidney problems,Hungary,2.2,Kidney problems
+1330,Females,Kidney problems,Malta,0.6,Kidney problems
+1331,Females,Kidney problems,Netherlands,2.1,Kidney problems
+1332,Females,Kidney problems,Austria,1.8,Kidney problems
+1333,Females,Kidney problems,Poland,4.8,Kidney problems
+1334,Females,Kidney problems,Portugal,5.4,Kidney problems
+1335,Females,Kidney problems,Romania,2.4,Kidney problems
+1336,Females,Kidney problems,Slovenia,6.2,Kidney problems
+1337,Females,Kidney problems,Slovakia,4.0,Kidney problems
+1338,Females,Kidney problems,Finland,1.4,Kidney problems
+1339,Females,Kidney problems,Sweden,1.1,Kidney problems
+1340,Females,Kidney problems,United Kingdom,1.8,Kidney problems
+1341,Females,Kidney problems,Iceland,3.1,Kidney problems
+1342,Females,Kidney problems,Norway,0.6,Kidney problems
+1344,Females,Diabetes,European Union - 28 countries,6.8,Diabetes
+1345,Females,Diabetes,Belgium,5.2,Diabetes
+1346,Females,Diabetes,Bulgaria,7.3,Diabetes
+1347,Females,Diabetes,Czech Republic,8.0,Diabetes
+1348,Females,Diabetes,Denmark,3.9,Diabetes
+1349,Females,Diabetes,Germany,6.4,Diabetes
+1350,Females,Diabetes,Estonia,6.2,Diabetes
+1351,Females,Diabetes,Ireland,3.7,Diabetes
+1352,Females,Diabetes,Greece,9.6,Diabetes
+1353,Females,Diabetes,Spain,6.4,Diabetes
+1354,Females,Diabetes,France,10.5,Diabetes
+1355,Females,Diabetes,Croatia,7.2,Diabetes
+1356,Females,Diabetes,Italy,6.6,Diabetes
+1357,Females,Diabetes,Cyprus,5.2,Diabetes
+1358,Females,Diabetes,Latvia,5.7,Diabetes
+1359,Females,Diabetes,Lithuania,5.4,Diabetes
+1360,Females,Diabetes,Luxembourg,4.2,Diabetes
+1361,Females,Diabetes,Hungary,8.1,Diabetes
+1362,Females,Diabetes,Malta,7.6,Diabetes
+1363,Females,Diabetes,Netherlands,4.9,Diabetes
+1364,Females,Diabetes,Austria,4.5,Diabetes
+1365,Females,Diabetes,Poland,6.9,Diabetes
+1366,Females,Diabetes,Portugal,9.2,Diabetes
+1367,Females,Diabetes,Romania,5.7,Diabetes
+1368,Females,Diabetes,Slovenia,6.3,Diabetes
+1369,Females,Diabetes,Slovakia,7.3,Diabetes
+1370,Females,Diabetes,Finland,6.3,Diabetes
+1371,Females,Diabetes,Sweden,4.2,Diabetes
+1372,Females,Diabetes,United Kingdom,5.0,Diabetes
+1373,Females,Diabetes,Iceland,3.7,Diabetes
+1374,Females,Diabetes,Norway,4.0,Diabetes
+1376,Females,Allergy,European Union - 28 countries,19.0,Allergy
+1377,Females,Allergy,Belgium,15.6,Allergy
+1378,Females,Allergy,Bulgaria,5.7,Allergy
+1379,Females,Allergy,Czech Republic,14.0,Allergy
+1380,Females,Allergy,Denmark,17.9,Allergy
+1381,Females,Allergy,Germany,32.3,Allergy
+1382,Females,Allergy,Estonia,10.8,Allergy
+1383,Females,Allergy,Ireland,16.1,Allergy
+1384,Females,Allergy,Greece,11.5,Allergy
+1385,Females,Allergy,Spain,16.1,Allergy
+1386,Females,Allergy,France,16.5,Allergy
+1387,Females,Allergy,Croatia,15.6,Allergy
+1388,Females,Allergy,Italy,16.0,Allergy
+1389,Females,Allergy,Cyprus,7.5,Allergy
+1390,Females,Allergy,Latvia,14.5,Allergy
+1391,Females,Allergy,Lithuania,10.0,Allergy
+1392,Females,Allergy,Luxembourg,27.4,Allergy
+1393,Females,Allergy,Hungary,15.9,Allergy
+1394,Females,Allergy,Malta,17.3,Allergy
+1395,Females,Allergy,Netherlands,21.5,Allergy
+1396,Females,Allergy,Austria,26.5,Allergy
+1397,Females,Allergy,Poland,10.4,Allergy
+1398,Females,Allergy,Portugal,23.1,Allergy
+1399,Females,Allergy,Romania,1.8,Allergy
+1400,Females,Allergy,Slovenia,19.8,Allergy
+1401,Females,Allergy,Slovakia,15.6,Allergy
+1402,Females,Allergy,Finland,36.5,Allergy
+1403,Females,Allergy,Sweden,24.4,Allergy
+1404,Females,Allergy,United Kingdom,22.5,Allergy
+1405,Females,Allergy,Iceland,25.2,Allergy
+1406,Females,Allergy,Norway,21.1,Allergy
+1408,Females,Chronic depression,European Union - 28 countries,8.8,Chronic depression
+1409,Females,Chronic depression,Belgium,8.3,Chronic depression
+1410,Females,Chronic depression,Bulgaria,4.2,Chronic depression
+1411,Females,Chronic depression,Czech Republic,4.6,Chronic depression
+1412,Females,Chronic depression,Denmark,9.4,Chronic depression
+1413,Females,Chronic depression,Germany,12.1,Chronic depression
+1414,Females,Chronic depression,Estonia,5.4,Chronic depression
+1415,Females,Chronic depression,Ireland,13.4,Chronic depression
+1416,Females,Chronic depression,Greece,6.0,Chronic depression
+1417,Females,Chronic depression,Spain,10.7,Chronic depression
+1418,Females,Chronic depression,France,7.7,Chronic depression
+1419,Females,Chronic depression,Croatia,6.2,Chronic depression
+1420,Females,Chronic depression,Italy,7.1,Chronic depression
+1421,Females,Chronic depression,Cyprus,4.7,Chronic depression
+1422,Females,Chronic depression,Latvia,11.5,Chronic depression
+1423,Females,Chronic depression,Lithuania,6.1,Chronic depression
+1424,Females,Chronic depression,Luxembourg,10.7,Chronic depression
+1425,Females,Chronic depression,Hungary,6.5,Chronic depression
+1426,Females,Chronic depression,Malta,6.5,Chronic depression
+1427,Females,Chronic depression,Netherlands,9.1,Chronic depression
+1428,Females,Chronic depression,Austria,9.5,Chronic depression
+1429,Females,Chronic depression,Poland,5.6,Chronic depression
+1430,Females,Chronic depression,Portugal,17.2,Chronic depression
+1431,Females,Chronic depression,Romania,2.0,Chronic depression
+1432,Females,Chronic depression,Slovenia,10.7,Chronic depression
+1433,Females,Chronic depression,Slovakia,5.3,Chronic depression
+1434,Females,Chronic depression,Finland,11.9,Chronic depression
+1435,Females,Chronic depression,Sweden,12.1,Chronic depression
+1436,Females,Chronic depression,United Kingdom,10.4,Chronic depression
+1437,Females,Chronic depression,Iceland,17.2,Chronic depression
+1438,Females,Chronic depression,Norway,9.0,Chronic depression

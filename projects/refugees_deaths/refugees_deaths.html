@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="robots" content="noindex">
+		<meta name="description" content="Yoana K Portfolio">
+		<meta name="author" content="Yoana Kosturska">
+
+		<title>Refugees Deaths</title>
+		<!-- external -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!-- Styles -->
+		<link rel="stylesheet" type="text/css" href="../../styles/reset.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/main.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/projects.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/colors.css">
+		<link rel="stylesheet" type="text/css" href="css/refugees_deaths_vis.css">
+	</head>
+	<body>
+		<header class="fixed">
+			<!-- put a container and give it padding and float left -->
+			<div id="header-wrapper">
+				<h1>
+				<a href="../../index.html">Yoana Kosturska <span>Portfolio</span>
+			</a>
+			</h1>
+			<!-- navigation -->
+			<nav>
+				<ul id="primary-nav">
+					<li id="projects-dropdown"><i class="fa fa-angle-down"></i>
+						<a href="projects.html">Projects</a>
+						<ul class="sub-menu">
+							<li>
+								<a href="../job_automation/job_automation.html">Job Automation</a>
+							</li>
+							<li>
+								<a href="../refugees_bg/refugees_bg.html">Refugees in Bulgaria</a>
+							</li>
+							<li>
+								<a href="../euro_diseases/euro_diseases.html">Diseases in Europe</a>
+							</li>
+							<li>
+								<a href="../life_europe/life_europe.html">Life in Europe</a>
+							</li>
+							<li>
+								<a href="../alzheimer/alzheimer.html">Alzheimer</a>
+							</li>
+							<li>
+								<a href="../refugees_deaths/refugees_deaths.html">Refugees Deaths</a>
+							</li>
+						</ul>
+					</li>
+					<li><a href="../../about.html">About</a></li>
+					<!-- <li><a href="../../contact.html">Contact</a></li> -->
+			</ul>
+		</nav>
+</div>
+</header>
+<!-- Visualization -->
+<article>
+<section id="project-vis">
+	<h2 class="project-name">Refugees' Deaths</h2>
+	<ul class="tech">
+		<li>Python</li>
+		<li>Pandas</li>
+		<li>Matplotlib</li>
+		<li>NumPy</li>
+		<li>JavaScript</li>
+		<li>D3.js</li>
+		<li>HTML5</li>
+		<li>CSS</li>
+	</ul>
+	<!-- 	<button>Python</button>
+	<button>D3.js</button>
+	<button>CSS</button>
+	<button>HTML</button>
+	<button>JavaScript</button> -->
+	<div id="visualization-wrapper">
+		<div id="visualization"></div>
+	</div>
+	
+	<div class="data-sources">
+		<p><span>Data Source: </span><a href="https://data.world/gpsdd/0d1bd261-c8f7-4b43-8f9c-95056da15859" target="_blank">https://data.world/gpsdd/0d1bd261-c8f7-4b43-8f9c-95056da15859</a></p>
+	</div>
+</section>
+<!-- Process -->
+<section class="process">
+	<h3>PROCESS</h3>
+	<h5>The Data</h5>
+	<p class="two-column-text">The data for the Refugees' Deaths project represent the tragic circumstances under which refugees and migrants died or went missing while trying to reach or while staying in Europe. The dataset includes a general as well as specific cause of death, date, location, description of the event and data source. The dataset contains more than 3000 rows, some of which involve the loss of life of multiple people, on occasions up to 800 dead or missing in a single event.</p>
+</section>
+
+<section class="process">
+	<h5>Data Analysis</h5>
+	<p class="two-column-text">
+	The first task I had was to explore the data, clean the columns I foresee using as well as dropping the unnecessary columns. While the dataset contained multiple interesting fields such as lat and long coordinates I knew that on a map the focus would be moved away from the people to the locations so I decided not to use them.
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_deaths/ss_data_cleaning.png">
+		<img src="../../images/projects/refugees_deaths/ss_drop_nan.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">Working with the clean dataset, I explored different possibilities to visualize it in Matplotlib. First, I grouped all cases by year and plotted the total amount of refugees who died or went missing by year regardless of the cause.</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_deaths/ss_bar_dead_and_missing_per_year.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">After that, I separated the total amount of refugees and grouped them per the general cause of death. This was plotted as a grouped bar chart indicating the year on the x axis, total amount of refugees on the y axis, and the different causes of death as the grouped bars.</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_deaths/ss_bar_ref_death_per_year_and_cause.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">There are two main outliers in the dataset - the cases where the cause of death is unknown and the cases where the refugees drowned. We all know about these cases as they are the most predominant ones we hear about, however, there is little information about all the other reasons why people die. I wanted to focus on those reasons, and shed some light on the many unfortunate, and sometimes cruel circumstances in which people die looking for a better and safer life.</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_deaths/ss_ref_death_by_cause.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	I then explored the different groups and type of events in a series of grouped bar charts solidifying my decision to remove the unknown and drowned categories from the D3.js visualization. I attempted to create a scatter plot but it was completely unreadable.</p>
+	<div class="process-img">
+		<img src="../../images/projects/refugees_deaths/ss_grouped_bar_violent_accidental_death.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">
+	I finally decided to create a tree map as it would allow the different main groups to be compared while the specific cause of death would also be visible. In addition, I added a tooltip that shows the number of people who died or went missing due to the specific cause.
+	</p>
+</section>
+<section class="process">
+	<h3>What is next?</h3>
+	<p class="two-column-text">I would like to further explore the dataset and focus on the path and location provided in it without loosing the human aspect. I imagine a map, showing all refugees who went missing or died at a specific location, in conjunction with the route they used when trying to reach or when they reached the location. The main known routes that refugees typically use are 11 so this can be used to enrich the visualization. I would also like to add filtering options which would allow grouping by the cause of death.</p>
+</section>
+
+<!-- Footer of the project -->
+<div id="project-footer" class="process">
+	<ul class="icons">
+		<li>
+			<a href="#"><img src="../../images/github.png"></a>
+		</li>
+		<li>
+			<a href="#"><img src="../../images/jupyter.png"></a>
+		</li>
+	</ul>
+</div>
+</article>
+<!-- Projects Grid -->
+<nav id="projects">
+<h3>MY PROJECTS</h3>
+<div id="projects-wrapper">
+	
+	<a class="fill-div" href="../../projects/job_automation/job_automation.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_automation.png">
+			<h2 class="project-title">Job Automation</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	
+	<a class="fill-div" href="../../projects/refugees_bg/refugees_bg.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_bg.png">
+			<h2 class="project-title">Refugees in Bulgaria</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/euro_diseases/euro_diseases.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_euro_diseases.png">
+			<h2 class="project-title">Diseases in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/life_europe/life_europe.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_satisfaction.png">
+			<h2 class="project-title">Life in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, jQuery, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/alzheimer/alzheimer.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_alzheimer.png">
+			<h2 class="project-title">Alzheimer</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/refugees_deaths/refugees_deaths.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_deaths.png">
+			<h2 class="project-title">Refugees Deaths</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+</div>
+</nav>
+<!-- Return to Top -->
+<div>
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+</div>
+<!-- Footer -->
+<footer id="primary-footer">
+<span id="footer-left">Contact:
+	<a href = "mailto:yoana.kosturska@gmail.com"> yoana.kosturska@gmail.com</a>
+</span>
+<small id="copyright">&copy; 2019</small>
+</footer>
+<!-- jQuery scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../../js/main.js"></script>
+<!-- d3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.min.js" integrity="sha256-+9Mf3cAVmxxudDsr1XwXUeRZFtvdWVYdq5/vcgiYyNU=" crossorigin="anonymous"></script>
+<script src="js/refugees_deaths_vis.js"></script>
+</body>
+</html>

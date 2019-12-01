@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="noindex">
+		<meta name="description" content="Yoana K Portfolio">
+		<meta name="author" content="Yoana Kosturska">
+
+		<title>Life in Europe</title>
+		<!-- external -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!-- Styles -->
+		<link rel="stylesheet" type="text/css" href="../../styles/reset.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/main.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/projects.css">
+		<link rel="stylesheet" type="text/css" href="../../styles/colors.css">
+		<link rel="stylesheet" type="text/css" href="css/life_europe_vis.css">
+	</head>
+	<body>
+		<header class="fixed">
+			<!-- put a container and give it padding and float left -->
+			<div id="header-wrapper">
+				<h1>
+				<a href="../../index.html">Yoana Kosturska <span>Portfolio</span>
+			</a>
+			</h1>
+			<!-- navigation -->
+			<nav>
+				<ul id="primary-nav">
+					<li id="projects-dropdown"><i class="fa fa-angle-down"></i>
+						<a href="projects.html">Projects</a>
+						<ul class="sub-menu">
+							<li>
+								<a href="../job_automation/job_automation.html">Job Automation</a>
+							</li>
+							<li>
+								<a href="../refugees_bg/refugees_bg.html">Refugees in Bulgaria</a>
+							</li>
+							<li>
+								<a href="../euro_diseases/euro_diseases.html">Diseases in Europe</a>
+							</li>
+							<li>
+								<a href="../life_europe/life_europe.html">Life in Europe</a>
+							</li>
+							<li>
+								<a href="../alzheimer/alzheimer.html">Alzheimer</a>
+							</li>
+							<li>
+								<a href="../refugees_deaths/refugees_deaths.html">Refugees Deaths</a>
+							</li>
+						</ul>
+					</li>
+					<li><a href="../../about.html">About</a></li>
+					<!-- <li><a href="../../contact.html">Contact</a></li> -->
+			</ul>
+		</nav>
+</div>
+</header>
+<!-- Visualization -->
+<article>
+<section id="project-vis">
+	<h2 class="project-name">Life in Europe</h2>
+	<ul class="tech">
+		<li>Python</li>
+		<li>Pandas</li>
+		<li>GeoPandas</li>
+		<li>Matplotlib</li>
+		<li>JavaScript</li>
+		<li>D3.js</li>
+		<li>jQuery</li>
+		<li>HTML5</li>
+		<li>CSS</li>
+	</ul>
+	<!-- 	<button>Python</button>
+	<button>D3.js</button>
+	<button>CSS</button>
+	<button>HTML</button>
+	<button>JavaScript</button> -->
+	<div id="visualization-wrapper">
+		<div id="visualization">
+			<h2>Life in Europe</h2>
+			<ul>
+				<li data-set='avg_hrs_worked'>Average hours worked</li>
+				<li data-set='median_income'>Income (EUR)</li>
+				<li data-set='life_expect'>Life Expectancy (Years)</li>
+				<li data-set='prct_job_satis_high'>Job Satisfaction (%)</li>
+				<li data-set='prct_life_satis_high'>Life Satisfaction (%)</li>
+			</ul>
+			<!-- 					<div id="map_title">
+					<p class="avg_hrs_worked">Average Hours Worked per week</p>
+			</div> -->
+		</div>
+		
+	</div>
+	
+	<div class="data-sources process">
+		<p><span>Data Source: </span><a href="https://data.world/theresa-tonev/project-3-euro-stats-clean" target="_blank">https://data.world/theresa-tonev/project-3-euro-stats-clean</a></p>
+	</div>
+</section>
+<!-- Process -->
+<section class="process">
+	<h3>PROCESS</h3>
+	<h5>The Data</h5>
+	<p class="two-column-text">
+	As I was looking at different datasets, I was searching for a dataset that can be represented as a map since I wanted to learn how to program geographical data in D3. I found this dataset that contains interesting statistics for 32 European countries.
+	</p>
+</section>
+<section class="process">
+	<h5>Data Analysis</h5>
+	<p class="two-column-text">
+	I first made several bar graphs to help me select the statistics I would be working with. The original dataset contained 36 indicators and I knew this would be too much to show. Some of the indicators immediately jumped out at me as there were very clear outliers and correlations.
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/job_satisfaction/ss_barh_median_income.png">
+		<img src="../../images/projects/job_satisfaction/ss_barh_young_adults.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">I was then ready to start mapping the data with GeoPandas so I merged the dataset with a <a ref="https://github.com/codeforamerica/click_that_hood/blob/master/public/data/europe.geojson" target="_blank">geojson file</a>. Once again I made maps of all the indicators and confirmed the ones I wanted to include in the D3 visualization. 
+	</p>
+	<div class="process-img">
+		<img src="../../images/projects/job_satisfaction/ss_life_satisfaction.png">
+		<img src="../../images/projects/job_satisfaction/ss_pollution.png">
+		<img src="../../images/projects/job_satisfaction/ss_data_cleaning.png">
+	</div>
+</section>
+<section class="process">
+	<p class="two-column-text">Here are some of the maps from GeoPandas that I found very interesting and some of which I later translated into D3.js. An example of a finding that was very interesting is that the countries that have higher average hours worked were also the countries that have lowest median income. These were also the countries that had the lowest life expectancy.</p>
+
+	<div class="process-img">
+		<img src="../../images/projects/job_satisfaction/avg_hrs_worked.png">
+		<img src="../../images/projects/job_satisfaction/ss_median_income.png">
+		<img src="../../images/projects/job_satisfaction/ss_life_expectancy.png">		
+	</div>
+
+	<div class="process-img">
+		<img src="../../images/projects/job_satisfaction/ss_job_satisfaction.png">
+		<img src="../../images/projects/job_satisfaction/ss_pollution.png">
+	</div>
+
+	<div class="process-img">
+		<img src="../../images/projects/job_satisfaction/ss_env_satisfaction.png ">
+		<img src="../../images/projects/job_satisfaction/ss_life_satisfaction.png">
+	</div>
+	
+</section>
+
+<section class="process">
+	<h3>What is next?</h3>
+	<p class="two-column-text">
+
+	In general I like the mapping approach for this data but I would like to come up with a way to show multiple indicators at the same time. I am not sure how to do it successfully on a map yet but it remains a project I am very interested in expanding. 
+	</p>
+</section>
+
+<!-- Footer of the project -->
+<div id="project-footer" class="process">
+	<ul class="icons">
+		<li>
+			<a href="#"><img src="../../images/github.png"></a>
+		</li>
+		<li>
+			<a href="#"><img src="../../images/jupyter.png"></a>
+		</li>
+	</ul>
+</div>
+</article>
+<!-- Projects Grid -->
+<nav id="projects">
+<h3>MY PROJECTS</h3>
+<div id="projects-wrapper">
+	
+	<a class="fill-div" href="../../projects/job_automation/job_automation.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_automation.png">
+			<h2 class="project-title">Job Automation</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	
+	<a class="fill-div" href="../../projects/refugees_bg/refugees_bg.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_bg.png">
+			<h2 class="project-title">Refugees in Bulgaria</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/euro_diseases/euro_diseases.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_euro_diseases.png">
+			<h2 class="project-title">Diseases in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/life_europe/life_europe.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_job_satisfaction.png">
+			<h2 class="project-title">Life in Europe</h2>
+			<div class="overlay">
+				<span>Python, Pandas, GeoPandas, Matplotlib, JavaScript, D3.js, jQuery, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/alzheimer/alzheimer.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_alzheimer.png">
+			<h2 class="project-title">Alzheimer</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+	<a class="fill-div" href="../../projects/refugees_deaths/refugees_deaths.html">
+		<div class="project-container">
+			<img src="../../images/thumbnails/thumb_refugees_deaths.png">
+			<h2 class="project-title">Refugees Deaths</h2>
+			<div class="overlay">
+				<span>Python, Pandas, Matplotlib, NumPy, JavaScript, D3.js, HTML5, CSS</span>
+			</div>
+		</div>
+	</a>
+</div>
+</nav>
+<!-- Return to Top -->
+<div>
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+</div>
+<!-- Footer -->
+<footer id="primary-footer">
+<span id="footer-left">Contact:
+	<a href = "mailto:yoana.kosturska@gmail.com"> yoana.kosturska@gmail.com</a>
+</span>
+<small id="copyright">&copy; 2019</small>
+</footer>
+<!-- jQuery scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../../js/main.js"></script>
+<!-- d3.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.min.js" integrity="sha256-+9Mf3cAVmxxudDsr1XwXUeRZFtvdWVYdq5/vcgiYyNU=" crossorigin="anonymous"></script>
+
+<script src="js/life_europe_vis.js"></script>
+</body>
+</html>

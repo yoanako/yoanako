@@ -1,0 +1,13 @@
+#visualization {
+	width: 100%;
+}
+
+#visualization text {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#visualization svg {
+	display: block;
+	margin: auto;
+	max-width: 72%;
+}

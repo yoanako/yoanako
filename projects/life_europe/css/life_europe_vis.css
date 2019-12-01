@@ -1,0 +1,52 @@
+#visualization-wrapper {
+	float: left;
+	width: 100%;
+}
+
+#visualization {
+	max-width: 80%;
+	margin: 0 auto;
+	margin-top: 30px;
+	color: #3b444b;
+	background: #eef1f3;
+	padding: 30px;
+}
+
+#visualization h2 {
+	font-size: 16pt;
+	font-weight: 700;
+	margin: 0 0 10px 0;
+}
+
+#visualization ul {
+	float: left;
+	margin-bottom: 20px;
+}
+
+#visualization ul li {
+	font-family: 'Open Sans', sans-serif;
+	float: left;
+	padding: 5px;
+	border: 1px solid #111;
+	background-color: #f8f8ff;
+	border-radius: 3px;
+	/*color: #72adb3;*/
+	margin: 0 3px 3px 0;
+	cursor: pointer;
+}
+
+#visualization .clicked {
+	color: #f8f8ff;
+	font-weight: 600;
+	background-color: #222;
+}
+
+
+#visualization ul li:hover {
+	opacity: 0.5;
+}
+
+#visualization svg {
+	display: block;
+	max-width: 92%;
+}

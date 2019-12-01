@@ -1,0 +1,88 @@
+/*
+  ========================================
+  Colors
+  ========================================
+*/
+
+header {
+  background-color: #23343f;
+}
+
+#return-to-top {
+  background: #23343f;
+  opacity: 1;
+}
+#return-to-top:hover {
+  background-color: #5f9ea0;
+  opacity: 0.6;
+}
+
+.active {
+  color: #fff;
+}
+
+.fa-angle-down {
+  color: #fff;
+}
+
+#primary-footer {
+  background: #23343f;
+  color: #fff;
+}
+
+#primary-footer a:link, #primary-footer a:visited {
+  color: #778899;
+  text-decoration: none
+}
+
+#projects .overlay {
+  background: #23343f;
+}
+.overlay span {
+  color: #fff;
+}
+
+.sub-menu {
+  background: #2d4148;
+}
+
+.sub-menu li {
+  /*background-color: #23343f;*/
+/*  border: 1px solid silver;
+*/
+  border-bottom: 1px solid silver;
+}
+
+#project-footer {
+    border-bottom: 1px solid #23343f;
+}
+
+
+/* unvisited link */
+header a:link, header a:visited {
+  color: #fff;
+  text-decoration: none
+}
+
+/* mouse over link */
+header a:hover {
+  color: #5f9ea0;
+}
+
+#primary-footer a:hover {
+  color: #5f9ea0;
+}
+
+a:hover {
+  color: #5f9ea0;
+}
+
+a {
+  color: #23343f;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #23343f;
+}
+

@@ -1,0 +1,129 @@
+#visualization-wrapper {
+	float: left;
+	width: 100%;
+	background: #222;
+}
+
+#visualization {
+	max-width: 100%;
+	float: left;
+}
+
+
+#visualization h2 {
+	font-size: 21pt;
+	color: white;
+	padding-top: 35px;
+	text-align: center;
+}
+
+
+#center {
+	width: 93%;
+	margin: 0 auto;
+	padding: 0 5% 20px 10%;
+
+}
+
+
+@media (max-width: 560px) {
+	#center {
+		max-width: 100%;
+		padding: 0 0px 20px 0px;
+	}
+	#visualization h2 {
+		text-align: left;
+	}
+}
+
+@media (max-width: 960px) {
+	#center {
+		max-width: 100%;
+		margin: 0 auto;
+		padding: 0 0px 20px 5%;
+
+	}
+
+	#visualization h2 {
+		text-align: left;
+	}
+}
+
+@media (max-width: 1280px) {
+	#center {
+		max-width: 90%;
+		margin: 0 auto;
+	}
+}
+
+
+/*subsections*/
+#visualization #center div {
+	float: left;
+	margin: 20px 0 20px 0;
+	margin-bottom: 50px;
+}
+
+#visualization .axis path, line {
+	stroke: #999;
+}
+#visualization .axis text {
+	fill: #999;
+}
+
+
+table {
+	table-layout: fixed;
+	width: 70%;
+	margin: 0 auto;
+	margin-bottom: 80px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt;
+}
+
+
+th {
+	background: #292929;
+	border: 1px solid #ccc;
+	text-align: left;
+	color: #F5F5F5;
+	font-weight: bold;
+	padding: 6px;
+}
+
+td, tr {
+	padding: 6px;
+	border: 1px solid #ccc;
+	text-align: left;
+	color: #F5F5F5;
+	background: #3d3d3d;
+}
+
+#visualization h4 {
+	color: #fff;
+	font-weight: 300;
+	font-size: 14pt;
+	border-bottom: 1px solid #555;
+	padding: 0 0 15px 0;
+}
+
+
+#special_cases {
+	display: block;
+	float: left;
+	width: 67%;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-top: 1px solid #ddd;
+	padding-top: 5px;
+	font-size: 9pt;
+}
+
+#special_cases span {
+	font-weight: 600;
+}
+
+#special_cases a {
+	text-decoration: none;
+	color: #778899;
+}

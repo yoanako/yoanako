@@ -1,0 +1,32 @@
+/* visualization */
+#visualization-wrapper {
+	background: #222;
+	color: #fff;
+
+}
+
+#visualization {
+	width: 100%;
+	padding: 75px 0 50px 0;
+}
+
+
+#visualization svg {
+	display: block;
+	margin: auto;
+	max-width: 62%;
+}
+
+
+/* Scatter plot bubbles */
+
+.dot {
+	stroke-width: 1px;
+	/*stroke: #1b1b1b;*/
+	stroke: #fff;
+	opacity: 0.7;
+}
+
+.dot:hover {
+	opacity: 1;
+}
