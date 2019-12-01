@@ -335,7 +335,7 @@ header h1 span {
   margin: 10px auto;
   margin-bottom: 40px;
   margin-top: 100px;
-  width: 75%;
+  width: 500px;
 }
 
 #contact li {
@@ -354,6 +354,16 @@ header h1 span {
   margin: 0 auto;
   margin-bottom: 5px;
 }
+
+@media screen and (max-width: 568px) {
+  #contact {
+    width: 100%;
+    margin-left: 25%;
+  }
+}
+
+
+
 
 /* About page */
 .about {
