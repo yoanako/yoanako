@@ -180,7 +180,7 @@ d3.json('data/refugees_deaths_2.json').then(function(data) {
         .append("text")
         .attr("x", 0)
         .attr("y", 14)
-        .text("Refeguee Deaths Between 2000 and 2016 years")
+        .text("Refugee Deaths Between 2000 and 2016 years")
         .attr("font-size", "19px")
         .attr("fill", "grey")
 

@@ -23,7 +23,7 @@ svg.append('text')
     .attr('y', -10)
     .style('fill', '#fff')
     .style('font-size', '18pt')
-    .text('Job Automation');
+    .text('Probability of losing your job to computers');
 
 // Add axis titles
 svg.append('text')
